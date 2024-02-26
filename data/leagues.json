@@ -1,0 +1,32 @@
+[
+    {
+        "league_name" : "Premier League",
+        "country": "England",
+        "governing_body": "FAPL",
+        "founded": 1992
+    },
+    {
+        "league_name" : "Bundesliga",
+        "country": "Germany",
+        "governing_body": "DFB",
+        "founded": 1962
+    },
+    {        
+        "league_name" : "La Liga",
+        "country": "Spain",
+        "governing_body": "LFP",
+        "founded": 1929
+    },
+    {
+        "league_name" : "Serie A",
+        "country": "Italy",
+        "governing_body": "UEFA",
+        "founded": 1898
+    },
+    {
+        "league_name" : "Ligue 1",
+        "country": "France",
+        "governing_body": "LFP",
+        "founded": 1932
+    }
+]
