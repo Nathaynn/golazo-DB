@@ -3,36 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 from time import sleep
 import json
-"""
-with open('./data/leagues.json', 'r') as f:
-    leagues = json.loads(f.read())
-url = "https://fbref.com/en/"
 
-driver = webdriver.Chrome()
-driver.get(url)      
-
-# get leagues + their corresponding team
-drop_league_button = Select(driver.find_element(By.NAME, 'league_val'))
-
-arr_of_teams = []
-
-for i in leagues:
-    drop_league_button.select_by_visible_text(i["league_name"])
-
-    drop_club_button = driver.find_element(By.ID, 'team_choice')
-
-    clubs = [x.get_attribute('innerHTML') for x in drop_club_button.find_elements(By.TAG_NAME, 'option')]
-    clubs.pop(0)
-    for j in clubs:
-        x = {'league_name': i}
-        x['team_name'] = j
-        arr_of_teams.append(x)
-
-# arr_of_teams = [{league_name: name, team_name: name_2}, ...]
-# needs city, stadium, and year of founding
-
-sleep(10)
-"""
 def open_json(file_path):
     with open(file_path, 'r') as f:
         json_file = json.loads(f.read())
@@ -51,7 +22,7 @@ def full_season(season):
         season = f'20{season}/{str(num_season)}'
     return season
 
-def gather_player_data(url, driver, season):
+def get_season_link(url, driver, season):
     open_url(url, driver)
     seasons_menu = driver.find_element(By.ID, 'page')
     seasons_menu = seasons_menu.find_element(By.CLASS_NAME, 'combo')
@@ -64,22 +35,58 @@ def gather_player_data(url, driver, season):
             value = i.get_attribute('value')
             break
     value = '-' + season[0:4] + '-20' + season[5:7] + '/' + value
-    link = 'https://www.playmakerstats.com/edition/' + value
-    open_url(link, driver)
+    return 'https://www.playmakerstats.com/edition/' + value
 
-    # website will change to full stats page for a given season, go to each team and record data
-    sleep(2)
+# assume URL is from get_season_link
+def team_data(url, driver):
+    open_url(url, driver)
+    cool_team_stuff = []
+    team_table = driver.find_element(By.ID, 'page').find_element(By.ID,'edition_table').find_element(By.TAG_NAME, 'tbody').find_elements(By.TAG_NAME, 'tr')
 
-# leagues
-premier = "https://www.playmakerstats.com/competition/premier-league"
-liga = "https://www.playmakerstats.com/competition/la-liga"
-serie = "https://www.playmakerstats.com/competition/serie-a"
-bundesliga_1 = "https://www.playmakerstats.com/competition/1-bundesliga"
-bundesliga_2 = "https://www.playmakerstats.com/competition/2-bundesliga"
-league_urls = [premier, liga, serie, bundesliga_1, bundesliga_2]
+    for i in team_table:
+        i = i.find_element(By.CLASS_NAME, 'text').find_element(By.TAG_NAME, 'a')
+        team_name = i.get_attribute('innerHTML')
+        href_link = i.get_attribute('href')
+        driver.execute_script("window.open('https://www.google.com')")
+        driver.switch_to.window(driver.window_handles[1])
+        driver.get(href_link)
+        # page change -> team stats for season
+        team_elements = driver.find_element(By.ID, "page").find_element(By.CLASS_NAME, 'zz-enthdr-info').find_element(By.CLASS_NAME, 'info')
+        team_foo = team_elements.find_elements(By.TAG_NAME, 'span')
+        for j in team_foo:
+            team_cy = team_elements.text.replace(j.text, "").split()
+        city_cutoff = team_cy.index('established')
+        team_city = ''
+        for j in range(city_cutoff):
+            if team_city == '':
+                team_city = f'{team_cy[0]}'
+            team_city = f'{team_city} {team_cy[j]}'
+        team_year = int(team_cy[city_cutoff + 2])
+        # go back to original page and append data
+        team_dict= {}
+        team_dict['Team Name'] = team_name
+        team_dict['Team City'] = team_city
+        team_dict['Team Founded'] = team_year
+        cool_team_stuff.append(team_dict)
+        print(team_dict)
+        driver.close()
+        driver.switch_to.window(driver.window_handles[0])
+        sleep(2)
 
-# web stuff
-driver = webdriver.Chrome()
+        
+    
 
-gather_player_data(league_urls[0], driver, '21')
-print('nice')
+if __name__ == '__main__':
+    # leagues
+    premier = "https://www.playmakerstats.com/competition/premier-league"
+    liga = "https://www.playmakerstats.com/competition/la-liga"
+    serie = "https://www.playmakerstats.com/competition/serie-a"
+    bundesliga_1 = "https://www.playmakerstats.com/competition/1-bundesliga"
+    bundesliga_2 = "https://www.playmakerstats.com/competition/2-bundesliga"
+    league_urls = [premier, liga, serie, bundesliga_1, bundesliga_2]
+
+    # web stuff
+    driver = webdriver.Chrome()
+
+    x = get_season_link(league_urls[0], driver, '21')
+    team_data(x, driver)
