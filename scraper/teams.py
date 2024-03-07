@@ -2,12 +2,6 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 from time import sleep
-import json
-
-def open_json(file_path):
-    with open(file_path, 'r') as f:
-        json_file = json.loads(f.read())
-    return json_file
 
 def open_url(url, driver):
     driver.get(url)
@@ -41,6 +35,12 @@ def get_season_link(url, driver, season):
 
 # assume URL is from get_season_link
 def team_data(url, driver):
+    l_name = driver.find_element(By.ID, 'page').find_element(By.CLASS_NAME, 'zz-enthdr-data').find_element(By.TAG_NAME, 'span')
+    l_name = l_name.get_attribute('innerHTML')
+    if '20' in l_name:
+        l_name = l_name[0:l_name.find('20')-1]
+    else:
+        l_name = l_name[0:l_name.find('19')-1]
     open_url(url, driver)
     cool_team_stuff = []
     team_table = driver.find_element(By.ID, 'page').find_element(By.ID,'edition_table').find_element(By.TAG_NAME, 'tbody').find_elements(By.TAG_NAME, 'tr')
@@ -57,28 +57,42 @@ def team_data(url, driver):
         team_foo = team_elements.find_elements(By.TAG_NAME, 'span')
         for j in team_foo:
             team_cy = team_elements.text.replace(j.text, "").split()
+
         city_cutoff = team_cy.index('established')
         team_city = ''
         for j in range(city_cutoff):
             if team_city == '':
                 team_city = f'{team_cy[0]}'
             team_city = f'{team_city} {team_cy[j]}'
+
         team_year = int(team_cy[city_cutoff + 2])
+        stad = driver.find_element(By.ID, 'page').find_element(By.CLASS_NAME, 'faq').find_element(By.CLASS_NAME, 'text')
+        stad = stad.get_attribute('innerHTML').split()
+        stadium_cutoff = stad.index('is')
+        team_stadium = ''
+        for j in range(stadium_cutoff):
+            if team_stadium == '':
+                team_stadium = stad[0]
+            else:
+                team_stadium += " " + stad[j]
+            
         # go back to original page and append data
         team_dict= {}
+        team_dict['Team League'] = l_name
         team_dict['Team Name'] = team_name
         team_dict['Team City'] = team_city
         team_dict['Team Founded'] = team_year
+        team_dict['Team Stadium'] = team_stadium
         cool_team_stuff.append(team_dict)
         print(team_dict)
         driver.close()
         driver.switch_to.window(driver.window_handles[0])
-        sleep(2)
 
         
     
 
 if __name__ == '__main__':
+    
     # leagues
     premier = "https://www.playmakerstats.com/competition/premier-league"
     liga = "https://www.playmakerstats.com/competition/la-liga"
@@ -92,3 +106,4 @@ if __name__ == '__main__':
 
     x = get_season_link(league_urls[0], driver, '21')
     team_data(x, driver)
+    
