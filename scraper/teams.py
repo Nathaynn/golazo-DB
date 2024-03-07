@@ -18,6 +18,8 @@ def full_season(season):
     num_season = int(season) + 1
     if num_season < 10:
         season = f'20{season}/0{str(num_season)}'
+    elif num_season > 30:
+        season = f'19{season}/{str(num_season)}'
     else:
         season = f'20{season}/{str(num_season)}'
     return season
