@@ -42,8 +42,21 @@ def league_player_data(url, driver):
                     player_stuff['Player Position'] = position
                     players.append(player_stuff)
         driver.close()
-        driver.swith_to.window(driver.window_handles[0])
+        driver.switch_to.window(driver.window_handles[0])
 
 # data for a SINGLE player
 def player_data(url, driver):
-    pass
+    # open player tab 
+    driver.execute_script('window.open(https://www.google.com)')
+    current_window = driver.current_window_handle
+    player_window = len(driver.window_handles) - 1
+    driver.switch_to.window(driver.window_handles[player_window])
+    driver.get(url)
+
+
+
+
+    # close tab and go back to current tab
+    driver.close()
+    driver.switch_to.window(driver.current_window)
+
