@@ -27,6 +27,7 @@ def league_player_data(url, driver):
 
         # locate each squad player
         # each box seperates the goalkeepers, defenders, midfielders, and forwards
+        player_history= []
         players = []
         squad_table = driver.find_element(By.ID, 'page').find_element(By.ID, 'team_squad').find_elements(By.CLASS_NAME, 'innerbox')
         for j in squad_table:
@@ -36,8 +37,17 @@ def league_player_data(url, driver):
                 staff = g.find_elements(By.CLASS_NAME, 'staff')
                 # quadruple loop :O
                 for y in staff:
-                    player = staff.find_element(By.TAG_NAME, 'a')
+                    player = y.find_element(By.TAG_NAME, 'a')
                     player_link = player.get_attribute('href')
+
+                    # player history
+                    hist = {}
+                    hist['Player Name'] = y.find_element(By.TAG_NAME, 'a').get_attribute('innerHTML')
+                    hist['Team Name'] = team_id
+                    hist['Player Number'] = y.find_element(By.CLASS_NAME, 'number').get_attribute('innerHTML')
+                    hist['Season Year'] = (Select(driver.find_element(By.ID, 'page').find_element(By.TAG_NAME, 'form').find_element(By.TAG_NAME, 'select'))).first_selected_option.get_attribute('innerHTML')[0:4]
+                    player_history.append(hist)
+
                     player_stuff = player_data(player_link, driver)                    
                     player_stuff['Player Position'] = position
                     players.append(player_stuff)
@@ -46,17 +56,18 @@ def league_player_data(url, driver):
 
 # data for a SINGLE player
 def player_data(url, driver):
-    # open player tab 
+    # store current tab and go to player tab
     driver.execute_script('window.open(https://www.google.com)')
     current_window = driver.current_window_handle
     player_window = len(driver.window_handles) - 1
     driver.switch_to.window(driver.window_handles[player_window])
     driver.get(url)
 
+    # everything else goes here
+    
 
 
-
-    # close tab and go back to current tab
+    # close tab and go back to original tab
     driver.close()
     driver.switch_to.window(driver.current_window)
 
