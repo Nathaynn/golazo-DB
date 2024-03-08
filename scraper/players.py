@@ -26,9 +26,22 @@ def league_player_data(url, driver):
         driver.get(href)
 
         # locate each squad player
-        squad_table = driver.find_element(By.ID, 'page').find_element(By.ID, 'team_squad')
-
-
+        # each box seperates the goalkeepers, defenders, midfielders, and forwards
+        players = []
+        squad_table = driver.find_element(By.ID, 'page').find_element(By.ID, 'team_squad').find_elements(By.CLASS_NAME, 'innerbox')
+        for j in squad_table:
+            position = j.find_element(By.CLASS_NAME, 'title').get_attribute('innerHTML')
+            staff_lines = j.find_elements(By.CLASS_NAME, 'staff_line')
+            for g in staff_lines:
+                staff = g.find_elements(By.CLASS_NAME, 'staff')
+                # quadruple loop :O
+                for y in staff:
+                    player = staff.find_element(By.TAG_NAME, 'a')
+                    player_link = player.get_attribute('href')
+                    player_stuff = player_data(player_link, driver)                    
+                    player_stuff['Player Position'] = position
+                    players.append(player_stuff)
+        
 
 # data for a SINGLE player
 def player_data(url, driver):
