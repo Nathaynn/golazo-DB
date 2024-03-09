@@ -1,11 +1,8 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import Select
-from time import sleep
 
 def open_url(url, driver):
     driver.get(url)
-    sleep(2)
 
 # example, input is the year 22, which represents the 2022/23 season
 def full_season(season):

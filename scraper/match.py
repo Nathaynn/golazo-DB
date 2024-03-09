@@ -1,13 +1,8 @@
 from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import Select
 from selenium.webdriver import ActionChains
-from selenium.webdriver.common.actions.action_builder import ActionBuilder
-from selenium.webdriver.common.actions.mouse_button import MouseButton
-from time import sleep
 from teams import open_url
-import json
 
 
 def season_match_data(url, driver):
@@ -51,6 +46,8 @@ def season_match_data(url, driver):
                 break
 
         # go to select and pick league of focus
+        # IDK WHY I NEED 2, IT JUST WORKS LIKE THAT FOR SOME REASON (PROBABLY BECAUSE OF ADS AND I AM TOO LAZY TO ADD A ADBLOCKER, WILL PROBABLY BREAK EVERYTHING FOR
+        # SOMEONE ELSES COMPUTER!!!)
         ActionChains(driver).click(driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[2].find_element(By.TAG_NAME, 'div')).perform()
         ActionChains(driver).click(driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[2].find_element(By.TAG_NAME, 'div')).perform()
         type_area = driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[2].find_element(By.CLASS_NAME, 'chosen-search').find_element(By.TAG_NAME, 'input')  
@@ -60,24 +57,23 @@ def season_match_data(url, driver):
                 type_area.send_keys(focus_league)
                 type_area.send_keys(Keys.ENTER)
                 break
-        sleep(10)
+
         # page loaded and now do cool stuff
         while next_link_condition:
-            game_table = driver.find_element(By.ID, 'page').find_element(By.ID, 'team_games').find_element(By.TAG_NAME, 'tbody').find_elements(By.TAG_NAME, 'tr')
+            game_table = driver.find_element(By.ID, 'page').find_elements(By.ID, 'team_games')[1].find_element(By.TAG_NAME, 'tbody').find_elements(By.TAG_NAME, 'tr')
             for j in game_table:
                 game_date = j.find_element(By.CLASS_NAME, 'double').get_attribute('innerHTML')
                 league_name = focus_league
                 season_year = focus_year
                 home_condition = j.find_elements(By.TAG_NAME, 'td')[3].get_attribute('innerHTML')
-                other_team = j.find_elements(By.TAG_NAME, 'td')[4].get_attribute('innerHTML')
+                other_team = j.find_elements(By.TAG_NAME, 'td')[4].find_element(By.TAG_NAME, 'a').get_attribute('innerHTML')
                 if home_condition == '(A)':
                     home = other_team
                     away = team_name
                 else:
                     home = team_name
                     away = other_team
-                score = j.find_element(By.CLASS_NAME, 'result').get_attribute('innerHTML')
-                score = [*score]
+                score = j.find_element(By.CLASS_NAME, 'result').find_element(By.TAG_NAME, 'a').get_attribute('innerHTML')
                 for g in range(len(score)):
                     if score[g] == '-':
                         home_score = score[0:g]
@@ -86,6 +82,7 @@ def season_match_data(url, driver):
                 # COULDNT FIND ATTENDANCE ANYWHERE :(
                 full_match = {'Home Team': home, 'Away Team': away, 'Home Score': home_score, 'Away Score': away_score, 'Game Date': game_date, 
                 'League': league_name, 'Season': season_year}
+                print(full_match)
                 if full_match not in league_matches:
                     league_matches.append(full_match)
             try:
