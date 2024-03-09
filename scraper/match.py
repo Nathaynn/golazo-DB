@@ -36,13 +36,14 @@ def season_match_data(url, driver):
         driver.get(href)
         href = driver.find_element(By.ID, 'page').find_element(By.CLASS_NAME, 'zz-enthdr-bottom').find_element(By.CLASS_NAME, 'h2').find_elements(By.TAG_NAME, 'span')[2].find_element(By.TAG_NAME, 'a').get_attribute('href')
         # year of the matches
+        
         focus_year = driver.find_element(By.ID, 'page').find_element(By.CLASS_NAME, 'chosen-single').find_element(By.TAG_NAME, 'span').get_attribute('innerHTML')
         driver.get(href)
+
         # go to select and pick the year of focus
         ActionChains(driver).click(driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[4].find_element(By.TAG_NAME, 'div')).perform()
         options = driver.find_element(By.ID, 'page').find_element(By.ID, 'team_filters').find_elements(By.TAG_NAME, 'label')[4].find_element(By.CLASS_NAME, 'chosen-drop').find_element(By.TAG_NAME, 'ul').find_elements(By.CLASS_NAME, 'active-result')
         type_area = driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[4].find_element(By.CLASS_NAME, 'chosen-search').find_element(By.TAG_NAME, 'input')
-
         for p in options:
             if p.get_attribute('innerHTML') == focus_year:
                 type_area.send_keys(focus_year)
@@ -51,16 +52,15 @@ def season_match_data(url, driver):
 
         # go to select and pick league of focus
         ActionChains(driver).click(driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[2].find_element(By.TAG_NAME, 'div')).perform()
+        ActionChains(driver).click(driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[2].find_element(By.TAG_NAME, 'div')).perform()
         type_area = driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[2].find_element(By.CLASS_NAME, 'chosen-search').find_element(By.TAG_NAME, 'input')  
-
         options = driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[2].find_element(By.TAG_NAME, 'ul').find_elements(By.TAG_NAME, 'li')
         for p in options:
             if p.text == focus_league:
-                type_area = driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[2].find_element(By.CLASS_NAME, 'chosen-search').find_element(By.TAG_NAME, 'input')  
                 type_area.send_keys(focus_league)
                 type_area.send_keys(Keys.ENTER)
                 break
-        
+        sleep(10)
         # page loaded and now do cool stuff
         while next_link_condition:
             game_table = driver.find_element(By.ID, 'page').find_element(By.ID, 'team_games').find_element(By.TAG_NAME, 'tbody').find_elements(By.TAG_NAME, 'tr')
