@@ -26,7 +26,10 @@ def league_player_data(url, driver):
         # each box seperates the goalkeepers, defenders, midfielders, and forwards
         player_history= []
         players = []
+        manager_history = []
+        managers = []
         squad_table = driver.find_element(By.ID, 'page').find_element(By.ID, 'team_squad').find_elements(By.CLASS_NAME, 'innerbox')
+        manager_table = driver.find_element(By.ID, 'page').find_element(By.ID, 'team_staff').find_element(By.CLASS_NAME, 'staff_line').find_element(By.CLASS_NAME, 'text').find_element(By.TAG_NAME, 'a')
         for j in squad_table:
             position = j.find_element(By.CLASS_NAME, 'title').get_attribute('innerHTML')
             staff_lines = j.find_elements(By.CLASS_NAME, 'staff_line')
@@ -42,19 +45,30 @@ def league_player_data(url, driver):
                     hist['Player Name'] = y.find_element(By.CLASS_NAME, 'text').find_element(By.TAG_NAME, 'a').get_attribute('innerHTML')
                     hist['Team Name'] = team_id
                     hist['Player Number'] = y.find_element(By.CLASS_NAME, 'number').get_attribute('innerHTML')
-                    hist['Season Year'] = (Select(driver.find_element(By.ID, 'page').find_element(By.TAG_NAME, 'form').find_element(By.TAG_NAME, 'select'))).first_selected_option.get_attribute('innerHTML')[0:4]
+                    hist['Season Year'] = (Select(driver.find_element(By.ID, 'page').find_element(By.TAG_NAME, 'form').find_element(By.TAG_NAME, 'select'))).first_selected_option.get_attribute('innerHTML')
                     player_history.append(hist)
 
                     player_stuff = player_data(player_link, driver)                    
                     player_stuff['Player Position'] = position
                     players.append(player_stuff)
+
                     # debugging
                     print(player_stuff)
                     print(hist)
-
+        manager_link = manager_table.get_attribute('href')
+        manager_stuff = manager_data(manager_link, driver)
+        managers.append(manager_stuff)
+        manager_hist = {}
+        manager_hist['Team Name'] = team_id 
+        manager_hist['Manager Name'] = f'{manager_stuff['Manager Fname']} {manager_stuff['Manager Lname']}'
+        manager_hist['Season Year'] = (Select(driver.find_element(By.ID, 'page').find_element(By.TAG_NAME, 'form').find_element(By.TAG_NAME, 'select'))).first_selected_option.get_attribute('innerHTML')
+        manager_history.append(manager_hist)
+        print(manager_stuff)
+        print(manager_hist)
         driver.close()
         driver.switch_to.window(driver.window_handles[0])
-
+    driver.quit()
+    return [player_history, players, manager_history, managers]
 
 # data for a SINGLE player
 def player_data(url, driver):
@@ -107,6 +121,41 @@ def player_data(url, driver):
     driver.switch_to.window(current_window)
     return {'Player Fname': player_fname, 'Player Lname': player_lname, 'Player Age': player_age, 'Player Height': player_height, 'Player Weight': player_weight, 'Player Nationality': player_nationality}
 
+def manager_data(url, driver):
+    driver.execute_script("window.open('https://www.google.com')")
+    current_window = driver.current_window_handle
+    player_window = len(driver.window_handles) - 1
+    driver.switch_to.window(driver.window_handles[player_window])
+    driver.get(url)
+
+    important_stuff = ['Name', 'Nationality', 'Born/Age']
+    bio = driver.find_element(By.ID, 'entity_bio')
+    bios = bio.find_elements(By.CLASS_NAME, 'bio')
+    bios += bio.find_elements(By.CLASS_NAME, 'bio_half')
+    manager_fname = ''
+    manager_lname = ''
+    manager_age = 0
+    manager_nationality = ''
+    for i in bios:
+        try:
+            span = i.find_element(By.TAG_NAME, 'span').get_attribute('innerHTML')
+        except:
+            continue
+        if span in important_stuff:
+            if span == 'Name':
+                temp_name = i.get_attribute('innerHTML').replace('<span>Name</span>', "")
+                temp_name = temp_name.split()
+                manager_fname = temp_name[0]
+                manager_lname = temp_name[-1]
+            elif span == 'Nationality':
+                manager_nationality = i.find_element(By.CLASS_NAME, 'text').get_attribute('innerHTML')
+            elif span == 'Born/Age':
+                temp_age = i.find_element(By.CLASS_NAME, 'small').get_attribute('innerHTML')[1:]
+                temp_age = temp_age.split()
+                manager_age = int(temp_age[0])
+    driver.close()
+    driver.switch_to.window(current_window)
+    return {'Manager Fname': manager_fname, 'Manager Lname': manager_lname, 'Manager Age': manager_age, 'Player Nationality': manager_nationality}
 
 driver = webdriver.Chrome()
 x = league_player_data('https://www.playmakerstats.com/edition/premier-league-2022-2023/165592', driver)

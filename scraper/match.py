@@ -95,5 +95,5 @@ def season_match_data(url, driver):
         # finish collecting match data for a team
 
 driver = webdriver.Chrome()
-season_match_data("https://www.playmakerstats.com/edition/premier-league-2022-2023/165592", driver)
+season_match_data("https://www.playmakerstats.com/edition/serie-a-2021-2022/156515", driver)
 
