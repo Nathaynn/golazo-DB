@@ -84,10 +84,12 @@ def team_data(url, driver):
         print(team_dict)
         driver.close()
         driver.switch_to.window(driver.window_handles[0])
+    driver.quit()
+    return cool_team_stuff
 
         
     
-
+"""
 if __name__ == '__main__':
     
     # leagues
@@ -95,12 +97,11 @@ if __name__ == '__main__':
     liga = "https://www.playmakerstats.com/competition/la-liga"
     serie = "https://www.playmakerstats.com/competition/serie-a"
     bundesliga_1 = "https://www.playmakerstats.com/competition/1-bundesliga"
-    bundesliga_2 = "https://www.playmakerstats.com/competition/2-bundesliga"
-    league_urls = [premier, liga, serie, bundesliga_1, bundesliga_2]
+    league_urls = [premier, liga, serie, bundesliga_1]
 
     # web stuff
     driver = webdriver.Chrome()
 
     x = get_season_link(league_urls[0], driver, '21')
     team_data(x, driver)
-    
+"""

@@ -157,6 +157,7 @@ def manager_data(url, driver):
     driver.switch_to.window(current_window)
     return {'Manager Fname': manager_fname, 'Manager Lname': manager_lname, 'Manager Age': manager_age, 'Player Nationality': manager_nationality}
 
+"""
 driver = webdriver.Chrome()
 x = league_player_data('https://www.playmakerstats.com/edition/premier-league-2022-2023/165592', driver)
-
+"""

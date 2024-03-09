@@ -82,6 +82,7 @@ def season_match_data(url, driver):
                 # COULDNT FIND ATTENDANCE ANYWHERE :(
                 full_match = {'Home Team': home, 'Away Team': away, 'Home Score': home_score, 'Away Score': away_score, 'Game Date': game_date, 
                 'League': league_name, 'Season': season_year}
+                # debugging
                 print(full_match)
                 if full_match not in league_matches:
                     league_matches.append(full_match)
@@ -92,8 +93,10 @@ def season_match_data(url, driver):
                 next_link_condition = False
         driver.close()
         driver.switch_to.window(driver.window_handles[0])
-        # finish collecting match data for a team
+    driver.quit()
+    return league_matches
 
+"""
 driver = webdriver.Chrome()
 season_match_data("https://www.playmakerstats.com/edition/serie-a-2021-2022/156515", driver)
-
+"""
