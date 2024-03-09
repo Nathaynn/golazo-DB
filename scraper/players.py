@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 from time import sleep
-from teams import open_url, get_season_link
+from teams import open_url
 import json
 
 # get data for every team within a league + season
