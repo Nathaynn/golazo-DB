@@ -1,3 +1,4 @@
+from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
@@ -48,6 +49,7 @@ def team_data(url, driver):
         href_link = i.get_attribute('href')
         driver.execute_script("window.open('https://www.google.com')")
         driver.switch_to.window(driver.window_handles[1])
+        sleep(1)
         driver.get(href_link)
         # page change -> team stats for season
         team_elements = driver.find_element(By.ID, "page").find_element(By.CLASS_NAME, 'zz-enthdr-info').find_element(By.CLASS_NAME, 'info')
@@ -81,6 +83,7 @@ def team_data(url, driver):
         team_dict['Team Founded'] = team_year
         team_dict['Team Stadium'] = team_stadium
         cool_team_stuff.append(team_dict)
+        # debugging
         print(team_dict)
         driver.close()
         driver.switch_to.window(driver.window_handles[0])
