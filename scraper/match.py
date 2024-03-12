@@ -1,3 +1,4 @@
+from time import sleep
 from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -7,7 +8,18 @@ from teams import open_url
 
 def season_match_data(url, driver):
     open_url(url, driver)
+    sleep(2)
+    
+    # handle adblocker window
+    chld = driver.window_handles[1]
+    driver.switch_to.window(chld)
+    driver.close()
+    current_tab=driver.window_handles[0]
+    driver.switch_to.window(current_tab)
+    sleep(2)
 
+    # go back to orignal tab
+    driver.execute_script("window.stop();")
     team_table = driver.find_element(By.ID, 'page').find_element(By.ID,'edition_table').find_element(By.TAG_NAME, 'tbody').find_elements(By.TAG_NAME, 'tr')
 
     focus_league = driver.find_element(By.ID, 'page').find_element(By.CLASS_NAME, 'zz-enthdr-data').find_element(By.TAG_NAME, 'span')
@@ -46,8 +58,7 @@ def season_match_data(url, driver):
                 break
 
         # go to select and pick league of focus
-        # IDK WHY I NEED 2, IT JUST WORKS LIKE THAT FOR SOME REASON (PROBABLY BECAUSE OF ADS AND I AM TOO LAZY TO ADD A ADBLOCKER, WILL PROBABLY BREAK EVERYTHING FOR
-        # SOMEONE ELSES COMPUTER!!!)
+        # no matter what, this only works with 2 clicks, i'm not sure why but yeah
         ActionChains(driver).click(driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[2].find_element(By.TAG_NAME, 'div')).perform()
         ActionChains(driver).click(driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[2].find_element(By.TAG_NAME, 'div')).perform()
         type_area = driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[2].find_element(By.CLASS_NAME, 'chosen-search').find_element(By.TAG_NAME, 'input')  
@@ -60,9 +71,17 @@ def season_match_data(url, driver):
 
         # page loaded and now do cool stuff
         while next_link_condition:
-            game_table = driver.find_element(By.ID, 'page').find_elements(By.ID, 'team_games')[1].find_element(By.TAG_NAME, 'tbody').find_elements(By.TAG_NAME, 'tr')
+            # for some reason, the website likes to have two different team_games elements on the first page of matches, afterwards only 1 exists
+            try:
+                game_table = driver.find_element(By.ID, 'page').find_elements(By.ID, 'team_games')[1].find_element(By.TAG_NAME, 'tbody').find_elements(By.TAG_NAME, 'tr')
+            except:
+                game_table = driver.find_element(By.ID, 'page').find_elements(By.ID, 'team_games')[0].find_element(By.TAG_NAME, 'tbody').find_elements(By.TAG_NAME, 'tr')
             for j in game_table:
-                game_date = j.find_element(By.CLASS_NAME, 'double').get_attribute('innerHTML')
+                # some tables aren't a game and instead padding, so if error occurs just ignore the element and go to next
+                try:
+                    game_date = j.find_element(By.CLASS_NAME, 'double').get_attribute('innerHTML')
+                except:
+                    continue
                 league_name = focus_league
                 season_year = focus_year
                 home_condition = j.find_elements(By.TAG_NAME, 'td')[3].get_attribute('innerHTML')
@@ -89,14 +108,16 @@ def season_match_data(url, driver):
             try:
                 next_page = driver.find_element(By.ID, 'page').find_element(By.CLASS_NAME, 'next-link').get_attribute('href')
                 driver.get(next_page)
+                sleep(2)
             except:
                 next_link_condition = False
         driver.close()
         driver.switch_to.window(driver.window_handles[0])
     driver.quit()
     return league_matches
-
 """
-driver = webdriver.Chrome()
+chop = webdriver.ChromeOptions()
+chop.add_extension('./adblock/Adblock.crx')
+driver = webdriver.Chrome(chop)
 season_match_data("https://www.playmakerstats.com/edition/serie-a-2021-2022/156515", driver)
 """

@@ -17,12 +17,14 @@ def full_season(season):
     return season
 
 def get_season_link(url, driver, season):
+    # open website
     open_url(url, driver)
+
+    # select season
     seasons_menu = driver.find_element(By.ID, 'page')
     seasons_menu = seasons_menu.find_element(By.CLASS_NAME, 'combo')
     seasons_menu = seasons_menu.find_element(By.ID, 'id_edicao')
 
-    # came across issue with select and options, so settled with creating the link instead
     season = full_season(season)
     for i in seasons_menu.find_elements(By.TAG_NAME, 'option'):
         if i.get_attribute('innerHTML') == season:
@@ -40,6 +42,18 @@ def team_data(url, driver):
     else:
         l_name = l_name[0:l_name.find('19')-1]
     open_url(url, driver)
+    sleep(2)
+    
+    # handle adblocker window
+    chld = driver.window_handles[1]
+    driver.switch_to.window(chld)
+    driver.close()
+    current_tab=driver.window_handles[0]
+    driver.switch_to.window(current_tab)
+    sleep(2)
+
+    # go back to orignal tab
+    driver.execute_script("window.stop();")
     cool_team_stuff = []
     team_table = driver.find_element(By.ID, 'page').find_element(By.ID,'edition_table').find_element(By.TAG_NAME, 'tbody').find_elements(By.TAG_NAME, 'tr')
 
@@ -91,7 +105,6 @@ def team_data(url, driver):
     return cool_team_stuff
 
         
-    
 """
 if __name__ == '__main__':
     
@@ -103,7 +116,9 @@ if __name__ == '__main__':
     league_urls = [premier, liga, serie, bundesliga_1]
 
     # web stuff
-    driver = webdriver.Chrome()
+    chop = webdriver.ChromeOptions()
+    chop.add_extension('./adblock/Adblock.crx')
+    driver = webdriver.Chrome(chop)
 
     x = get_season_link(league_urls[0], driver, '21')
     team_data(x, driver)

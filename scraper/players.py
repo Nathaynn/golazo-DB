@@ -2,11 +2,20 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 from teams import open_url
+from time import sleep
 
 # get data for every team within a league + season
 
 def league_player_data(url, driver):
     open_url(url, driver)
+    sleep(2)
+        
+    # handle adblocker window
+    chld = driver.window_handles[1]
+    driver.switch_to.window(chld)
+    driver.close()
+    current_tab=driver.window_handles[0]
+    driver.switch_to.window(current_tab)
 
     # table full of each team
     team_table = driver.find_element(By.ID, 'page').find_element(By.ID,'edition_table').find_element(By.TAG_NAME, 'tbody').find_elements(By.TAG_NAME, 'tr')
@@ -42,14 +51,14 @@ def league_player_data(url, driver):
 
                     # player history
                     hist = {}
-                    hist['Player Name'] = y.find_element(By.CLASS_NAME, 'text').find_element(By.TAG_NAME, 'a').get_attribute('innerHTML')
                     hist['Team Name'] = team_id
                     hist['Player Number'] = y.find_element(By.CLASS_NAME, 'number').get_attribute('innerHTML')
                     hist['Season Year'] = (Select(driver.find_element(By.ID, 'page').find_element(By.TAG_NAME, 'form').find_element(By.TAG_NAME, 'select'))).first_selected_option.get_attribute('innerHTML')
-                    player_history.append(hist)
 
                     player_stuff = player_data(player_link, driver)                    
                     player_stuff['Player Position'] = position
+                    hist['Player Name'] = f'{player_stuff['Player Fname']} {player_stuff['Player Lname']}'
+                    player_history.append(hist)
                     players.append(player_stuff)
 
                     # debugging

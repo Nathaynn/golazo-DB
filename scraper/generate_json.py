@@ -3,8 +3,6 @@ from players import *
 from match import *
 import json
 import os
-from selenium.webdriver.chrome.options import Options
-
 
 if __name__ == '__main__':
         
@@ -15,7 +13,8 @@ if __name__ == '__main__':
     bundesliga_1 = "https://www.playmakerstats.com/competition/1-bundesliga"
     ligue_1 = "https://www.playmakerstats.com/competition/ligue-1"
     league_urls = [premier, liga, serie, bundesliga_1, ligue_1]
-
+    # for debugging
+    league_urls = [premier]
     # parameters
     season_of_interest = '20'
     chop = webdriver.ChromeOptions()
@@ -29,13 +28,18 @@ if __name__ == '__main__':
         driver = webdriver.Chrome(chop)
         league_season = get_season_link(i, driver, season_of_interest)
         team_stuff.append(team_data(league_season, driver))
-        driver = webdriver.Chrome(chrome_options = chop)
+        driver = webdriver.Chrome(chop)
         player_stuff.append(league_player_data(league_season, driver))
-        driver = webdriver.Chrome(chrome_options = chop)
+        driver = webdriver.Chrome(chop)
         match_stuff.append(season_match_data(league_season, driver))
 
     # make directory for jsons
-    dir_path = f'./data/{full_season(season_of_interest)}'
+    dir_path = f'./data/{full_season(season_of_interest)[0:4]}'
+    try:
+        os.mkdir('./data')
+    except:
+        print('data folder already exists!')
+
     try:
         os.mkdir(dir_path)
         f = open(f'{dir_path}/players.json', 'x')
@@ -65,7 +69,7 @@ if __name__ == '__main__':
     
     json_stuff = json.dumps(x, indent=4)
     with open(f'{dir_path}/teams.json', 'w') as file:
-        file.write(x)
+        file.write(json_stuff)
         file.close()
     
     # match.json
@@ -76,7 +80,7 @@ if __name__ == '__main__':
     
     json_stuff = json.dumps(x, indent=4)
     with open(f'{dir_path}/match.json', 'w') as file:
-        file.write(x)
+        file.write(json_stuff)
         file.close()
 
     # players.json
@@ -87,7 +91,7 @@ if __name__ == '__main__':
 
     json_stuff = json.dumps(x, indent=4)
     with open(f'{dir_path}/players.json', 'w') as file:
-        file.write(x)
+        file.write(json_stuff)
         file.close()
 
     # managers.json
@@ -104,7 +108,10 @@ if __name__ == '__main__':
     # player_ids.json
     x = {}
     file = open('./data/player_ids.json', 'r')
-    data = json.loads(file)
+    try:
+        data = json.load(file)
+    except:
+        data = ''
     file.close()
     if data == "":
         player_id = 1001
@@ -116,7 +123,7 @@ if __name__ == '__main__':
         x = json.dumps(x, indent=4)
     else:
         names = list(data.keys())
-        player_id = max(list(data.values()))
+        player_id = max(list(data.values())) + 1
         for i in player_stuff:
             for j in i[1]:
                 player_name = f'{j['Player Fname']} {j['Player Lname']}'
@@ -126,14 +133,17 @@ if __name__ == '__main__':
         data.update(x)
         x = json.dumps(data, indent=4)
 
-    with open(f'{dir_path}/../player_ids.json', 'w') as file:
+    with open(f'./data/player_ids.json', 'w') as file:
         file.write(x)
         file.close()
 
     # manager_ids.json
     x = {}
     file = open('./data/manager_ids.json', 'r')
-    data = json.loads(file)
+    try:
+        data = json.load(file)
+    except:
+        data = ''
     file.close()
     if data == "":
         manager_id = 1
@@ -145,7 +155,7 @@ if __name__ == '__main__':
         x = json.dumps(x, indent=4)
     else:
         names = list(data.keys())
-        manager_id = max(list(data.values()))
+        manager_id = max(list(data.values())) + 1
         for i in player_stuff:
             for j in i[3]:
                 manager_name = f'{j['Manager Fname']} {j['Mangaer Lname']}'
@@ -164,22 +174,25 @@ if __name__ == '__main__':
     # Player_history.json
     x = []
     file = open('./data/player_ids.json', 'r')
-    data_id = json.loads(file)
+    data_id = json.load(file)
     file.close()
     file = open('./data/player_history.json', 'r')
-    data_history = json.loads(file)
+    try:
+        data_history = json.loads(file)
+    except:
+        data_history = ''
     file.close()
 
     for i in player_stuff:
         for j in i[0]:
             j['Player ID'] = data_id[j['Player Name']]
-            del j['Player Name']
             x.append(j)
 
     if data_history != "":
         data = data_history + x
     else:
         data = x
+
     x = json.dumps(data, indent=4)
     with open(f'{dir_path}/../player_history.json', 'w') as file:
         file.write(x)
@@ -191,21 +204,23 @@ if __name__ == '__main__':
     data_id = json.loads(file)
     file.close()
     file = open('./data/manager_history.json', 'r')
-    data_history = json.loads(file)
+    try:
+        data_history = json.loads(file)
+    except:
+        data_history = ''    
     file.close()
 
     for i in player_stuff:
         for j in i[2]:
             j['Manager ID'] = data_id[j['Manager Name']]
-            del j['Manager Name']
             x.append(j)
 
     if data_history != "":
         data = data_history + x
     else:
         data = x
+        
     x = json.dumps(data, indent=4)
     with open(f'{dir_path}/../manager_history.json', 'w') as file:
         file.write(x)
         file.close()
-
