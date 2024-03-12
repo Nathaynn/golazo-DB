@@ -35,15 +35,9 @@ def get_season_link(url, driver, season):
 
 # assume URL is from get_season_link
 def team_data(url, driver):
-    l_name = driver.find_element(By.ID, 'page').find_element(By.CLASS_NAME, 'zz-enthdr-data').find_element(By.TAG_NAME, 'span')
-    l_name = l_name.get_attribute('innerHTML')
-    if '20' in l_name:
-        l_name = l_name[0:l_name.find('20')-1]
-    else:
-        l_name = l_name[0:l_name.find('19')-1]
     open_url(url, driver)
     sleep(2)
-    
+
     # handle adblocker window
     chld = driver.window_handles[1]
     driver.switch_to.window(chld)
@@ -51,6 +45,15 @@ def team_data(url, driver):
     current_tab=driver.window_handles[0]
     driver.switch_to.window(current_tab)
     sleep(2)
+
+    # other stuff
+    l_name = driver.find_element(By.ID, 'page').find_element(By.CLASS_NAME, 'zz-enthdr-data').find_element(By.TAG_NAME, 'span')
+    l_name = l_name.get_attribute('innerHTML')
+    if '20' in l_name:
+        l_name = l_name[0:l_name.find('20')-1]
+    else:
+        l_name = l_name[0:l_name.find('19')-1]
+
 
     # go back to orignal tab
     driver.execute_script("window.stop();")
@@ -76,7 +79,8 @@ def team_data(url, driver):
         for j in range(city_cutoff):
             if team_city == '':
                 team_city = f'{team_cy[0]}'
-            team_city = f'{team_city} {team_cy[j]}'
+            else:
+                team_city = f'{team_city} {team_cy[j]}'
 
         team_year = int(team_cy[city_cutoff + 2])
         stad = driver.find_element(By.ID, 'page').find_element(By.CLASS_NAME, 'faq').find_element(By.CLASS_NAME, 'text')

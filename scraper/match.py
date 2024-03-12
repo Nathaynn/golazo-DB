@@ -49,6 +49,9 @@ def season_match_data(url, driver):
 
         # go to select and pick the year of focus
         ActionChains(driver).click(driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[4].find_element(By.TAG_NAME, 'div')).perform()
+        ActionChains(driver).click(driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[4].find_element(By.TAG_NAME, 'div')).perform()
+        sleep(1)
+
         options = driver.find_element(By.ID, 'page').find_element(By.ID, 'team_filters').find_elements(By.TAG_NAME, 'label')[4].find_element(By.CLASS_NAME, 'chosen-drop').find_element(By.TAG_NAME, 'ul').find_elements(By.CLASS_NAME, 'active-result')
         type_area = driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[4].find_element(By.CLASS_NAME, 'chosen-search').find_element(By.TAG_NAME, 'input')
         for p in options:
@@ -59,8 +62,9 @@ def season_match_data(url, driver):
 
         # go to select and pick league of focus
         # no matter what, this only works with 2 clicks, i'm not sure why but yeah
-        ActionChains(driver).click(driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[2].find_element(By.TAG_NAME, 'div')).perform()
-        ActionChains(driver).click(driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[2].find_element(By.TAG_NAME, 'div')).perform()
+        ActionChains(driver).click(driver.find_element(By.ID, 'page').find_elements(By.CLASS_NAME, 'chosen-single')[2].find_element(By.TAG_NAME, 'div')).perform()
+        ActionChains(driver).click(driver.find_element(By.ID, 'page').find_elements(By.CLASS_NAME, 'chosen-single')[2].find_element(By.TAG_NAME, 'div')).perform()
+        sleep(1)
         type_area = driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[2].find_element(By.CLASS_NAME, 'chosen-search').find_element(By.TAG_NAME, 'input')  
         options = driver.find_element(By.ID, 'page').find_elements(By.TAG_NAME, 'label')[2].find_element(By.TAG_NAME, 'ul').find_elements(By.TAG_NAME, 'li')
         for p in options:

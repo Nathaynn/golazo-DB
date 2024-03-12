@@ -14,8 +14,8 @@ if __name__ == '__main__':
     serie = "https://www.playmakerstats.com/competition/serie-a"
     bundesliga_1 = "https://www.playmakerstats.com/competition/1-bundesliga"
     ligue_1 = "https://www.playmakerstats.com/competition/ligue-1"
-    league_urls = [premier, liga, serie, bundesliga_1, ligue_1]
-
+    league_urls = [serie, bundesliga_1, liga, premier]
+    league_urls = [premier]
     # for debugging
     # league_urls = [premier]
 
@@ -25,6 +25,10 @@ if __name__ == '__main__':
     chop.add_extension('./adblock/Adblock.crx')
     # saved my life, hides the browser so now i can use computer 
     chop.add_argument('--headless=new')
+    matches_settings = webdriver.ChromeOptions()
+    matches_settings.add_extension('./adblock/Adblock.crx')
+
+    
     team_stuff = []
     player_stuff = []
     match_stuff = []
@@ -36,13 +40,16 @@ if __name__ == '__main__':
 
     # args
     for i in league_urls:
+        
         driver = webdriver.Chrome(chop)
         league_season = get_season_link(i, driver, season_of_interest)
+
+        driver = webdriver.Chrome(matches_settings)
+        match_stuff.append(season_match_data(league_season, driver))
+        driver = webdriver.Chrome(chop)
         team_stuff.append(team_data(league_season, driver))
         driver = webdriver.Chrome(chop)
         player_stuff.append(league_player_data(league_season, driver))
-        driver = webdriver.Chrome(chop)
-        match_stuff.append(season_match_data(league_season, driver))
 
     # make directory for jsons
     dir_path = f'./data/{full_season(season_of_interest)[0:4]}'
@@ -87,7 +94,8 @@ if __name__ == '__main__':
     x = []
     for i in match_stuff: 
         for j in i:
-            x.append(j)
+            if j['Home Team'] != '' or j['Away Team'] != '':
+                x.append(j)
     
     json_stuff = json.dumps(x, indent=4)
     with open(f'{dir_path}/match.json', 'w') as file:
