@@ -119,7 +119,11 @@ def generate_all_playerstuff():
     close_json(file_ph)
 
     for i in data_ph:
-        player_statements += gen_player_history_insert(i['Player ID'], i['Team Name'], i['Season Year'].replace("/", "-"), i['Player Number']) + '\n'
+        try:
+            num = int(i['Player Number'])
+        except:
+            num = 0
+        player_statements += gen_player_history_insert(i['Player ID'], i['Team Name'], i['Season Year'].replace("/", "-"), num) + '\n'
     
     return player_statements
 
