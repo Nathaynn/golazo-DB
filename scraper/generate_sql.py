@@ -219,7 +219,7 @@ def generate_all_teamstuff():
 def cool_stuff():
     temp = ''
     temp += generate_all_teamstuff()
-    temp += generate_all_matchstuff
+    temp += generate_all_matchstuff()
     temp += generate_all_managerstuff()
     temp += generate_all_playerstuff()
 
