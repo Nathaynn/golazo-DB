@@ -17,7 +17,6 @@ if __name__ == '__main__':
     league_urls = [serie, bundesliga_1, liga, premier]
     league_urls = [premier]
     # for debugging
-    # league_urls = [premier]
 
     # parameters
     season_of_interest = '20'
@@ -220,11 +219,11 @@ if __name__ == '__main__':
     # manger_history.json
     x = []
     file = open('./data/manager_ids.json', 'r')
-    data_id = json.loads(file)
+    data_id = json.load(file)
     file.close()
     file = open('./data/manager_history.json', 'r')
     try:
-        data_history = json.loads(file)
+        data_history = json.load(file)
     except:
         data_history = ''    
     file.close()

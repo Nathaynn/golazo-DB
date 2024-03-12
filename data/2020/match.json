@@ -1,0 +1,3422 @@
+[
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Everton",
+        "Home Score": "5",
+        "Away Score": "0",
+        "Game Date": "2021-05-23",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "Manchester City",
+        "Home Score": "3",
+        "Away Score": "2",
+        "Game Date": "2021-05-18",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Manchester City",
+        "Home Score": "3",
+        "Away Score": "4",
+        "Game Date": "2021-05-14",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Chelsea",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-05-08",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "Manchester City",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2021-05-01",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Manchester City",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-04-21",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Leeds United",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-04-10",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "Manchester City",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2021-04-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "Manchester City",
+        "Home Score": "0",
+        "Away Score": "3",
+        "Game Date": "2021-03-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Southampton",
+        "Home Score": "5",
+        "Away Score": "2",
+        "Game Date": "2021-03-10",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Manchester United",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2021-03-07",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Wolverhampton",
+        "Home Score": "4",
+        "Away Score": "1",
+        "Game Date": "2021-03-02",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "West Ham",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2021-02-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Manchester City",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-02-21",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "Manchester City",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2021-02-17",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Tottenham",
+        "Home Score": "3",
+        "Away Score": "0",
+        "Game Date": "2021-02-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Manchester City",
+        "Home Score": "1",
+        "Away Score": "4",
+        "Game Date": "2021-02-07",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Manchester City",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2021-02-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Sheffield United",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-01-30",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Manchester City",
+        "Home Score": "0",
+        "Away Score": "5",
+        "Game Date": "2021-01-26",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Aston Villa",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2021-01-20",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Crystal Palace",
+        "Home Score": "4",
+        "Away Score": "0",
+        "Game Date": "2021-01-17",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-01-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Manchester City",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2021-01-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Newcastle",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2020-12-26",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Manchester City",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2020-12-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "West Bromwich",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-12-15",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "Manchester City",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2020-12-12",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Fulham",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2020-12-05",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Burnley",
+        "Home Score": "5",
+        "Away Score": "0",
+        "Game Date": "2020-11-28",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "Manchester City",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2020-11-21",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Liverpool",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-11-08",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "Manchester City",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2020-10-31",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Manchester City",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-10-24",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Arsenal",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2020-10-17",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "Manchester City",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-10-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Leicester City",
+        "Home Score": "2",
+        "Away Score": "5",
+        "Game Date": "2020-09-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "Manchester City",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2020-09-21",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "Manchester United",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-05-23",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "Fulham",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-05-18",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "Liverpool",
+        "Home Score": "2",
+        "Away Score": "4",
+        "Game Date": "2021-05-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "Leicester City",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-05-11",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Manchester United",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2021-05-09",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "Manchester United",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-04-25",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "Burnley",
+        "Home Score": "3",
+        "Away Score": "1",
+        "Game Date": "2021-04-18",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "Manchester United",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2021-04-11",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2021-04-04",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "West Ham",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-03-14",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "Manchester United",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-03-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Manchester United",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-02-28",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "Newcastle",
+        "Home Score": "3",
+        "Away Score": "1",
+        "Game Date": "2021-02-21",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Manchester United",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-02-14",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "Everton",
+        "Home Score": "3",
+        "Away Score": "3",
+        "Game Date": "2021-02-06",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "Southampton",
+        "Home Score": "9",
+        "Away Score": "0",
+        "Game Date": "2021-02-02",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Manchester United",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-01-30",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "Sheffield United",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-01-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "Manchester United",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-01-20",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Manchester United",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-01-17",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Manchester United",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-01-12",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "Aston Villa",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2021-01-01",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "Wolverhampton",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2020-12-29",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "Manchester United",
+        "Home Score": "2",
+        "Away Score": "2",
+        "Game Date": "2020-12-26",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "Leeds United",
+        "Home Score": "6",
+        "Away Score": "2",
+        "Game Date": "2020-12-20",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "Manchester United",
+        "Home Score": "2",
+        "Away Score": "3",
+        "Game Date": "2020-12-17",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Manchester United",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2020-12-05",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Manchester United",
+        "Home Score": "2",
+        "Away Score": "3",
+        "Game Date": "2020-11-29",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "West Bromwich",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2020-11-21",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "Manchester United",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2020-11-07",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "Arsenal",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2020-11-01",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "Chelsea",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2020-10-24",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Manchester United",
+        "Home Score": "1",
+        "Away Score": "4",
+        "Game Date": "2020-10-17",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "Tottenham",
+        "Home Score": "1",
+        "Away Score": "6",
+        "Game Date": "2020-10-04",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "Manchester United",
+        "Home Score": "2",
+        "Away Score": "3",
+        "Game Date": "2020-09-26",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Manchester United",
+        "Away Team": "Crystal Palace",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2020-09-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Crystal Palace",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2021-05-23",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Liverpool",
+        "Home Score": "0",
+        "Away Score": "3",
+        "Game Date": "2021-05-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Liverpool",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-05-16",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Southampton",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2021-05-08",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Newcastle",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-04-24",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "Liverpool",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-04-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Aston Villa",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2021-04-10",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Liverpool",
+        "Home Score": "0",
+        "Away Score": "3",
+        "Game Date": "2021-04-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "Liverpool",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-03-15",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Fulham",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-03-07",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Chelsea",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-03-04",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "Liverpool",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2021-02-28",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Everton",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2021-02-20",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "Liverpool",
+        "Home Score": "3",
+        "Away Score": "1",
+        "Game Date": "2021-02-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-02-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Liverpool",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2021-01-31",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "Liverpool",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2021-01-28",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Burnley",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-01-21",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Liverpool",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-01-04",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Liverpool",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2020-12-30",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "West Bromwich",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-12-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "Liverpool",
+        "Home Score": "0",
+        "Away Score": "7",
+        "Game Date": "2020-12-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Tottenham",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2020-12-16",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "Liverpool",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-12-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Wolverhampton",
+        "Home Score": "4",
+        "Away Score": "0",
+        "Game Date": "2020-12-06",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "Liverpool",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-11-28",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Leicester City",
+        "Home Score": "3",
+        "Away Score": "0",
+        "Game Date": "2020-11-22",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "West Ham",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2020-10-31",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Sheffield United",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2020-10-24",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "Liverpool",
+        "Home Score": "2",
+        "Away Score": "2",
+        "Game Date": "2020-10-17",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Liverpool",
+        "Home Score": "7",
+        "Away Score": "2",
+        "Game Date": "2020-10-04",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Arsenal",
+        "Home Score": "3",
+        "Away Score": "1",
+        "Game Date": "2020-09-28",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Liverpool",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2020-09-20",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Leeds United",
+        "Home Score": "4",
+        "Away Score": "3",
+        "Game Date": "2020-09-12",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Chelsea",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2021-05-23",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Leicester City",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2021-05-18",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Arsenal",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-05-12",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Fulham",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2021-05-01",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Chelsea",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-04-24",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-04-20",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "Chelsea",
+        "Home Score": "1",
+        "Away Score": "4",
+        "Game Date": "2021-04-10",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "West Bromwich",
+        "Home Score": "2",
+        "Away Score": "5",
+        "Game Date": "2021-04-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "Chelsea",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-03-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Everton",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2021-03-08",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Chelsea",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-02-20",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Newcastle",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2021-02-15",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "Chelsea",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-02-07",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "Chelsea",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-02-04",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Burnley",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2021-01-31",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Wolverhampton",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-01-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "Chelsea",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2021-01-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "Chelsea",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-01-16",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Aston Villa",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-12-28",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Chelsea",
+        "Home Score": "3",
+        "Away Score": "1",
+        "Game Date": "2020-12-26",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "West Ham",
+        "Home Score": "3",
+        "Away Score": "0",
+        "Game Date": "2020-12-21",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "Chelsea",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2020-12-15",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "Chelsea",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2020-12-12",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Leeds United",
+        "Home Score": "3",
+        "Away Score": "1",
+        "Game Date": "2020-12-05",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Tottenham",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2020-11-29",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Chelsea",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2020-11-21",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Sheffield United",
+        "Home Score": "4",
+        "Away Score": "1",
+        "Game Date": "2020-11-07",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Chelsea",
+        "Home Score": "0",
+        "Away Score": "3",
+        "Game Date": "2020-10-31",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Southampton",
+        "Home Score": "3",
+        "Away Score": "3",
+        "Game Date": "2020-10-17",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Crystal Palace",
+        "Home Score": "4",
+        "Away Score": "0",
+        "Game Date": "2020-10-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Chelsea",
+        "Home Score": "3",
+        "Away Score": "3",
+        "Game Date": "2020-09-26",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "Chelsea",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2020-09-14",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "Tottenham",
+        "Home Score": "2",
+        "Away Score": "4",
+        "Game Date": "2021-05-23",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "Newcastle",
+        "Home Score": "2",
+        "Away Score": "4",
+        "Game Date": "2021-05-07",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Leicester City",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-04-30",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "Crystal Palace",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2021-04-26",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "West Bromwich",
+        "Home Score": "3",
+        "Away Score": "0",
+        "Game Date": "2021-04-22",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Leicester City",
+        "Home Score": "3",
+        "Away Score": "2",
+        "Game Date": "2021-04-11",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "Sheffield United",
+        "Home Score": "5",
+        "Away Score": "0",
+        "Game Date": "2021-03-14",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "Leicester City",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-03-06",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Leicester City",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-03-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "Arsenal",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2021-02-28",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Leicester City",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-02-21",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "Leicester City",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-02-07",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "Leicester City",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2021-02-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "Leeds United",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2021-01-31",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "Leicester City",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-01-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "Southampton",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2021-01-16",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Leicester City",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-01-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "Leicester City",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-12-28",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "Leicester City",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2020-12-20",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "Everton",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2020-12-16",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "3",
+        "Away Score": "0",
+        "Game Date": "2020-12-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "Leicester City",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2020-12-06",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "Fulham",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2020-11-30",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "Wolverhampton",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2020-11-08",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "Leicester City",
+        "Home Score": "1",
+        "Away Score": "4",
+        "Game Date": "2020-11-02",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Leicester City",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2020-10-25",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "Aston Villa",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2020-10-18",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "West Ham",
+        "Home Score": "0",
+        "Away Score": "3",
+        "Game Date": "2020-10-04",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leicester City",
+        "Away Team": "Burnley",
+        "Home Score": "4",
+        "Away Score": "2",
+        "Game Date": "2020-09-20",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Leicester City",
+        "Home Score": "0",
+        "Away Score": "3",
+        "Game Date": "2020-09-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Southampton",
+        "Home Score": "3",
+        "Away Score": "0",
+        "Game Date": "2021-05-23",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "West Ham",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2021-05-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "West Ham",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-05-15",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Everton",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-05-09",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "West Ham",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-05-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "West Ham",
+        "Home Score": "3",
+        "Away Score": "2",
+        "Game Date": "2021-04-17",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "West Ham",
+        "Home Score": "2",
+        "Away Score": "3",
+        "Game Date": "2021-04-05",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Arsenal",
+        "Home Score": "3",
+        "Away Score": "3",
+        "Game Date": "2021-03-21",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Leeds United",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2021-03-08",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Tottenham",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2021-02-21",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Sheffield United",
+        "Home Score": "3",
+        "Away Score": "0",
+        "Game Date": "2021-02-15",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "West Ham",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-02-06",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "West Ham",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2021-02-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "West Ham",
+        "Home Score": "2",
+        "Away Score": "3",
+        "Game Date": "2021-01-26",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "West Bromwich",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2021-01-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Burnley",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-01-16",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "West Ham",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-01-01",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "West Ham",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2020-12-29",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "2",
+        "Away Score": "2",
+        "Game Date": "2020-12-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Crystal Palace",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-12-16",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "West Ham",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2020-12-11",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Aston Villa",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2020-11-30",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "West Ham",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2020-11-22",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Fulham",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2020-11-07",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "West Ham",
+        "Home Score": "3",
+        "Away Score": "3",
+        "Game Date": "2020-10-18",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Wolverhampton",
+        "Home Score": "4",
+        "Away Score": "0",
+        "Game Date": "2020-09-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "West Ham",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2020-09-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Newcastle",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2020-09-12",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "Aston Villa",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-05-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "Wolverhampton",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2021-05-16",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "Tottenham",
+        "Home Score": "3",
+        "Away Score": "1",
+        "Game Date": "2021-05-08",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "Sheffield United",
+        "Home Score": "4",
+        "Away Score": "0",
+        "Game Date": "2021-05-02",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "Southampton",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2021-04-21",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "Tottenham",
+        "Home Score": "2",
+        "Away Score": "2",
+        "Game Date": "2021-04-16",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Tottenham",
+        "Home Score": "2",
+        "Away Score": "2",
+        "Game Date": "2021-04-04",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Tottenham",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2021-03-21",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Tottenham",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2021-03-14",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "Crystal Palace",
+        "Home Score": "4",
+        "Away Score": "1",
+        "Game Date": "2021-03-07",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "Tottenham",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-03-04",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "Burnley",
+        "Home Score": "4",
+        "Away Score": "0",
+        "Game Date": "2021-02-28",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "West Bromwich",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2021-02-07",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "Tottenham",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-01-31",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "Tottenham",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2021-01-17",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "Fulham",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-01-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "Leeds United",
+        "Home Score": "3",
+        "Away Score": "0",
+        "Game Date": "2021-01-02",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "Tottenham",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-12-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "Tottenham",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-12-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "Arsenal",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2020-12-06",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Tottenham",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2020-11-08",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2020-11-01",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Tottenham",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2020-10-26",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "Newcastle",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-09-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Tottenham",
+        "Home Score": "2",
+        "Away Score": "5",
+        "Game Date": "2020-09-20",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Tottenham",
+        "Away Team": "Everton",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2020-09-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2021-05-23",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "Arsenal",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2021-05-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "West Bromwich",
+        "Home Score": "3",
+        "Away Score": "1",
+        "Game Date": "2021-05-09",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Arsenal",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2021-05-02",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Everton",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-04-23",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Fulham",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-04-18",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "Arsenal",
+        "Home Score": "0",
+        "Away Score": "3",
+        "Game Date": "2021-04-11",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Arsenal",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-03-06",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Leeds United",
+        "Home Score": "4",
+        "Away Score": "2",
+        "Game Date": "2021-02-14",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Arsenal",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-02-06",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "Arsenal",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2021-02-02",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Arsenal",
+        "Home Score": "1",
+        "Away Score": "3",
+        "Game Date": "2021-01-26",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Newcastle",
+        "Home Score": "3",
+        "Away Score": "0",
+        "Game Date": "2021-01-18",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Crystal Palace",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-01-14",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Arsenal",
+        "Home Score": "0",
+        "Away Score": "4",
+        "Game Date": "2021-01-02",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "Arsenal",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2020-12-29",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "Arsenal",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2020-12-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Southampton",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-12-16",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Burnley",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2020-12-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Wolverhampton",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2020-11-29",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "Arsenal",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2020-11-22",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Aston Villa",
+        "Home Score": "0",
+        "Away Score": "3",
+        "Game Date": "2020-11-08",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Sheffield United",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2020-10-04",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "Arsenal",
+        "Home Score": "0",
+        "Away Score": "3",
+        "Game Date": "2020-09-12",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "West Bromwich",
+        "Home Score": "3",
+        "Away Score": "1",
+        "Game Date": "2021-05-23",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Leeds United",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2021-05-18",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Leeds United",
+        "Home Score": "0",
+        "Away Score": "4",
+        "Game Date": "2021-05-15",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "Leeds United",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2021-05-01",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "Sheffield United",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2021-04-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "Leeds United",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-03-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "Aston Villa",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-02-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "Southampton",
+        "Home Score": "3",
+        "Away Score": "0",
+        "Game Date": "2021-02-23",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "Leeds United",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-02-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "Crystal Palace",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2021-02-08",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "Everton",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-02-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Leeds United",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-01-26",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-01-16",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Leeds United",
+        "Home Score": "0",
+        "Away Score": "5",
+        "Game Date": "2020-12-29",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "Burnley",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2020-12-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "Newcastle",
+        "Home Score": "5",
+        "Away Score": "2",
+        "Game Date": "2020-12-16",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "Leeds United",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2020-11-28",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "Leeds United",
+        "Home Score": "4",
+        "Away Score": "1",
+        "Game Date": "2020-11-07",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Leeds United",
+        "Home Score": "0",
+        "Away Score": "3",
+        "Game Date": "2020-10-23",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "Wolverhampton",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2020-10-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "Leeds United",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2020-09-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Leeds United",
+        "Away Team": "Fulham",
+        "Home Score": "4",
+        "Away Score": "3",
+        "Game Date": "2020-09-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "Wolverhampton",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-05-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "Sheffield United",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-05-16",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Everton",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-05-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "Aston Villa",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-05-01",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "Everton",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-04-12",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "Crystal Palace",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-04-05",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "Burnley",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-03-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Everton",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-03-04",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "Southampton",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-03-01",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "Fulham",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2021-02-14",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "Newcastle",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2021-01-30",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "Everton",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-01-12",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "Everton",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2020-12-26",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Everton",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-12-05",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "Everton",
+        "Home Score": "2",
+        "Away Score": "3",
+        "Game Date": "2020-11-22",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Everton",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2020-11-01",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Everton",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2020-10-25",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "4",
+        "Away Score": "2",
+        "Game Date": "2020-10-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "Everton",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2020-09-26",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Everton",
+        "Away Team": "West Bromwich",
+        "Home Score": "5",
+        "Away Score": "2",
+        "Game Date": "2020-09-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "Aston Villa",
+        "Home Score": "3",
+        "Away Score": "2",
+        "Game Date": "2021-05-16",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "West Bromwich",
+        "Home Score": "2",
+        "Away Score": "2",
+        "Game Date": "2021-04-25",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Fulham",
+        "Home Score": "3",
+        "Away Score": "1",
+        "Game Date": "2021-04-04",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Aston Villa",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-03-12",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Wolverhampton",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-03-06",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "Aston Villa",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-03-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "Aston Villa",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-02-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Aston Villa",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-01-30",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Aston Villa",
+        "Home Score": "3",
+        "Away Score": "2",
+        "Game Date": "2021-01-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Newcastle",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2021-01-23",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Crystal Palace",
+        "Home Score": "3",
+        "Away Score": "0",
+        "Game Date": "2020-12-26",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Aston Villa",
+        "Home Score": "0",
+        "Away Score": "3",
+        "Game Date": "2020-12-20",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Burnley",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2020-12-17",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "Aston Villa",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2020-12-12",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2020-11-21",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Southampton",
+        "Home Score": "3",
+        "Away Score": "4",
+        "Game Date": "2020-11-01",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "Aston Villa",
+        "Home Score": "0",
+        "Away Score": "3",
+        "Game Date": "2020-09-28",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Sheffield United",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2020-09-21",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "Newcastle",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2021-05-23",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Sheffield United",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-05-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Newcastle",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-04-11",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "Newcastle",
+        "Home Score": "3",
+        "Away Score": "0",
+        "Game Date": "2021-03-20",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Newcastle",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-03-07",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Wolverhampton",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-02-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Southampton",
+        "Home Score": "3",
+        "Away Score": "2",
+        "Game Date": "2021-02-06",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Crystal Palace",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-02-02",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "Newcastle",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-01-12",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Fulham",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-12-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "West Bromwich",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2020-12-12",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "Newcastle",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2020-11-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Newcastle",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2020-11-06",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "Newcastle",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-10-25",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Burnley",
+        "Home Score": "3",
+        "Away Score": "1",
+        "Game Date": "2020-10-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "0",
+        "Away Score": "3",
+        "Game Date": "2020-09-20",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2021-05-09",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Wolverhampton",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-05-03",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "Burnley",
+        "Home Score": "0",
+        "Away Score": "4",
+        "Game Date": "2021-04-25",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "Sheffield United",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-04-17",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "Wolverhampton",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2021-04-09",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Wolverhampton",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-02-14",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "Wolverhampton",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-01-30",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "West Bromwich",
+        "Home Score": "2",
+        "Away Score": "3",
+        "Game Date": "2021-01-16",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "Wolverhampton",
+        "Home Score": "3",
+        "Away Score": "3",
+        "Game Date": "2021-01-02",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Wolverhampton",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2020-12-21",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "Southampton",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-11-23",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "Crystal Palace",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2020-10-30",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Wolverhampton",
+        "Away Team": "Fulham",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2020-10-04",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "Wolverhampton",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2020-09-14",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Crystal Palace",
+        "Home Score": "3",
+        "Away Score": "1",
+        "Game Date": "2021-05-11",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "Crystal Palace",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2021-05-08",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "West Bromwich",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-03-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "Fulham",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-02-28",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "Crystal Palace",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-02-22",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "Burnley",
+        "Home Score": "0",
+        "Away Score": "3",
+        "Game Date": "2021-02-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "Sheffield United",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2021-01-02",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Crystal Palace",
+        "Home Score": "1",
+        "Away Score": "5",
+        "Game Date": "2020-12-06",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Crystal Palace",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2020-11-23",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "Crystal Palace",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2020-10-24",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-10-18",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Crystal Palace",
+        "Away Team": "Southampton",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2020-09-12",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Fulham",
+        "Home Score": "3",
+        "Away Score": "1",
+        "Game Date": "2021-05-15",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Southampton",
+        "Home Score": "3",
+        "Away Score": "0",
+        "Game Date": "2021-04-12",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Burnley",
+        "Home Score": "3",
+        "Away Score": "2",
+        "Game Date": "2021-04-04",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2021-03-14",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "Southampton",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2021-03-06",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "Southampton",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2020-12-26",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Sheffield United",
+        "Home Score": "3",
+        "Away Score": "0",
+        "Game Date": "2020-12-13",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "Southampton",
+        "Home Score": "1",
+        "Away Score": "2",
+        "Game Date": "2020-12-07",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "West Bromwich",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2020-10-04",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Southampton",
+        "Home Score": "0",
+        "Away Score": "1",
+        "Game Date": "2020-09-26",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-04-24",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-02-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-02-06",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "Fulham",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-01-27",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "Sheffield United",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-12-20",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "Brighton &amp; Hove Albion",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2020-12-16",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "Burnley",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2020-11-06",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Brighton &amp; Hove Albion",
+        "Away Team": "West Bromwich",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-10-26",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "Burnley",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-05-23",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "Burnley",
+        "Home Score": "0",
+        "Away Score": "2",
+        "Game Date": "2021-05-10",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "West Bromwich",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2021-02-20",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Fulham",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2021-02-17",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Sheffield United",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2020-12-29",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Burnley",
+        "Home Score": "0",
+        "Away Score": "0",
+        "Game Date": "2020-10-19",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "Sheffield United",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2021-02-20",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Fulham",
+        "Home Score": "2",
+        "Away Score": "2",
+        "Game Date": "2021-01-30",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Fulham",
+        "Away Team": "West Bromwich",
+        "Home Score": "2",
+        "Away Score": "0",
+        "Game Date": "2020-11-02",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "Fulham",
+        "Home Score": "1",
+        "Away Score": "1",
+        "Game Date": "2020-10-18",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "Sheffield United",
+        "Away Team": "West Bromwich",
+        "Home Score": "2",
+        "Away Score": "1",
+        "Game Date": "2021-02-02",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    },
+    {
+        "Home Team": "West Bromwich",
+        "Away Team": "Sheffield United",
+        "Home Score": "1",
+        "Away Score": "0",
+        "Game Date": "2020-11-28",
+        "League": "Premier League",
+        "Season": "2020/2021"
+    }
+]

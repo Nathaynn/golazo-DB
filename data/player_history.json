@@ -1,0 +1,5350 @@
+[
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "13",
+        "Season Year": "2020/2021",
+        "Player Name": "Zackary Steffen",
+        "Player ID": 1001
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "31",
+        "Season Year": "2020/2021",
+        "Player Name": "Ederson Moraes",
+        "Player ID": 1002
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "33",
+        "Season Year": "2020/2021",
+        "Player Name": "Scott Carson",
+        "Player ID": 1003
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "85",
+        "Season Year": "2020/2021",
+        "Player Name": "James Trafford",
+        "Player ID": 1004
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "27",
+        "Season Year": "2020/2021",
+        "Player Name": "Jo\u00e3o Cancelo",
+        "Player ID": 1005
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "Kyle Walker",
+        "Player ID": 1006
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "R\u00faben Dias",
+        "Player ID": 1007
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "John Stones",
+        "Player ID": 1008
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Nathan Ak\u00e9",
+        "Player ID": 1009
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Aymeric Laporte",
+        "Player ID": 1010
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "50",
+        "Season Year": "2020/2021",
+        "Player Name": "Eric Martret",
+        "Player ID": 1011
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "78",
+        "Season Year": "2020/2021",
+        "Player Name": "Taylor Harwood-Bellis",
+        "Player ID": 1012
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "79",
+        "Season Year": "2020/2021",
+        "Player Name": "Luke Mbete-Tatu",
+        "Player ID": 1013
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "22",
+        "Season Year": "2020/2021",
+        "Player Name": "Benjamin Mendy",
+        "Player ID": 1014
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "16",
+        "Season Year": "2020/2021",
+        "Player Name": "Rodrigo Cascante",
+        "Player ID": 1015
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "80",
+        "Season Year": "2020/2021",
+        "Player Name": "Cole Palmer",
+        "Player ID": 1016
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "25",
+        "Season Year": "2020/2021",
+        "Player Name": "Fernando Roza",
+        "Player ID": 1017
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "81",
+        "Season Year": "2020/2021",
+        "Player Name": "Claudio Gomes",
+        "Player ID": 1018
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "Kevin Bruyne",
+        "Player ID": 1019
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "Bernardo Silva",
+        "Player ID": 1020
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "61",
+        "Season Year": "2020/2021",
+        "Player Name": "Felix Nmecha",
+        "Player ID": 1021
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "82",
+        "Season Year": "2020/2021",
+        "Player Name": "Adri\u00e1n Garcia",
+        "Player ID": 1022
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "\u0130lkay G\u00fcndo\u011fan",
+        "Player ID": 1023
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Oleksandr Zinchenko",
+        "Player ID": 1024
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "69",
+        "Season Year": "2020/2021",
+        "Player Name": "Thomas Doyle",
+        "Player ID": 1025
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "21",
+        "Season Year": "2020/2021",
+        "Player Name": "Ferr\u00e1n Garc\u00eda",
+        "Player ID": 1026
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "26",
+        "Season Year": "2020/2021",
+        "Player Name": "Riyad Mahrez",
+        "Player ID": 1027
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "47",
+        "Season Year": "2020/2021",
+        "Player Name": "Phil Foden",
+        "Player ID": 1028
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Gabriel Jesus",
+        "Player ID": 1029
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "Sergio Castillo",
+        "Player ID": 1030
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "48",
+        "Season Year": "2020/2021",
+        "Player Name": "Liam Delap",
+        "Player ID": 1031
+    },
+    {
+        "Team Name": "Manchester City",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "Raheem Sterling",
+        "Player ID": 1032
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "David Quintana",
+        "Player ID": 1033
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "13",
+        "Season Year": "2020/2021",
+        "Player Name": "Lee Grant",
+        "Player ID": 1034
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "22",
+        "Season Year": "2020/2021",
+        "Player Name": "Sergio Romero",
+        "Player ID": 1035
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "26",
+        "Season Year": "2020/2021",
+        "Player Name": "Dean Henderson",
+        "Player ID": 1036
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "30",
+        "Season Year": "2020/2021",
+        "Player Name": "Nathan Bishop",
+        "Player ID": 1037
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "Eric Bailly",
+        "Player ID": 1038
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "Jos\u00e9 Teixeira",
+        "Player ID": 1039
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "24",
+        "Season Year": "2020/2021",
+        "Player Name": "Timothy Fosu-Mensah",
+        "Player ID": 1040
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "29",
+        "Season Year": "2020/2021",
+        "Player Name": "Aaron Wan-Bissaka",
+        "Player ID": 1041
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "43",
+        "Season Year": "2020/2021",
+        "Player Name": "Teden Mengi",
+        "Player ID": 1042
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "Victor Lindel\u00f6f",
+        "Player ID": 1043
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "Philip Jones",
+        "Player ID": 1044
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "Jacob Maguire",
+        "Player ID": 1045
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "38",
+        "Season Year": "2020/2021",
+        "Player Name": "Axel Tuanzebe",
+        "Player ID": 1046
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "48",
+        "Season Year": "2020/2021",
+        "Player Name": "William Fish",
+        "Player ID": 1047
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Luke Shaw",
+        "Player ID": 1048
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "27",
+        "Season Year": "2020/2021",
+        "Player Name": "Alex Telles",
+        "Player ID": 1049
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "33",
+        "Season Year": "2020/2021",
+        "Player Name": "Brandon Williams",
+        "Player ID": 1050
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "Juan Garc\u00eda",
+        "Player ID": 1051
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "Frederico Santos",
+        "Player ID": 1052
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "54",
+        "Season Year": "2020/2021",
+        "Player Name": "Ethan Galbraith",
+        "Player ID": 1053
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "31",
+        "Season Year": "2020/2021",
+        "Player Name": "Nemanja Mati\u0107",
+        "Player ID": 1054
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "39",
+        "Season Year": "2020/2021",
+        "Player Name": "Scott McTominay",
+        "Player ID": 1055
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Jesse Lingard",
+        "Player ID": 1207
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Bruno Fernandes",
+        "Player ID": 1057
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "34",
+        "Season Year": "2020/2021",
+        "Player Name": "Donny Beek",
+        "Player ID": 1058
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Paul Pogba",
+        "Player ID": 1059
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "46",
+        "Season Year": "2020/2021",
+        "Player Name": "Hannibal Mejbri",
+        "Player ID": 1060
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "25",
+        "Season Year": "2020/2021",
+        "Player Name": "Odion Ighalo",
+        "Player ID": 1061
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "28",
+        "Season Year": "2020/2021",
+        "Player Name": "Facundo Rebollo",
+        "Player ID": 1062
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "56",
+        "Season Year": "2020/2021",
+        "Player Name": "Anthony Elanga",
+        "Player ID": 1063
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Mason Greenwood",
+        "Player ID": 1064
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "21",
+        "Season Year": "2020/2021",
+        "Player Name": "Daniel James",
+        "Player ID": 1065
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "Edinson G\u00f3mez",
+        "Player ID": 1066
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Amad Traor\u00e9",
+        "Player ID": 1067
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "74",
+        "Season Year": "2020/2021",
+        "Player Name": "Shola Shoretire",
+        "Player ID": 1068
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Anthony Martial",
+        "Player ID": 1069
+    },
+    {
+        "Team Name": "Manchester United",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "Marcus Rashford",
+        "Player ID": 1070
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "-",
+        "Season Year": "2020/2021",
+        "Player Name": "Harvey Davies",
+        "Player ID": 1071
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "Alisson Becker",
+        "Player ID": 1072
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "13",
+        "Season Year": "2020/2021",
+        "Player Name": "Adri\u00e1n Castillo",
+        "Player ID": 1073
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "56",
+        "Season Year": "2020/2021",
+        "Player Name": "V\u00edtezslav Jaro\u0161",
+        "Player ID": 1074
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "62",
+        "Season Year": "2020/2021",
+        "Player Name": "Caoimh\u00edn Kelleher",
+        "Player ID": 1075
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "75",
+        "Season Year": "2020/2021",
+        "Player Name": "Jakub Ojrzy\u0144ski",
+        "Player ID": 1076
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "98",
+        "Season Year": "2020/2021",
+        "Player Name": "Liam Hughes",
+        "Player ID": 1077
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "51",
+        "Season Year": "2020/2021",
+        "Player Name": "Ki-Jana Hoever",
+        "Player ID": 1474
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "66",
+        "Season Year": "2020/2021",
+        "Player Name": "Trent Alexander-Arnold",
+        "Player ID": 1079
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "76",
+        "Season Year": "2020/2021",
+        "Player Name": "Neco Williams",
+        "Player ID": 1080
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "Virgil Dijk",
+        "Player ID": 1081
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "12",
+        "Season Year": "2020/2021",
+        "Player Name": "Joseph G\u00f3mez",
+        "Player ID": 1082
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Ozan Kabak",
+        "Player ID": 1083
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "28",
+        "Season Year": "2020/2021",
+        "Player Name": "Benjamin Davies",
+        "Player ID": 1237
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "32",
+        "Season Year": "2020/2021",
+        "Player Name": "Joel Job",
+        "Player ID": 1085
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "46",
+        "Season Year": "2020/2021",
+        "Player Name": "Rhys Williams",
+        "Player ID": 1086
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "47",
+        "Season Year": "2020/2021",
+        "Player Name": "Nathaniel Phillips",
+        "Player ID": 1087
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "72",
+        "Season Year": "2020/2021",
+        "Player Name": "Sepp Berg",
+        "Player ID": 1088
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "89",
+        "Season Year": "2020/2021",
+        "Player Name": "Billy Koumetio",
+        "Player ID": 1089
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "21",
+        "Season Year": "2020/2021",
+        "Player Name": "Konstantinos Tsimikas",
+        "Player ID": 1090
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "26",
+        "Season Year": "2020/2021",
+        "Player Name": "Andrew Robertson",
+        "Player ID": 1091
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "-",
+        "Season Year": "2020/2021",
+        "Player Name": "Benjamin Woodburn",
+        "Player ID": 1092
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "64",
+        "Season Year": "2020/2021",
+        "Player Name": "Jake Cain",
+        "Player ID": 1093
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "65",
+        "Season Year": "2020/2021",
+        "Player Name": "Leighton Clarkson",
+        "Player ID": 1094
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "F\u00e1bio Tavares",
+        "Player ID": 1095
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Jordan Henderson",
+        "Player ID": 1096
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "Georginio Wijnaldum",
+        "Player ID": 1097
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Thiago Nascimento",
+        "Player ID": 1098
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "James Milner",
+        "Player ID": 1099
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "Naby Ke\u00efta",
+        "Player ID": 1100
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "15",
+        "Season Year": "2020/2021",
+        "Player Name": "Alexander Oxlade-Chamberlain",
+        "Player ID": 1101
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "16",
+        "Season Year": "2020/2021",
+        "Player Name": "Marko Grujic",
+        "Player ID": 1102
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "Curtis Jones",
+        "Player ID": 1103
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Mohamed Ghaly",
+        "Player ID": 1104
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Xherdan Shaqiri",
+        "Player ID": 1105
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "59",
+        "Season Year": "2020/2021",
+        "Player Name": "Harry Wilson",
+        "Player ID": 1106
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "67",
+        "Season Year": "2020/2021",
+        "Player Name": "Harvey Elliott",
+        "Player ID": 1107
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Roberto Oliveira",
+        "Player ID": 1108
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "24",
+        "Season Year": "2020/2021",
+        "Player Name": "Rhian Brewster",
+        "Player ID": 1764
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "Sadio Man\u00e9",
+        "Player ID": 1110
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Takumi Minamino",
+        "Player ID": 1574
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "Diogo Silva",
+        "Player ID": 1112
+    },
+    {
+        "Team Name": "Liverpool",
+        "Player Number": "27",
+        "Season Year": "2020/2021",
+        "Player Name": "Divock Origi",
+        "Player ID": 1113
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "Kepa Revuelta",
+        "Player ID": 1114
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "13",
+        "Season Year": "2020/2021",
+        "Player Name": "Wilfredo Caballero",
+        "Player ID": 1115
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "16",
+        "Season Year": "2020/2021",
+        "Player Name": "\u00c9douard Mendy",
+        "Player ID": 1116
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "31",
+        "Season Year": "2020/2021",
+        "Player Name": "Nathan Baxter",
+        "Player ID": 1117
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "40",
+        "Season Year": "2020/2021",
+        "Player Name": "Karlo \u017diger",
+        "Player ID": 1118
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "24",
+        "Season Year": "2020/2021",
+        "Player Name": "Reece James",
+        "Player ID": 1119
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "28",
+        "Season Year": "2020/2021",
+        "Player Name": "C\u00e9sar Tanco",
+        "Player ID": 1120
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "57",
+        "Season Year": "2020/2021",
+        "Player Name": "Valentino Livramento",
+        "Player ID": 1121
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "Antonio R\u00fcdiger",
+        "Player ID": 1122
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "Andreas Christensen",
+        "Player ID": 1123
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Thiago Silva",
+        "Player ID": 1124
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Oluwafikayomi Tomori",
+        "Player ID": 1125
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "15",
+        "Season Year": "2020/2021",
+        "Player Name": "Kurt Zouma",
+        "Player ID": 1126
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "Marcos Mendoza",
+        "Player ID": 1127
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "21",
+        "Season Year": "2020/2021",
+        "Player Name": "Benjamin Chilwell",
+        "Player ID": 1128
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "33",
+        "Season Year": "2020/2021",
+        "Player Name": "Emerson Santos",
+        "Player ID": 1129
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "Jorge Filho",
+        "Player ID": 1130
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "N\u2019Golo Kant\u00e9",
+        "Player ID": 1131
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Mason Mount",
+        "Player ID": 1132
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "29",
+        "Season Year": "2020/2021",
+        "Player Name": "Kai Havertz",
+        "Player ID": 1133
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "55",
+        "Season Year": "2020/2021",
+        "Player Name": "Faustino Anjorin",
+        "Player ID": 1134
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "Ross Barkley",
+        "Player ID": 1419
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "12",
+        "Season Year": "2020/2021",
+        "Player Name": "Ruben Loftus-Cheek",
+        "Player ID": 1674
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "Mateo Kova\u010di\u0107",
+        "Player ID": 1137
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Billy Gilmour",
+        "Player ID": 1138
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "Callum Hudson-Odoi",
+        "Player ID": 1139
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "22",
+        "Season Year": "2020/2021",
+        "Player Name": "Hakim Ziyech",
+        "Player ID": 1140
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Kevin Bakumo-Abraham",
+        "Player ID": 1141
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Olivier Giroud",
+        "Player ID": 1142
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "Christian Puli\u0161i\u0107",
+        "Player ID": 1143
+    },
+    {
+        "Team Name": "Chelsea",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Timo Werner",
+        "Player ID": 1144
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "Kasper Schmeichel",
+        "Player ID": 1145
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "12",
+        "Season Year": "2020/2021",
+        "Player Name": "Daniel Ward",
+        "Player ID": 1146
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "35",
+        "Season Year": "2020/2021",
+        "Player Name": "Eldin Jakupovi\u0107",
+        "Player ID": 1147
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "51",
+        "Season Year": "2020/2021",
+        "Player Name": "Jakub Stolarczyk",
+        "Player ID": 1148
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "34",
+        "Season Year": "2020/2021",
+        "Player Name": "Joshua Knight",
+        "Player ID": 1149
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "39",
+        "Season Year": "2020/2021",
+        "Player Name": "Darnell Johnson",
+        "Player ID": 1150
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "James Justin",
+        "Player ID": 1151
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "21",
+        "Season Year": "2020/2021",
+        "Player Name": "Ricardo Pereira",
+        "Player ID": 1152
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "27",
+        "Season Year": "2020/2021",
+        "Player Name": "Timothy Castagne",
+        "Player ID": 1153
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "46",
+        "Season Year": "2020/2021",
+        "Player Name": "Vontae Daley-Campbell",
+        "Player ID": 1154
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "Westley Morgan",
+        "Player ID": 1155
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "Wesley Fofana",
+        "Player ID": 1156
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "\u00c7a\u011flar S\u00f6y\u00fcnc\u00fc",
+        "Player ID": 1157
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Jonathan Evans",
+        "Player ID": 1158
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "16",
+        "Season Year": "2020/2021",
+        "Player Name": "Filip Benkovi\u0107",
+        "Player ID": 1159
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Daniel Amartey",
+        "Player ID": 1160
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "59",
+        "Season Year": "2020/2021",
+        "Player Name": "Benjamin Nelson",
+        "Player ID": 1161
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "28",
+        "Season Year": "2020/2021",
+        "Player Name": "Christian Fuchs",
+        "Player ID": 1162
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "33",
+        "Season Year": "2020/2021",
+        "Player Name": "Luke Thomas",
+        "Player ID": 1163
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "53",
+        "Season Year": "2020/2021",
+        "Player Name": "Shane Flynn",
+        "Player ID": 1164
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "32",
+        "Season Year": "2020/2021",
+        "Player Name": "Kiernan Dewsbury-Hall",
+        "Player ID": 1165
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "38",
+        "Season Year": "2020/2021",
+        "Player Name": "Thakgalo Leshabela",
+        "Player ID": 1166
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "65",
+        "Season Year": "2020/2021",
+        "Player Name": "Tawanda Maswanhise",
+        "Player ID": 1167
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "24",
+        "Season Year": "2020/2021",
+        "Player Name": "Nampalys Mendy",
+        "Player ID": 1168
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "25",
+        "Season Year": "2020/2021",
+        "Player Name": "Onyinye Ndidi",
+        "Player ID": 1169
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "James Maddison",
+        "Player ID": 1170
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "37",
+        "Season Year": "2020/2021",
+        "Player Name": "Ethan Fitzhugh",
+        "Player ID": 1171
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "64",
+        "Season Year": "2020/2021",
+        "Player Name": "Thanawat Suengchitthawon",
+        "Player ID": 1172
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "Youri Tielemans",
+        "Player ID": 1173
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "Hamza Choudhury",
+        "Player ID": 1174
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "26",
+        "Season Year": "2020/2021",
+        "Player Name": "Dennis Praet",
+        "Player ID": 1175
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "50",
+        "Season Year": "2020/2021",
+        "Player Name": "Sidnei Tavares",
+        "Player ID": 1176
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Cengiz \u00dcnder",
+        "Player ID": 1177
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Jamie Vardy",
+        "Player ID": 1178
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "13",
+        "Season Year": "2020/2021",
+        "Player Name": "Islam Slimani",
+        "Player ID": 1179
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Kelechi Iheanacho",
+        "Player ID": 1180
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "Demarai Gray",
+        "Player ID": 1181
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Marc Albrighton",
+        "Player ID": 1182
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "15",
+        "Season Year": "2020/2021",
+        "Player Name": "Harvey Barnes",
+        "Player ID": 1183
+    },
+    {
+        "Team Name": "Leicester City",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "Ayoze Guti\u00e9rrez",
+        "Player ID": 1184
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "\u0141ukasz Fabia\u0144ski",
+        "Player ID": 1185
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "25",
+        "Season Year": "2020/2021",
+        "Player Name": "David Martin",
+        "Player ID": 1186
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "34",
+        "Season Year": "2020/2021",
+        "Player Name": "Nathan Trott",
+        "Player ID": 1187
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "35",
+        "Season Year": "2020/2021",
+        "Player Name": "Darren Randolph",
+        "Player ID": 1188
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "42",
+        "Season Year": "2020/2021",
+        "Player Name": "Ajibola Alese",
+        "Player ID": 1189
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "50",
+        "Season Year": "2020/2021",
+        "Player Name": "Harrison Ashby",
+        "Player ID": 1190
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "Vladimir Coufal",
+        "Player ID": 1191
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "24",
+        "Season Year": "2020/2021",
+        "Player Name": "Ryan Fredericks",
+        "Player ID": 1192
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "31",
+        "Season Year": "2020/2021",
+        "Player Name": "Benjamin Johnson",
+        "Player ID": 1193
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "Fabi\u00e1n Gonz\u00e1lez",
+        "Player ID": 1194
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Frederik Ibsen",
+        "Player ID": 1195
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "15",
+        "Season Year": "2020/2021",
+        "Player Name": "Craig Dawson",
+        "Player ID": 1196
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "21",
+        "Season Year": "2020/2021",
+        "Player Name": "Angelo Ogbonna",
+        "Player ID": 1197
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Issa Diop",
+        "Player ID": 1198
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "75",
+        "Season Year": "2020/2021",
+        "Player Name": "Jamal Baptiste",
+        "Player ID": 1199
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "Aaron Cresswell",
+        "Player ID": 1200
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "26",
+        "Season Year": "2020/2021",
+        "Player Name": "Fuka Kawela",
+        "Player ID": 1201
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "16",
+        "Season Year": "2020/2021",
+        "Player Name": "Mark Noble",
+        "Player ID": 1202
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "28",
+        "Season Year": "2020/2021",
+        "Player Name": "Tom\u00e1\u0161 Sou\u010dek",
+        "Player ID": 1203
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "41",
+        "Season Year": "2020/2021",
+        "Player Name": "Declan Rice",
+        "Player ID": 1204
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "54",
+        "Season Year": "2020/2021",
+        "Player Name": "Conor Coventry",
+        "Player ID": 1205
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "Manuel Lanzini",
+        "Player ID": 1206
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Jesse Lingard",
+        "Player ID": 1207
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Pablo Malla",
+        "Player ID": 1208
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "33",
+        "Season Year": "2020/2021",
+        "Player Name": "Joshua Cullen",
+        "Player ID": 1209
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Jack Wilshere",
+        "Player ID": 1210
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Robert Snodgrass",
+        "Player ID": 1720
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "-",
+        "Season Year": "2020/2021",
+        "Player Name": "Oladapo Afolayan",
+        "Player ID": 1212
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "56",
+        "Season Year": "2020/2021",
+        "Player Name": "Mbule Emmanuel",
+        "Player ID": 1213
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "Andriy Yarmolenko",
+        "Player ID": 1214
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "Jarrod Bowen",
+        "Player ID": 1215
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "32",
+        "Season Year": "2020/2021",
+        "Player Name": "Alexandre Silva",
+        "Player ID": 1216
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "22",
+        "Season Year": "2020/2021",
+        "Player Name": "S\u00e9bastien Haller",
+        "Player ID": 1217
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "30",
+        "Season Year": "2020/2021",
+        "Player Name": "Michail Antonio",
+        "Player ID": 1218
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "45",
+        "Season Year": "2020/2021",
+        "Player Name": "Ademipo Odubeko",
+        "Player ID": 1219
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "Felipe Gomes",
+        "Player ID": 1220
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Sa\u00efd Benrahma",
+        "Player ID": 1221
+    },
+    {
+        "Team Name": "West Ham",
+        "Player Number": "37",
+        "Season Year": "2020/2021",
+        "Player Name": "Nathan Holland",
+        "Player ID": 1222
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "-",
+        "Season Year": "2020/2021",
+        "Player Name": "Brandon Austin",
+        "Player ID": 1223
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "Hugo Lloris",
+        "Player ID": 1224
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "12",
+        "Season Year": "2020/2021",
+        "Player Name": "Charles Hart",
+        "Player ID": 1225
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "41",
+        "Season Year": "2020/2021",
+        "Player Name": "Alfie Whiteman",
+        "Player ID": 1226
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "Matthew Doherty",
+        "Player ID": 1227
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "24",
+        "Season Year": "2020/2021",
+        "Player Name": "S\u00e8rge Aurier",
+        "Player ID": 1228
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "55",
+        "Season Year": "2020/2021",
+        "Player Name": "Marcel Lavinier",
+        "Player ID": 1229
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "Tobias Alderweireld",
+        "Player ID": 1230
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Davinson Mina",
+        "Player ID": 1231
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Joseph Rodon",
+        "Player ID": 1232
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "15",
+        "Season Year": "2020/2021",
+        "Player Name": "Eric Dier",
+        "Player ID": 1233
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "25",
+        "Season Year": "2020/2021",
+        "Player Name": "Japhet Tanganga",
+        "Player ID": 1234
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "38",
+        "Season Year": "2020/2021",
+        "Player Name": "Cameron Carter-Vickers",
+        "Player ID": 1235
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "Sergio Rodr\u00edguez",
+        "Player ID": 1236
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "33",
+        "Season Year": "2020/2021",
+        "Player Name": "Benjamin Davies",
+        "Player ID": 1237
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "49",
+        "Season Year": "2020/2021",
+        "Player Name": "Dennis Cirkin",
+        "Player ID": 1238
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "44",
+        "Season Year": "2020/2021",
+        "Player Name": "Jamie Bowden",
+        "Player ID": 1239
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "Pierre-Emile H\u00f8jbjerg",
+        "Player ID": 1240
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "Harry Winks",
+        "Player ID": 1241
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "48",
+        "Season Year": "2020/2021",
+        "Player Name": "Harvey White",
+        "Player ID": 1242
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Giovani Celso",
+        "Player ID": 1243
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "Bamidele Alli",
+        "Player ID": 1244
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "57",
+        "Season Year": "2020/2021",
+        "Player Name": "Nile John",
+        "Player ID": 1245
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "Moussa Sissoko",
+        "Player ID": 1246
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "28",
+        "Season Year": "2020/2021",
+        "Player Name": "Tanguy Alvaro",
+        "Player ID": 1247
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "30",
+        "Season Year": "2020/2021",
+        "Player Name": "Gedson Fernandes",
+        "Player ID": 1248
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "54",
+        "Season Year": "2020/2021",
+        "Player Name": "Alfie Devine",
+        "Player ID": 1249
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Gareth Bale",
+        "Player ID": 1250
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Erik Lamela",
+        "Player ID": 1251
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Steven Bergwijn",
+        "Player ID": 1252
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "27",
+        "Season Year": "2020/2021",
+        "Player Name": "Lucas Silva",
+        "Player ID": 1253
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "47",
+        "Season Year": "2020/2021",
+        "Player Name": "Jack Clarke",
+        "Player ID": 1254
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "56",
+        "Season Year": "2020/2021",
+        "Player Name": "Dilan Markanday",
+        "Player ID": 1255
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "Harry Kane",
+        "Player ID": 1256
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "45",
+        "Season Year": "2020/2021",
+        "Player Name": "Carlos Morais",
+        "Player ID": 1257
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "53",
+        "Season Year": "2020/2021",
+        "Player Name": "Dane Scarlett",
+        "Player ID": 1258
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Kouassi Sess\u00e8gnon",
+        "Player ID": 1259
+    },
+    {
+        "Team Name": "Tottenham",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "Son Heung-min",
+        "Player ID": 1260
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "-",
+        "Season Year": "2020/2021",
+        "Player Name": "Arthur Okonkwo",
+        "Player ID": 1261
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "-",
+        "Season Year": "2020/2021",
+        "Player Name": "James Hillson",
+        "Player ID": 1262
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "Bernd Leno",
+        "Player ID": 1263
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "13",
+        "Season Year": "2020/2021",
+        "Player Name": "R\u00fanar R\u00fanarsson",
+        "Player ID": 1264
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "26",
+        "Season Year": "2020/2021",
+        "Player Name": "Dami\u00e1n Romero",
+        "Player ID": 1386
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "33",
+        "Season Year": "2020/2021",
+        "Player Name": "Mathew Ryan",
+        "Player ID": 1576
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "33",
+        "Season Year": "2020/2021",
+        "Player Name": "Matthew Macey",
+        "Player ID": 1267
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "44",
+        "Season Year": "2020/2021",
+        "Player Name": "Karl Hein",
+        "Player ID": 1268
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "-",
+        "Season Year": "2020/2021",
+        "Player Name": "Joel Salguero",
+        "Player ID": 1269
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "Sokratis Papastathopoulos",
+        "Player ID": 1270
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "H\u00e9ctor Moruno",
+        "Player ID": 1271
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "C\u00e9dric Soares",
+        "Player ID": 1272
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "William Saliba",
+        "Player ID": 1273
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Gabriel Magalh\u00e3es",
+        "Player ID": 1274
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "16",
+        "Season Year": "2020/2021",
+        "Player Name": "Robert Holding",
+        "Player ID": 1275
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "Shkodran Mustafi",
+        "Player ID": 1276
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "21",
+        "Season Year": "2020/2021",
+        "Player Name": "Calum Chambers",
+        "Player ID": 1277
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "22",
+        "Season Year": "2020/2021",
+        "Player Name": "Pablo Villar",
+        "Player ID": 1278
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "David Marinho",
+        "Player ID": 1279
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "Kieran Tierney",
+        "Player ID": 1280
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "15",
+        "Season Year": "2020/2021",
+        "Player Name": "Ainsley Maitland-Niles",
+        "Player ID": 1693
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "31",
+        "Season Year": "2020/2021",
+        "Player Name": "Sead Kola\u0161inac",
+        "Player ID": 1282
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "54",
+        "Season Year": "2020/2021",
+        "Player Name": "Olujimi Olayinka",
+        "Player ID": 1283
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Thomas Partey",
+        "Player ID": 1284
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "34",
+        "Season Year": "2020/2021",
+        "Player Name": "Granit Xhaka",
+        "Player ID": 1285
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "Daniel Fernandez",
+        "Player ID": 1286
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "32",
+        "Season Year": "2020/2021",
+        "Player Name": "Emile Rowe",
+        "Player ID": 1287
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "25",
+        "Season Year": "2020/2021",
+        "Player Name": "Mohamed Elneny",
+        "Player ID": 1288
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "28",
+        "Season Year": "2020/2021",
+        "Player Name": "Joseph Willock",
+        "Player ID": 1456
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "41",
+        "Season Year": "2020/2021",
+        "Player Name": "Ben Cottrell",
+        "Player ID": 1290
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "66",
+        "Season Year": "2020/2021",
+        "Player Name": "Miguel Azeez",
+        "Player ID": 1291
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "24",
+        "Season Year": "2020/2021",
+        "Player Name": "Reiss Nelson",
+        "Player ID": 1292
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "47",
+        "Season Year": "2020/2021",
+        "Player Name": "Tyreece John-Jules",
+        "Player ID": 1293
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Martin \u00d8degaard",
+        "Player ID": 1294
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "12",
+        "Season Year": "2020/2021",
+        "Player Name": "Willian Silva",
+        "Player ID": 1500
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Nicolas P\u00e9p\u00e9",
+        "Player ID": 1296
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Alexandre Lacazette",
+        "Player ID": 1297
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Pierre-Emerick Aubameyang",
+        "Player ID": 1298
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "30",
+        "Season Year": "2020/2021",
+        "Player Name": "Edward Nketiah",
+        "Player ID": 1299
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "38",
+        "Season Year": "2020/2021",
+        "Player Name": "Folarin Balogun",
+        "Player ID": 1300
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "Bukayo Saka",
+        "Player ID": 1301
+    },
+    {
+        "Team Name": "Arsenal",
+        "Player Number": "35",
+        "Season Year": "2020/2021",
+        "Player Name": "Gabriel Silva",
+        "Player ID": 1302
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "Illan Meslier",
+        "Player ID": 1303
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "13",
+        "Season Year": "2020/2021",
+        "Player Name": "Francisco Cort\u00e9s",
+        "Player ID": 1304
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "25",
+        "Season Year": "2020/2021",
+        "Player Name": "Elia Caprile",
+        "Player ID": 1305
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "35",
+        "Season Year": "2020/2021",
+        "Player Name": "Charlie Cresswell",
+        "Player ID": 1306
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "37",
+        "Season Year": "2020/2021",
+        "Player Name": "Cody Drameh",
+        "Player ID": 1307
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "52",
+        "Season Year": "2020/2021",
+        "Player Name": "Niall Huggins",
+        "Player ID": 1308
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "Luke Ayling",
+        "Player ID": 1309
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "Robin Koch",
+        "Player ID": 1310
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Liam Cooper",
+        "Player ID": 1311
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Diego R\u00edos",
+        "Player ID": 1312
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "21",
+        "Season Year": "2020/2021",
+        "Player Name": "Pascal Struijk",
+        "Player ID": 1313
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "49",
+        "Season Year": "2020/2021",
+        "Player Name": "Oliver Casey",
+        "Player ID": 1314
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "Barry Douglas",
+        "Player ID": 1315
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "Ezgjan Alioski",
+        "Player ID": 1316
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "15",
+        "Season Year": "2020/2021",
+        "Player Name": "Stuart Dallas",
+        "Player ID": 1317
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "24",
+        "Season Year": "2020/2021",
+        "Player Name": "Leif Davis",
+        "Player ID": 1318
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "28",
+        "Season Year": "2020/2021",
+        "Player Name": "Gaetano Berardi",
+        "Player ID": 1319
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "36",
+        "Season Year": "2020/2021",
+        "Player Name": "Robbie Gotts",
+        "Player ID": 1320
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "38",
+        "Season Year": "2020/2021",
+        "Player Name": "Alfie McCalmont",
+        "Player ID": 1321
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "44",
+        "Season Year": "2020/2021",
+        "Player Name": "Mateusz Bogusz",
+        "Player ID": 1322
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "47",
+        "Season Year": "2020/2021",
+        "Player Name": "Jack Jenkins",
+        "Player ID": 1323
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "48",
+        "Season Year": "2020/2021",
+        "Player Name": "Jordan Stevens",
+        "Player ID": 1324
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Kalvin Phillips",
+        "Player ID": 1325
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Pablo Dom\u00ednguez",
+        "Player ID": 1326
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "Adam Forshaw",
+        "Player ID": 1327
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "43",
+        "Season Year": "2020/2021",
+        "Player Name": "Mateusz Klich",
+        "Player ID": 1328
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "46",
+        "Season Year": "2020/2021",
+        "Player Name": "Jamie Shackleton",
+        "Player ID": 1329
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Jay-Roy Grot",
+        "Player ID": 1330
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "Ian Poveda-Ocampo",
+        "Player ID": 1331
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "H\u00e9lder Costa",
+        "Player ID": 1332
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Raphael Belloli",
+        "Player ID": 1333
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "38",
+        "Season Year": "2020/2021",
+        "Player Name": "Crysencio Summerville",
+        "Player ID": 1334
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Patrick Bamford",
+        "Player ID": 1335
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "Rodrigo Machado",
+        "Player ID": 1336
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "30",
+        "Season Year": "2020/2021",
+        "Player Name": "Joseph Gelhardt",
+        "Player ID": 1337
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "42",
+        "Season Year": "2020/2021",
+        "Player Name": "Samuel Greenwood",
+        "Player ID": 1338
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "22",
+        "Season Year": "2020/2021",
+        "Player Name": "Jack Harrison",
+        "Player ID": 1339
+    },
+    {
+        "Team Name": "Leeds United",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Tyler Roberts",
+        "Player ID": 1340
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "Jordan Pickford",
+        "Player ID": 1341
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "31",
+        "Season Year": "2020/2021",
+        "Player Name": "Jo\u00e3o Virg\u00ednia",
+        "Player ID": 1342
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "33",
+        "Season Year": "2020/2021",
+        "Player Name": "Robin Olsen",
+        "Player ID": 1343
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "49",
+        "Season Year": "2020/2021",
+        "Player Name": "Jonas L\u00f6ssl",
+        "Player ID": 1344
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "53",
+        "Season Year": "2020/2021",
+        "Player Name": "Harry Tyrer",
+        "Player ID": 1345
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "63",
+        "Season Year": "2020/2021",
+        "Player Name": "\u017dan Leban",
+        "Player ID": 1346
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "38",
+        "Season Year": "2020/2021",
+        "Player Name": "Ryan Astley",
+        "Player ID": 1347
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "48",
+        "Season Year": "2020/2021",
+        "Player Name": "Kyle John",
+        "Player ID": 1348
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "51",
+        "Season Year": "2020/2021",
+        "Player Name": "Thierry Small",
+        "Player ID": 1349
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "Jonjoe Kenny",
+        "Player ID": 1350
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Seamus Coleman",
+        "Player ID": 1351
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "Mason Holgate",
+        "Player ID": 1352
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "Michael Keane",
+        "Player ID": 1353
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "13",
+        "Season Year": "2020/2021",
+        "Player Name": "Yerry Gonz\u00e1lez",
+        "Player ID": 1354
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "22",
+        "Season Year": "2020/2021",
+        "Player Name": "Benjamin Godfrey",
+        "Player ID": 1355
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "32",
+        "Season Year": "2020/2021",
+        "Player Name": "Jarrad Branthwaite",
+        "Player ID": 1356
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "64",
+        "Season Year": "2020/2021",
+        "Player Name": "Reece Welch",
+        "Player ID": 1357
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "12",
+        "Season Year": "2020/2021",
+        "Player Name": "Lucas Digne",
+        "Player ID": 1358
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Niels Nkounkou",
+        "Player ID": 1359
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "Fabian Delph",
+        "Player ID": 1360
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "62",
+        "Season Year": "2020/2021",
+        "Player Name": "Tyler Onyango",
+        "Player ID": 1361
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Allan Loureiro",
+        "Player ID": 1362
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "25",
+        "Season Year": "2020/2021",
+        "Player Name": "Jean-Philippe Gbamin",
+        "Player ID": 1363
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "30",
+        "Season Year": "2020/2021",
+        "Player Name": "Muhamed Be\u0161i\u0107",
+        "Player ID": 1364
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "Gylfi Sigur\u00f0sson",
+        "Player ID": 1365
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "Alexander Iwobi",
+        "Player ID": 1366
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "16",
+        "Season Year": "2020/2021",
+        "Player Name": "Abdoulaye Doucour\u00e9",
+        "Player ID": 1367
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "21",
+        "Season Year": "2020/2021",
+        "Player Name": "Andr\u00e9 Gomes",
+        "Player ID": 1368
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "26",
+        "Season Year": "2020/2021",
+        "Player Name": "Thomas Davies",
+        "Player ID": 1369
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "34",
+        "Season Year": "2020/2021",
+        "Player Name": "Beni Baningime",
+        "Player ID": 1370
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "60",
+        "Season Year": "2020/2021",
+        "Player Name": "Isaac Price",
+        "Player ID": 1371
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "50",
+        "Season Year": "2020/2021",
+        "Player Name": "Ellis Simms",
+        "Player ID": 1372
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Theo Walcott",
+        "Player ID": 1566
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "James Rubio",
+        "Player ID": 1374
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Dominic Calvert-Lewin",
+        "Player ID": 1375
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Cenk Tosun",
+        "Player ID": 1376
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "27",
+        "Season Year": "2020/2021",
+        "Player Name": "Moise Kean",
+        "Player ID": 1377
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "Bernard Duarte",
+        "Player ID": 1378
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "24",
+        "Season Year": "2020/2021",
+        "Player Name": "Anthony Gordon",
+        "Player ID": 1379
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "34",
+        "Season Year": "2020/2021",
+        "Player Name": "Nathan Broadhead",
+        "Player ID": 1380
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "Richarlison Andrade",
+        "Player ID": 1381
+    },
+    {
+        "Team Name": "Everton",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Joshua King",
+        "Player ID": 1382
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "Thomas Heaton",
+        "Player ID": 1383
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "12",
+        "Season Year": "2020/2021",
+        "Player Name": "Jed Steer",
+        "Player ID": 1384
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "25",
+        "Season Year": "2020/2021",
+        "Player Name": "\u00d8rjan Nyland",
+        "Player ID": 1385
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "26",
+        "Season Year": "2020/2021",
+        "Player Name": "Dami\u00e1n Romero",
+        "Player ID": 1386
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "28",
+        "Season Year": "2020/2021",
+        "Player Name": "Lovre Kalini\u0107",
+        "Player ID": 1387
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "51",
+        "Season Year": "2020/2021",
+        "Player Name": "\u00c1kos \u00d3nodi",
+        "Player ID": 1388
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "75",
+        "Season Year": "2020/2021",
+        "Player Name": "Oliwier Zych",
+        "Player ID": 1389
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "Neil Taylor",
+        "Player ID": 1390
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "22",
+        "Season Year": "2020/2021",
+        "Player Name": "Bj\u00f6rn Engels",
+        "Player ID": 1391
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "24",
+        "Season Year": "2020/2021",
+        "Player Name": "Fr\u00e9d\u00e9ric Guilbert",
+        "Player ID": 1392
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "30",
+        "Season Year": "2020/2021",
+        "Player Name": "Kortney Hause",
+        "Player ID": 1393
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "42",
+        "Season Year": "2020/2021",
+        "Player Name": "Dominic Revan",
+        "Player ID": 1394
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "46",
+        "Season Year": "2020/2021",
+        "Player Name": "Jake Walker",
+        "Player ID": 1395
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "62",
+        "Season Year": "2020/2021",
+        "Player Name": "Kaine Kesler-Hayden",
+        "Player ID": 1396
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "72",
+        "Season Year": "2020/2021",
+        "Player Name": "Sil Swinkels",
+        "Player ID": 1397
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "27",
+        "Season Year": "2020/2021",
+        "Player Name": "Ahmed Eissa",
+        "Player ID": 1398
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "Matthew Cash",
+        "Player ID": 1399
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "74",
+        "Season Year": "2020/2021",
+        "Player Name": "Frankie Ealing",
+        "Player ID": 1400
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "Ezri Ngoyo",
+        "Player ID": 1401
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "Tyrone Mings",
+        "Player ID": 1402
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "37",
+        "Season Year": "2020/2021",
+        "Player Name": "Mungo Bridge",
+        "Player ID": 1403
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Matthew Targett",
+        "Player ID": 1404
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "47",
+        "Season Year": "2020/2021",
+        "Player Name": "Callum Rowe",
+        "Player ID": 1405
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "57",
+        "Season Year": "2020/2021",
+        "Player Name": "Benjamin Chrisene",
+        "Player ID": 1406
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "70",
+        "Season Year": "2020/2021",
+        "Player Name": "Lamare Bogarde",
+        "Player ID": 1407
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "71",
+        "Season Year": "2020/2021",
+        "Player Name": "Hayden Lindley",
+        "Player ID": 1408
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "73",
+        "Season Year": "2020/2021",
+        "Player Name": "Edward Rowe",
+        "Player ID": 1409
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "76",
+        "Season Year": "2020/2021",
+        "Player Name": "Taylor Jay-Hart",
+        "Player ID": 1410
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Douglas Paulo",
+        "Player ID": 1411
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Marvelous Nakamba",
+        "Player ID": 1412
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "69",
+        "Season Year": "2020/2021",
+        "Player Name": "Mamadou Sylla",
+        "Player ID": 1413
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "Jack Grealish",
+        "Player ID": 1414
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "41",
+        "Season Year": "2020/2021",
+        "Player Name": "Jacob Ramsey",
+        "Player ID": 1415
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "John McGinn",
+        "Player ID": 1416
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "Henri Lansbury",
+        "Player ID": 1417
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Conor Hourihane",
+        "Player ID": 1418
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "Ross Barkley",
+        "Player ID": 1419
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "25",
+        "Season Year": "2020/2021",
+        "Player Name": "Morgan Sanson",
+        "Player ID": 1420
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "50",
+        "Season Year": "2020/2021",
+        "Player Name": "Harrison Sonha",
+        "Player ID": 1421
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "60",
+        "Season Year": "2020/2021",
+        "Player Name": "Carney Chukwuemeka",
+        "Player ID": 1422
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "67",
+        "Season Year": "2020/2021",
+        "Player Name": "Arjan Raikhy",
+        "Player ID": 1423
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "Mbwana Samatta",
+        "Player ID": 1424
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Jos\u00e9 Ramallo",
+        "Player ID": 1425
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "45",
+        "Season Year": "2020/2021",
+        "Player Name": "Michael Moran",
+        "Player ID": 1426
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "52",
+        "Season Year": "2020/2021",
+        "Player Name": "Jaden Philogene-Bidace",
+        "Player ID": 1427
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "15",
+        "Season Year": "2020/2021",
+        "Player Name": "Bertrand Traor\u00e9",
+        "Player ID": 1428
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "21",
+        "Season Year": "2020/2021",
+        "Player Name": "Anwar El-Ghazi",
+        "Player ID": 1429
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Wesley Silva",
+        "Player ID": 1430
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Oliver Watkins",
+        "Player ID": 1431
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "39",
+        "Season Year": "2020/2021",
+        "Player Name": "Keinan Davis",
+        "Player ID": 1432
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "61",
+        "Season Year": "2020/2021",
+        "Player Name": "Louie Barry",
+        "Player ID": 1433
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "68",
+        "Season Year": "2020/2021",
+        "Player Name": "Bradley Young",
+        "Player ID": 1434
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "Mahmoud Hassan",
+        "Player ID": 1435
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "Martin D\u00fabravka",
+        "Player ID": 1436
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "26",
+        "Season Year": "2020/2021",
+        "Player Name": "Karl Darlow",
+        "Player ID": 1437
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "29",
+        "Season Year": "2020/2021",
+        "Player Name": "Mark Gillespie",
+        "Player ID": 1438
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "41",
+        "Season Year": "2020/2021",
+        "Player Name": "Daniel Langley",
+        "Player ID": 1439
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "Emil Krafth",
+        "Player ID": 1440
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Javier Gait\u00e1n",
+        "Player ID": 1441
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "22",
+        "Season Year": "2020/2021",
+        "Player Name": "DeAndre Yedlin",
+        "Player ID": 1442
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "Ciaran Clark",
+        "Player ID": 1443
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "Paul Dummett",
+        "Player ID": 1444
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "Fabian Sch\u00e4r",
+        "Player ID": 1445
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Jamaal Lascelles",
+        "Player ID": 1446
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Federico Fern\u00e1ndez",
+        "Player ID": 1447
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Matthew Ritchie",
+        "Player ID": 1448
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "15",
+        "Season Year": "2020/2021",
+        "Player Name": "Jamal Lewis",
+        "Player ID": 1449
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "Jonjo Shelvey",
+        "Player ID": 1450
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Isaac Hayden",
+        "Player ID": 1451
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "24",
+        "Season Year": "2020/2021",
+        "Player Name": "Miguel Rejala",
+        "Player ID": 1452
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "28",
+        "Season Year": "2020/2021",
+        "Player Name": "Henri Saivet",
+        "Player ID": 1453
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "Matthew Longstaff",
+        "Player ID": 1454
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "16",
+        "Season Year": "2020/2021",
+        "Player Name": "Jeffrey Hendrick",
+        "Player ID": 1455
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "28",
+        "Season Year": "2020/2021",
+        "Player Name": "Joseph Willock",
+        "Player ID": 1456
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "32",
+        "Season Year": "2020/2021",
+        "Player Name": "Daniel Barlaser",
+        "Player ID": 1457
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "36",
+        "Season Year": "2020/2021",
+        "Player Name": "Sean Longstaff",
+        "Player ID": 1458
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "57",
+        "Season Year": "2020/2021",
+        "Player Name": "Elliot Anderson",
+        "Player ID": 1459
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "30",
+        "Season Year": "2020/2021",
+        "Player Name": "Christian Atsu",
+        "Player ID": 1460
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Jacob Murphy",
+        "Player ID": 1461
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "Andrew Carroll",
+        "Player ID": 1462
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Joelinton Lira",
+        "Player ID": 1463
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "13",
+        "Season Year": "2020/2021",
+        "Player Name": "Callum Wilson",
+        "Player ID": 1464
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "Allan Saint-Maximin",
+        "Player ID": 1465
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "21",
+        "Season Year": "2020/2021",
+        "Player Name": "Ryan Fraser",
+        "Player ID": 1466
+    },
+    {
+        "Team Name": "Newcastle",
+        "Player Number": "12",
+        "Season Year": "2020/2021",
+        "Player Name": "Dwight Gayle",
+        "Player ID": 1467
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Rui Patr\u00edcio",
+        "Player ID": 1468
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "21",
+        "Season Year": "2020/2021",
+        "Player Name": "John Ruddy",
+        "Player ID": 1469
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "62",
+        "Season Year": "2020/2021",
+        "Player Name": "Andreas S\u00f6ndergaard",
+        "Player ID": 1470
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Jonathan Otto",
+        "Player ID": 1471
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "27",
+        "Season Year": "2020/2021",
+        "Player Name": "Romain Saiss",
+        "Player ID": 1472
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "42",
+        "Season Year": "2020/2021",
+        "Player Name": "Lewis Richards",
+        "Player ID": 1473
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "Ki-Jana Hoever",
+        "Player ID": 1474
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "22",
+        "Season Year": "2020/2021",
+        "Player Name": "N\u00e9lson Semedo",
+        "Player ID": 1475
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "59",
+        "Season Year": "2020/2021",
+        "Player Name": "Oskar Rasmussen",
+        "Player ID": 1476
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "15",
+        "Season Year": "2020/2021",
+        "Player Name": "Willy Boly",
+        "Player ID": 1477
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "16",
+        "Season Year": "2020/2021",
+        "Player Name": "Conor Coady",
+        "Player ID": 1478
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "49",
+        "Season Year": "2020/2021",
+        "Player Name": "Maximilian Kilman",
+        "Player ID": 1479
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "54",
+        "Season Year": "2020/2021",
+        "Player Name": "Ebeguowen Otasowie",
+        "Player ID": 1480
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "57",
+        "Season Year": "2020/2021",
+        "Player Name": "Nigel Lonwijk",
+        "Player ID": 1481
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "75",
+        "Season Year": "2020/2021",
+        "Player Name": "Christian Marques",
+        "Player ID": 1482
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "Rayan A\u00eft-Nouri",
+        "Player ID": 1483
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "Fernando Oliveira",
+        "Player ID": 1484
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "29",
+        "Season Year": "2020/2021",
+        "Player Name": "R\u00faben Vinagre",
+        "Player ID": 1485
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "64",
+        "Season Year": "2020/2021",
+        "Player Name": "Hugo L\u00f3pez",
+        "Player ID": 1486
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "39",
+        "Season Year": "2020/2021",
+        "Player Name": "Luke Cundle",
+        "Player ID": 1487
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "R\u00faben Neves",
+        "Player ID": 1488
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "32",
+        "Season Year": "2020/2021",
+        "Player Name": "Leander Dendoncker",
+        "Player ID": 1489
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Morgan Gibbs-White",
+        "Player ID": 1490
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "26",
+        "Season Year": "2020/2021",
+        "Player Name": "Taylor Perry",
+        "Player ID": 1491
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "38",
+        "Season Year": "2020/2021",
+        "Player Name": "Meritan Shabani",
+        "Player ID": 1492
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "V\u00edtor Ferreira",
+        "Player ID": 1493
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "28",
+        "Season Year": "2020/2021",
+        "Player Name": "Jo\u00e3o Moutinho",
+        "Player ID": 1494
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "Pedro Neto",
+        "Player ID": 1495
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "Daniel Podence",
+        "Player ID": 1496
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "37",
+        "Season Year": "2020/2021",
+        "Player Name": "Adama Diarra",
+        "Player ID": 1497
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "60",
+        "Season Year": "2020/2021",
+        "Player Name": "Theodor Corbeanu",
+        "Player ID": 1498
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Ra\u00fal Rodr\u00edguez",
+        "Player ID": 1499
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "12",
+        "Season Year": "2020/2021",
+        "Player Name": "Willian Silva",
+        "Player ID": 1500
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "F\u00e1bio Silva",
+        "Player ID": 1501
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Patrick Cutrone",
+        "Player ID": 1502
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Player Number": "40",
+        "Season Year": "2020/2021",
+        "Player Name": "Renat Dadashov",
+        "Player ID": 1503
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "Jack Butland",
+        "Player ID": 1504
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "13",
+        "Season Year": "2020/2021",
+        "Player Name": "Wayne Hennessey",
+        "Player ID": 1505
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Stephen Henderson",
+        "Player ID": 1506
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "31",
+        "Season Year": "2020/2021",
+        "Player Name": "Vicente Panadero",
+        "Player ID": 1507
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "Joel Ward",
+        "Player ID": 1508
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "James Tomkins",
+        "Player ID": 1509
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Scott Dann",
+        "Player ID": 1510
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "12",
+        "Season Year": "2020/2021",
+        "Player Name": "Mamadou Sakho",
+        "Player ID": 1511
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "33",
+        "Season Year": "2020/2021",
+        "Player Name": "Jaros\u0142aw Jach",
+        "Player ID": 1512
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "34",
+        "Season Year": "2020/2021",
+        "Player Name": "Martin Kelly",
+        "Player ID": 1513
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "36",
+        "Season Year": "2020/2021",
+        "Player Name": "Nathan Ferguson",
+        "Player ID": 1514
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "38",
+        "Season Year": "2020/2021",
+        "Player Name": "Reece Hannam",
+        "Player ID": 1515
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "45",
+        "Season Year": "2020/2021",
+        "Player Name": "Ryan Inniss",
+        "Player ID": 1516
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "Nathaniel Clyne",
+        "Player ID": 1517
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "Cheikhou Kouyat\u00e9",
+        "Player ID": 1518
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "24",
+        "Season Year": "2020/2021",
+        "Player Name": "Gary Cahill",
+        "Player ID": 1519
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "35",
+        "Season Year": "2020/2021",
+        "Player Name": "Samuel Woods",
+        "Player ID": 1520
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "Patrick Aanholt",
+        "Player ID": 1521
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "27",
+        "Season Year": "2020/2021",
+        "Player Name": "Tyrick Mitchell",
+        "Player ID": 1522
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "Luka Milivojevi\u0107",
+        "Player ID": 1523
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "Maximilian Meyer",
+        "Player ID": 1524
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "15",
+        "Season Year": "2020/2021",
+        "Player Name": "Jeffrey Schlupp",
+        "Player ID": 1525
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "James McArthur",
+        "Player ID": 1526
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "22",
+        "Season Year": "2020/2021",
+        "Player Name": "James McCarthy",
+        "Player ID": 1527
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "37",
+        "Season Year": "2020/2021",
+        "Player Name": "Nya Kirby",
+        "Player ID": 1528
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "44",
+        "Season Year": "2020/2021",
+        "Player Name": "Jairo Riedewald",
+        "Player ID": 1529
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "39",
+        "Season Year": "2020/2021",
+        "Player Name": "Jesurun Rak-Sakyi",
+        "Player ID": 1530
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "Andros Townsend",
+        "Player ID": 1531
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Dazet Zaha",
+        "Player ID": 1532
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "21",
+        "Season Year": "2020/2021",
+        "Player Name": "Connor Wickham",
+        "Player ID": 1533
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Jordan Ayew",
+        "Player ID": 1534
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Jean-Philippe Mateta",
+        "Player ID": 1535
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "Christian Liolo",
+        "Player ID": 1536
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Michy Tunga",
+        "Player ID": 1537
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "40",
+        "Season Year": "2020/2021",
+        "Player Name": "Brandon Keutcha",
+        "Player ID": 1538
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "41",
+        "Season Year": "2020/2021",
+        "Player Name": "John-Kymani Gordon",
+        "Player ID": 1539
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Player Number": "25",
+        "Season Year": "2020/2021",
+        "Player Name": "Eberechi Eze",
+        "Player ID": 1540
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "Alex McCarthy",
+        "Player ID": 1541
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "28",
+        "Season Year": "2020/2021",
+        "Player Name": "Angus Gunn",
+        "Player ID": 1542
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "41",
+        "Season Year": "2020/2021",
+        "Player Name": "Harry Lewis",
+        "Player ID": 1543
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "44",
+        "Season Year": "2020/2021",
+        "Player Name": "Fraser Forster",
+        "Player ID": 1544
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "-",
+        "Season Year": "2020/2021",
+        "Player Name": "Samuel McQueen",
+        "Player ID": 1545
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "31",
+        "Season Year": "2020/2021",
+        "Player Name": "Kayne Ramsay",
+        "Player ID": 1546
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "62",
+        "Season Year": "2020/2021",
+        "Player Name": "Wandja Tchaptchet",
+        "Player ID": 1547
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "Kyle Walker-Peters",
+        "Player ID": 1548
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Yan Valery",
+        "Player ID": 1549
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "Jannik Vestergaard",
+        "Player ID": 1550
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "Jack Stephens",
+        "Player ID": 1551
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "22",
+        "Season Year": "2020/2021",
+        "Player Name": "Mohammed Karim",
+        "Player ID": 1552
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "35",
+        "Season Year": "2020/2021",
+        "Player Name": "Jan Bednarek",
+        "Player ID": 1553
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "Ryan Bertrand",
+        "Player ID": 1554
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "29",
+        "Season Year": "2020/2021",
+        "Player Name": "Jake Vokins",
+        "Player ID": 1555
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "65",
+        "Season Year": "2020/2021",
+        "Player Name": "Caleb Watts",
+        "Player ID": 1556
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Oriol Vidal",
+        "Player ID": 1557
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "27",
+        "Season Year": "2020/2021",
+        "Player Name": "Ibrahima Diallo",
+        "Player ID": 1558
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "72",
+        "Season Year": "2020/2021",
+        "Player Name": "Kgaogelo Chauke",
+        "Player ID": 1559
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "James Ward-Prowse",
+        "Player ID": 1560
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "William Smallbone",
+        "Player ID": 1561
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "52",
+        "Season Year": "2020/2021",
+        "Player Name": "Ryan Finnigan",
+        "Player ID": 1562
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "64",
+        "Season Year": "2020/2021",
+        "Player Name": "Alexandre Jankewitz",
+        "Player ID": 1563
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "47",
+        "Season Year": "2020/2021",
+        "Player Name": "William Ferry",
+        "Player ID": 1564
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "Stuart Armstrong",
+        "Player ID": 1565
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "32",
+        "Season Year": "2020/2021",
+        "Player Name": "Theo Walcott",
+        "Player ID": 1566
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "Shane Long",
+        "Player ID": 1567
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Daniel Ings",
+        "Player ID": 1568
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "Che Adams",
+        "Player ID": 1569
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Michael Obafemi",
+        "Player ID": 1570
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "40",
+        "Season Year": "2020/2021",
+        "Player Name": "Dan Nlundulu",
+        "Player ID": 1571
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Nathan Redmond",
+        "Player ID": 1572
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "12",
+        "Season Year": "2020/2021",
+        "Player Name": "Moussa Djenepo",
+        "Player ID": 1573
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Takumi Minamino",
+        "Player ID": 1574
+    },
+    {
+        "Team Name": "Southampton",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Nathan Tella",
+        "Player ID": 1575
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "Mathew Ryan",
+        "Player ID": 1576
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Jason Steele",
+        "Player ID": 1577
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "26",
+        "Season Year": "2020/2021",
+        "Player Name": "Robert S\u00e1nchez",
+        "Player ID": 1578
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "31",
+        "Season Year": "2020/2021",
+        "Player Name": "Christian Walton",
+        "Player ID": 1579
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "61",
+        "Season Year": "2020/2021",
+        "Player Name": "Thomas McGill",
+        "Player ID": 1580
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Michal Karbownik",
+        "Player ID": 1581
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "46",
+        "Season Year": "2020/2021",
+        "Player Name": "Haydon Roberts",
+        "Player ID": 1582
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "Tariq Lamptey",
+        "Player ID": 1583
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "34",
+        "Season Year": "2020/2021",
+        "Player Name": "J\u00f6el Veltman",
+        "Player ID": 1584
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "Benjamin White",
+        "Player ID": 1585
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "Adam Webster",
+        "Player ID": 1586
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "Lewis Dunk",
+        "Player ID": 1587
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "33",
+        "Season Year": "2020/2021",
+        "Player Name": "Daniel Burn",
+        "Player ID": 1588
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "Solomon March",
+        "Player ID": 1589
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "30",
+        "Season Year": "2020/2021",
+        "Player Name": "Bernardo J\u00fanior",
+        "Player ID": 1590
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "Alexis Allister",
+        "Player ID": 1591
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "41",
+        "Season Year": "2020/2021",
+        "Player Name": "Max Sanders",
+        "Player ID": 1592
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "43",
+        "Season Year": "2020/2021",
+        "Player Name": "Alexander Cochrane",
+        "Player ID": 1593
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "54",
+        "Season Year": "2020/2021",
+        "Player Name": "Jensen Weir",
+        "Player ID": 1594
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "67",
+        "Season Year": "2020/2021",
+        "Player Name": "Reda Khadra",
+        "Player ID": 1595
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Dale Stephens",
+        "Player ID": 1640
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "Yves Bissouma",
+        "Player ID": 1597
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "25",
+        "Season Year": "2020/2021",
+        "Player Name": "Mois\u00e9s Corozo",
+        "Player ID": 1598
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "53",
+        "Season Year": "2020/2021",
+        "Player Name": "Lars Dendoncker",
+        "Player ID": 1599
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "68",
+        "Season Year": "2020/2021",
+        "Player Name": "Tudor B\u0103lu\u021b\u0103",
+        "Player ID": 1600
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Adam Lallana",
+        "Player ID": 1601
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "Steven Alzate",
+        "Player ID": 1602
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "22",
+        "Season Year": "2020/2021",
+        "Player Name": "Percy Tau",
+        "Player ID": 1603
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "13",
+        "Season Year": "2020/2021",
+        "Player Name": "Pascal Gro\u00df",
+        "Player ID": 1604
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "15",
+        "Season Year": "2020/2021",
+        "Player Name": "Jakub Moder",
+        "Player ID": 1605
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "24",
+        "Season Year": "2020/2021",
+        "Player Name": "Davy Pr\u00f6pper",
+        "Player ID": 1606
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "47",
+        "Season Year": "2020/2021",
+        "Player Name": "Teddy Jenks",
+        "Player ID": 1607
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "49",
+        "Season Year": "2020/2021",
+        "Player Name": "Jayson Molumby",
+        "Player ID": 1608
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "44",
+        "Season Year": "2020/2021",
+        "Player Name": "Peter Gwargis",
+        "Player ID": 1609
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Jos\u00e9 Mena",
+        "Player ID": 1610
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "21",
+        "Season Year": "2020/2021",
+        "Player Name": "Florin Andone",
+        "Player ID": 1611
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "42",
+        "Season Year": "2020/2021",
+        "Player Name": "Viktor Gy\u00f6keres",
+        "Player ID": 1612
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "16",
+        "Season Year": "2020/2021",
+        "Player Name": "Alireza Jirandeh",
+        "Player ID": 1613
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "52",
+        "Season Year": "2020/2021",
+        "Player Name": "Romaric Yapi",
+        "Player ID": 1614
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "Aaron Connolly",
+        "Player ID": 1615
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Neal Maupay",
+        "Player ID": 1616
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "29",
+        "Season Year": "2020/2021",
+        "Player Name": "Andi Zeqiri",
+        "Player ID": 1617
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Leandro Trossard",
+        "Player ID": 1618
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Daniel Welbeck",
+        "Player ID": 1619
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "Nicholas Pope",
+        "Player ID": 1620
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "15",
+        "Season Year": "2020/2021",
+        "Player Name": "Bailey Peacock-Farrell",
+        "Player ID": 1621
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "25",
+        "Season Year": "2020/2021",
+        "Player Name": "William Norris",
+        "Player ID": 1622
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "Matthew Lowton",
+        "Player ID": 1623
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "Charles Taylor",
+        "Player ID": 1624
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "James Tarkowski",
+        "Player ID": 1625
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Erik Pieters",
+        "Player ID": 1626
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "26",
+        "Season Year": "2020/2021",
+        "Player Name": "Phillip Bardsley",
+        "Player ID": 1627
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "28",
+        "Season Year": "2020/2021",
+        "Player Name": "Kevin Long",
+        "Player ID": 1628
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "31",
+        "Season Year": "2020/2021",
+        "Player Name": "Richard Nartey",
+        "Player ID": 1629
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "34",
+        "Season Year": "2020/2021",
+        "Player Name": "James Dunne",
+        "Player ID": 1630
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "37",
+        "Season Year": "2020/2021",
+        "Player Name": "Bobby Thomas",
+        "Player ID": 1631
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Benjamin Mee",
+        "Player ID": 1632
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "45",
+        "Season Year": "2020/2021",
+        "Player Name": "Anthony Driscoll-Glennon",
+        "Player ID": 1633
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "Joshua Brownhill",
+        "Player ID": 1634
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "12",
+        "Season Year": "2020/2021",
+        "Player Name": "Robert Brady",
+        "Player ID": 1635
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Ashley Westwood",
+        "Player ID": 1636
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "33",
+        "Season Year": "2020/2021",
+        "Player Name": "Max Thompson",
+        "Player ID": 1637
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "44",
+        "Season Year": "2020/2021",
+        "Player Name": "Mace Goodridge",
+        "Player ID": 1638
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "Jack Cork",
+        "Player ID": 1639
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "16",
+        "Season Year": "2020/2021",
+        "Player Name": "Dale Stephens",
+        "Player ID": 1640
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "35",
+        "Season Year": "2020/2021",
+        "Player Name": "Anthony Mancini",
+        "Player ID": 1641
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "41",
+        "Season Year": "2020/2021",
+        "Player Name": "Josh Benson",
+        "Player ID": 1642
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "Ashley Barnes",
+        "Player ID": 1643
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Jay Rodr\u00edguez",
+        "Player ID": 1644
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "38",
+        "Season Year": "2020/2021",
+        "Player Name": "Lewis Richardson",
+        "Player ID": 1645
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "46",
+        "Season Year": "2020/2021",
+        "Player Name": "Joel Mumbongo",
+        "Player ID": 1646
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "J\u00f3hann Gu\u00f0mundsson",
+        "Player ID": 1647
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Christopher Wood",
+        "Player ID": 1648
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "27",
+        "Season Year": "2020/2021",
+        "Player Name": "Mat\u011bj Vydra",
+        "Player ID": 1649
+    },
+    {
+        "Team Name": "Burnley",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Dwight McNeil",
+        "Player ID": 1650
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "Alphonse Ar\u00e9ola",
+        "Player ID": 1651
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "12",
+        "Season Year": "2020/2021",
+        "Player Name": "Marek Rod\u00e1k",
+        "Player ID": 1652
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "31",
+        "Season Year": "2020/2021",
+        "Player Name": "Fabricio Ram\u00edrez",
+        "Player ID": 1653
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "-",
+        "Season Year": "2020/2021",
+        "Player Name": "Alfie Mawson",
+        "Player ID": 1654
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "13",
+        "Season Year": "2020/2021",
+        "Player Name": "Timothy Ream",
+        "Player ID": 1655
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "35",
+        "Season Year": "2020/2021",
+        "Player Name": "Tyrese Fran\u00e7ois",
+        "Player ID": 1656
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "Kenny Tete",
+        "Player ID": 1657
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "Denis Odoi",
+        "Player ID": 1658
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "22",
+        "Season Year": "2020/2021",
+        "Player Name": "Cyrus Christie",
+        "Player ID": 1659
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "34",
+        "Season Year": "2020/2021",
+        "Player Name": "Temitayo Aina",
+        "Player ID": 1660
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "Michael Hector",
+        "Player ID": 1661
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "Joachim Andersen",
+        "Player ID": 1662
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "16",
+        "Season Year": "2020/2021",
+        "Player Name": "Abdul-Nasir Adarabioyo",
+        "Player ID": 1663
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "Maxime Marchand",
+        "Player ID": 1664
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "30",
+        "Season Year": "2020/2021",
+        "Player Name": "Terence Kongolo",
+        "Player ID": 1665
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Joseph Bryan",
+        "Player ID": 1666
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "33",
+        "Season Year": "2020/2021",
+        "Player Name": "Antonee Robinson",
+        "Player ID": 1667
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Kevin McDonald",
+        "Player ID": 1668
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "Stefan Johansen",
+        "Player ID": 1669
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "Thomas Cairney",
+        "Player ID": 1670
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "29",
+        "Season Year": "2020/2021",
+        "Player Name": "Andr\u00e9-Frank Anguissa",
+        "Player ID": 1671
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "25",
+        "Season Year": "2020/2021",
+        "Player Name": "Joshua Onomah",
+        "Player ID": 1672
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "48",
+        "Season Year": "2020/2021",
+        "Player Name": "F\u00e1bio Carvalho",
+        "Player ID": 1673
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "15",
+        "Season Year": "2020/2021",
+        "Player Name": "Ruben Loftus-Cheek",
+        "Player ID": 1674
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Mario Lemina",
+        "Player ID": 1675
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "21",
+        "Season Year": "2020/2021",
+        "Player Name": "Harrison Reed",
+        "Player ID": 1676
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "24",
+        "Season Year": "2020/2021",
+        "Player Name": "Jean Seri",
+        "Player ID": 1677
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "Neeskens Kebano",
+        "Player ID": 1678
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Anthony Knockaert",
+        "Player ID": 1679
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "47",
+        "Season Year": "2020/2021",
+        "Player Name": "Aboubakar Kamara",
+        "Player ID": 1680
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "58",
+        "Season Year": "2020/2021",
+        "Player Name": "Sylvester Jasper",
+        "Player ID": 1681
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Bobby Cordova-Reid",
+        "Player ID": 1682
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Aleksandar Mitrovi\u0107",
+        "Player ID": 1683
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "27",
+        "Season Year": "2020/2021",
+        "Player Name": "Joshua Maja",
+        "Player ID": 1684
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Ademola Lookman",
+        "Player ID": 1685
+    },
+    {
+        "Team Name": "Fulham",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "Ivan Cavaleiro",
+        "Player ID": 1686
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "Samuel Johnstone",
+        "Player ID": 1687
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Jonathan Bond",
+        "Player ID": 1688
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "25",
+        "Season Year": "2020/2021",
+        "Player Name": "David Button",
+        "Player ID": 1689
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "31",
+        "Season Year": "2020/2021",
+        "Player Name": "Andrew Lonergan",
+        "Player ID": 1690
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "-",
+        "Season Year": "2020/2021",
+        "Player Name": "Timothy Iroegbunam",
+        "Player ID": 1691
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Conor Townsend",
+        "Player ID": 1692
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "30",
+        "Season Year": "2020/2021",
+        "Player Name": "Ainsley Maitland-Niles",
+        "Player ID": 1693
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "40",
+        "Season Year": "2020/2021",
+        "Player Name": "George Harmon",
+        "Player ID": 1694
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "Darnell Furlong",
+        "Player ID": 1695
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "22",
+        "Season Year": "2020/2021",
+        "Player Name": "Lee Peltier",
+        "Player ID": 1696
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "Branislav Ivanovic",
+        "Player ID": 1697
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "Kyle Bartley",
+        "Player ID": 1698
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Oluwasemilogo Ajayi",
+        "Player ID": 1699
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "24",
+        "Season Year": "2020/2021",
+        "Player Name": "C\u00e9dric Kipr\u00e9",
+        "Player ID": 1700
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "26",
+        "Season Year": "2020/2021",
+        "Player Name": "Ahmed Hegazy",
+        "Player ID": 1701
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "27",
+        "Season Year": "2020/2021",
+        "Player Name": "Dara O\u2019Shea",
+        "Player ID": 1702
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "Kieran Gibbs",
+        "Player ID": 1703
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "49",
+        "Season Year": "2020/2021",
+        "Player Name": "Caleb Taylor",
+        "Player ID": 1704
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "51",
+        "Season Year": "2020/2021",
+        "Player Name": "Toby King",
+        "Player ID": 1705
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "Jake Livermore",
+        "Player ID": 1706
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "35",
+        "Season Year": "2020/2021",
+        "Player Name": "Okay Yoku\u015flu",
+        "Player ID": 1707
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "Filip Krovinovi\u0107",
+        "Player ID": 1708
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "39",
+        "Season Year": "2020/2021",
+        "Player Name": "Rico Richards",
+        "Player ID": 1709
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "16",
+        "Season Year": "2020/2021",
+        "Player Name": "Rekeem Harper",
+        "Player ID": 1710
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Conor Gallagher",
+        "Player ID": 1711
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Romaine Sawyers",
+        "Player ID": 1712
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "28",
+        "Season Year": "2020/2021",
+        "Player Name": "Samuel Field",
+        "Player ID": 1713
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Grady Diangana",
+        "Player ID": 1714
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "21",
+        "Season Year": "2020/2021",
+        "Player Name": "Kyle Edwards",
+        "Player ID": 1715
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "32",
+        "Season Year": "2020/2021",
+        "Player Name": "Jamie Soule",
+        "Player ID": 1716
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "45",
+        "Season Year": "2020/2021",
+        "Player Name": "Taylor Gardner-Hickman",
+        "Player ID": 1717
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "Matthew Phillips",
+        "Player ID": 1718
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "12",
+        "Season Year": "2020/2021",
+        "Player Name": "Matheus Pereira",
+        "Player ID": 1719
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Robert Snodgrass",
+        "Player ID": 1720
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "Thomas Robson-Kanu",
+        "Player ID": 1721
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "58",
+        "Season Year": "2020/2021",
+        "Player Name": "Cheikh Diaby",
+        "Player ID": 1722
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "Callum Robinson",
+        "Player ID": 1723
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "15",
+        "Season Year": "2020/2021",
+        "Player Name": "Charlie Austin",
+        "Player ID": 1724
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "Mbaye Diagne",
+        "Player ID": 1725
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "29",
+        "Season Year": "2020/2021",
+        "Player Name": "Karlan Ahearne-Grant",
+        "Player ID": 1726
+    },
+    {
+        "Team Name": "West Bromwich",
+        "Player Number": "13",
+        "Season Year": "2020/2021",
+        "Player Name": "Kamil Grosicki",
+        "Player ID": 1727
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "1",
+        "Season Year": "2020/2021",
+        "Player Name": "Aaron Ramsdale",
+        "Player ID": 1728
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "18",
+        "Season Year": "2020/2021",
+        "Player Name": "Wesley Foderingham",
+        "Player ID": 1729
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "21",
+        "Season Year": "2020/2021",
+        "Player Name": "Michael Verrips",
+        "Player ID": 1730
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "25",
+        "Season Year": "2020/2021",
+        "Player Name": "Simon Moore",
+        "Player ID": 1731
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "33",
+        "Season Year": "2020/2021",
+        "Player Name": "Kyron Gordon",
+        "Player ID": 1732
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "36",
+        "Season Year": "2020/2021",
+        "Player Name": "Harry Boyes",
+        "Player ID": 1733
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "40",
+        "Season Year": "2020/2021",
+        "Player Name": "Oluwafemi Seriki",
+        "Player ID": 1734
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "2",
+        "Season Year": "2020/2021",
+        "Player Name": "George Baldock",
+        "Player ID": 1735
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "20",
+        "Season Year": "2020/2021",
+        "Player Name": "Jayden Bogle",
+        "Player ID": 1736
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "5",
+        "Season Year": "2020/2021",
+        "Player Name": "Jack O\u00b4Connell",
+        "Player ID": 1737
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "6",
+        "Season Year": "2020/2021",
+        "Player Name": "Christopher Basham",
+        "Player ID": 1738
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "12",
+        "Season Year": "2020/2021",
+        "Player Name": "John Egan",
+        "Player ID": 1739
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "15",
+        "Season Year": "2020/2021",
+        "Player Name": "Philip Jagie\u0142ka",
+        "Player ID": 1740
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "19",
+        "Season Year": "2020/2021",
+        "Player Name": "Jack Robinson",
+        "Player ID": 1741
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "22",
+        "Season Year": "2020/2021",
+        "Player Name": "Ethan Ampadu",
+        "Player ID": 1742
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "29",
+        "Season Year": "2020/2021",
+        "Player Name": "Kean Bryan",
+        "Player ID": 1743
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "3",
+        "Season Year": "2020/2021",
+        "Player Name": "Enda Stevens",
+        "Player ID": 1744
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "13",
+        "Season Year": "2020/2021",
+        "Player Name": "Max Lowe",
+        "Player ID": 1745
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "23",
+        "Season Year": "2020/2021",
+        "Player Name": "Benjamin Osborn",
+        "Player ID": 1746
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "28",
+        "Season Year": "2020/2021",
+        "Player Name": "Regan Slater",
+        "Player ID": 1747
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "31",
+        "Season Year": "2020/2021",
+        "Player Name": "Zak Brunt",
+        "Player ID": 1748
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "34",
+        "Season Year": "2020/2021",
+        "Player Name": "Iliman Ndiaye",
+        "Player ID": 1749
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "35",
+        "Season Year": "2020/2021",
+        "Player Name": "Frankie Maguire",
+        "Player ID": 1750
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "7",
+        "Season Year": "2020/2021",
+        "Player Name": "John Lundstram",
+        "Player ID": 1751
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "26",
+        "Season Year": "2020/2021",
+        "Player Name": "Jack Rodwell",
+        "Player ID": 1752
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "4",
+        "Season Year": "2020/2021",
+        "Player Name": "John Fleck",
+        "Player ID": 1753
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "8",
+        "Season Year": "2020/2021",
+        "Player Name": "Sander Berge",
+        "Player ID": 1754
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "16",
+        "Season Year": "2020/2021",
+        "Player Name": "Oliver Norwood",
+        "Player ID": 1755
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "-",
+        "Season Year": "2020/2021",
+        "Player Name": "William Osula",
+        "Player ID": 1756
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "32",
+        "Season Year": "2020/2021",
+        "Player Name": "Antwoine Hackford",
+        "Player ID": 1757
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "38",
+        "Season Year": "2020/2021",
+        "Player Name": "Daniel Jebbison",
+        "Player ID": 1758
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "14",
+        "Season Year": "2020/2021",
+        "Player Name": "Oliver Burke",
+        "Player ID": 1759
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "9",
+        "Season Year": "2020/2021",
+        "Player Name": "Oliver McBurnie",
+        "Player ID": 1760
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "10",
+        "Season Year": "2020/2021",
+        "Player Name": "William Sharp",
+        "Player ID": 1761
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "11",
+        "Season Year": "2020/2021",
+        "Player Name": "Lys Mousset",
+        "Player ID": 1762
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "17",
+        "Season Year": "2020/2021",
+        "Player Name": "David McGoldrick",
+        "Player ID": 1763
+    },
+    {
+        "Team Name": "Sheffield United",
+        "Player Number": "24",
+        "Season Year": "2020/2021",
+        "Player Name": "Rhian Brewster",
+        "Player ID": 1764
+    }
+]

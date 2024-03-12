@@ -1,0 +1,102 @@
+[
+    {
+        "Manager ID": 1,
+        "Team Name": "Manchester City",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 2,
+        "Team Name": "Manchester United",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 3,
+        "Team Name": "Liverpool",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 4,
+        "Team Name": "Chelsea",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 5,
+        "Team Name": "Leicester City",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 6,
+        "Team Name": "West Ham",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 7,
+        "Team Name": "Tottenham",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 8,
+        "Team Name": "Arsenal",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 9,
+        "Team Name": "Leeds United",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 10,
+        "Team Name": "Everton",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 11,
+        "Team Name": "Aston Villa",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 12,
+        "Team Name": "Newcastle",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 13,
+        "Team Name": "Wolverhampton",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 14,
+        "Team Name": "Crystal Palace",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 15,
+        "Team Name": "Southampton",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 16,
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 17,
+        "Team Name": "Burnley",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 18,
+        "Team Name": "Fulham",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 19,
+        "Team Name": "West Bromwich",
+        "Season Year": "2020/2021"
+    },
+    {
+        "Manager ID": 20,
+        "Team Name": "Sheffield United",
+        "Season Year": "2020/2021"
+    }
+]

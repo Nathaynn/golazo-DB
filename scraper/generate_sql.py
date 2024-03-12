@@ -61,8 +61,9 @@ def gen_manager_history_insert(id, team, year):
     return statement
 
 def gen_team_insert(team_name, league_name, team_city, stadium, founded):
-    statement = 'INSERT INTO TEAM(TEAM_NAME, LEAGUE_NAME, TEAM_CITY, TEAM_STADIUM, TEAM_FOUNDED'
-    statement += f'("{team_name}", "{league_name}", "{team_city}", "{stadium}", "{founded + '-01-01'}");'
+    statement = 'INSERT INTO TEAM(TEAM_NAME, LEAGUE_NAME, TEAM_CITY, TEAM_STADIUM, TEAM_FOUNDED) VALUES'
+    founded = f'{founded}-01-01' 
+    statement += f'("{team_name}", "{league_name}", "{team_city}", "{stadium}", "{founded}");'
     return statement
 
 def generate_all_playerstuff():
@@ -71,8 +72,8 @@ def generate_all_playerstuff():
 
     # will contain duplicates across seasons
     path_2020 = f'./data/2020/players.json'
-    path_2021 = f'./data/2021/players.json'
-    path_2022 = f'./data/2022/players.json'
+    #path_2021 = f'./data/2021/players.json'
+    #path_2022 = f'./data/2022/players.json'
 
     # combine all data, then take out dupes
     file_id = open_json(id_path, 'r')
@@ -82,7 +83,7 @@ def generate_all_playerstuff():
     file_2020 = open_json(path_2020, 'r')
     data_2020 = json.load(file_2020)
     close_json(file_2020)
-
+    """
     file_2021 = open_json(path_2021, 'r')
     data_2021 = json.load(file_2021)
     close_json(file_2021)
@@ -90,8 +91,8 @@ def generate_all_playerstuff():
     file_2022 = open_json(path_2022, 'r')
     data_2022 = json.load(file_2022)
     close_json(file_2022)
-
-    data = data_2020 + data_2021 + data_2022
+    """
+    data = data_2020 #+ data_2021 + data_2022
     unique_players = []
     for i in data:
         if i not in unique_players:
@@ -102,8 +103,8 @@ def generate_all_playerstuff():
     
     # Iterate through ids (start from ID = 1001)
     player_statements = "% PLAYERS %\n\n ALTER TABLE PLAYER AUTO_INCREMENT = 1001;\n"
-    for i in data_id:
-        name = i['Player Name'].split()
+    for i in data_id.keys():
+        name = str(i).split()
         fname = name[0]
         lname = name[1]
         for j in unique_players:
@@ -113,7 +114,7 @@ def generate_all_playerstuff():
     
     # Iterate through player_history
     player_statements += '% PLAYER_HISTORY % \n\n'
-    file_ph = open_json('./data/player_history.json')
+    file_ph = open_json('./data/player_history.json', 'r')
     data_ph = json.load(file_ph)
     close_json(file_ph)
 
@@ -128,8 +129,8 @@ def generate_all_managerstuff():
 
     # will contain duplicates across seasons
     path_2020 = f'./data/2020/managers.json'
-    path_2021 = f'./data/2021/managers.json'
-    path_2022 = f'./data/2022/managers.json'
+    #path_2021 = f'./data/2021/managers.json'
+    #path_2022 = f'./data/2022/managers.json'
 
     # combine all data, then take out dupes
     file_id = open_json(id_path, 'r')
@@ -139,7 +140,7 @@ def generate_all_managerstuff():
     file_2020 = open_json(path_2020, 'r')
     data_2020 = json.load(file_2020)
     close_json(file_2020)
-
+    """
     file_2021 = open_json(path_2021, 'r')
     data_2021 = json.load(file_2021)
     close_json(file_2021)
@@ -147,8 +148,8 @@ def generate_all_managerstuff():
     file_2022 = open_json(path_2022, 'r')
     data_2022 = json.load(file_2022)
     close_json(file_2022)
-
-    data = data_2020 + data_2021 + data_2022
+    """
+    data = data_2020 #+ data_2021 + data_2022
     unique_managers = []
     for i in data:
         if i not in unique_managers:
@@ -156,18 +157,19 @@ def generate_all_managerstuff():
     
     # Iterate through ids (start from ID = 1)
     manager_statements = "% MANAGERS % \n\n ALTER TABLE MANAGER AUTO_INCREMENT = 1; \n"
-    for i in data_id:
-        name = i['Manager Name'].split()
+    for i in data_id.keys():
+        name = str(i).split()
         fname = name[0]
         lname = name[1]
         for j in unique_managers:
-            if fname == j['Mangaer Fname'] and lname == j['Manager Lname']:
-                managaer_statements += gen_player_insert(fname, lname, j['Manager Age'], j['Manager Nationality']) + '\n'
+            if fname == j['Manager Fname'] and lname == j['Manager Lname']:
+                # NOTE I accidently made manager nationaly have a key of player nationality, the value is still true tho! so i'll change later
+                manager_statements += gen_manager_insert(fname, lname, j['Manager Age'], j['Player Nationality']) + '\n'
                 break
     
     # Iterate through manager_history
     manager_statements += '% MANAGER_HISTORY % \n\n'
-    file_ph = open_json('./data/manager_history.json')
+    file_ph = open_json('./data/manager_history.json', 'r')
     data_ph = json.load(file_ph)
     close_json(file_ph)
 
@@ -179,14 +181,14 @@ def generate_all_managerstuff():
 def generate_all_matchstuff():
   # will contain duplicates across seasons
     path_2020 = f'./data/2020/match.json'
-    path_2021 = f'./data/2021/match.json'
-    path_2022 = f'./data/2022/match.json'
+    #path_2021 = f'./data/2021/match.json'
+    #path_2022 = f'./data/2022/match.json'
 
     # combine all data, there is no need to worry for dupes
     file_2020 = open_json(path_2020, 'r')
     data_2020 = json.load(file_2020)
     close_json(file_2020)
-
+    """
     file_2021 = open_json(path_2021, 'r')
     data_2021 = json.load(file_2021)
     close_json(file_2021)
@@ -194,10 +196,10 @@ def generate_all_matchstuff():
     file_2022 = open_json(path_2022, 'r')
     data_2022 = json.load(file_2022)
     close_json(file_2022)
+    """
+    data = data_2020 #+ data_2021 + data_2022
 
-    data = data_2020 + data_2021 + data_2022
-
-    match_statements = '% MATCHES % \n\n ALTER TABLE MATCH AUTO_INCREMENT= 10001; \n'
+    match_statements = '% MATCHES % \n\nALTER TABLE MATCH AUTO_INCREMENT= 10001; \n'
     for i in data:
         match_statements += gen_match_insert(i['Home Team'], i['Away Team'], i['League'], i['Season'].replace("/", "-"), i['Home Score'], i['Away Score'], i['Game Date']) + '\n'
 
@@ -212,7 +214,7 @@ def generate_all_teamstuff():
 
     team_statements = '% TEAMS % \n\n'
     for i in data:
-        team_statements += gen_team_insert(i['Team Name'], i['Team League'], ['Team City'], ['Team Stadium'], ['Team Founded']) + '\n'
+        team_statements += gen_team_insert(i['Team Name'], i['Team League'], i['Team City'], i['Team Stadium'], i['Team Founded']) + '\n'
 
     return team_statements
 
@@ -226,10 +228,11 @@ def cool_stuff():
     return temp
 
 def create_file():
-    try:
-        os.mkdir('./data/sql')
-        f = open('.data/sql/class.sql', 'w')
-        f.write(cool_stuff)
-        f.close()
-    except:
-        return 
+    
+    os.mkdir('./data/sql')
+    f = open('./data/sql/class.sql', 'w')
+    f.write(cool_stuff())
+    f.close()
+
+    
+create_file()
