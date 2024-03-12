@@ -19,7 +19,10 @@ def league_player_data(url, driver):
 
     # table full of each team
     team_table = driver.find_element(By.ID, 'page').find_element(By.ID,'edition_table').find_element(By.TAG_NAME, 'tbody').find_elements(By.TAG_NAME, 'tr')
-
+    player_history= []
+    players = []
+    manager_history = []
+    managers = []
     for i in team_table:
         # grab team name + link to team stats. NOTE that team_id is just the name, will change with values once we have a cohesive way of determining id's
         href_area = i.find_element(By.CLASS_NAME, 'text').find_element(By.TAG_NAME, 'a')
@@ -33,10 +36,6 @@ def league_player_data(url, driver):
 
         # locate each squad player
         # each box seperates the goalkeepers, defenders, midfielders, and forwards
-        player_history= []
-        players = []
-        manager_history = []
-        managers = []
         squad_table = driver.find_element(By.ID, 'page').find_element(By.ID, 'team_squad').find_elements(By.CLASS_NAME, 'innerbox')
         manager_table = driver.find_element(By.ID, 'page').find_element(By.ID, 'team_staff').find_element(By.CLASS_NAME, 'staff_line').find_element(By.CLASS_NAME, 'text').find_element(By.TAG_NAME, 'a')
         for j in squad_table:
@@ -87,6 +86,7 @@ def player_data(url, driver):
     player_window = len(driver.window_handles) - 1
     driver.switch_to.window(driver.window_handles[player_window])
     driver.get(url)
+    sleep(1)
 
     # each div within bio can't be uniquely identified without looking inside inside each element
     # check each div. if it has the stuff we want then commit, else ignore

@@ -4,6 +4,7 @@ from match import *
 import json
 import os
 from selenium.webdriver.chrome.options import Options
+import chromedriver_autoinstaller
 
 if __name__ == '__main__':
         
@@ -27,6 +28,11 @@ if __name__ == '__main__':
     team_stuff = []
     player_stuff = []
     match_stuff = []
+
+    try:
+        driver = webdriver.Chrome()
+    except:
+        chromedriver_autoinstaller.install()
 
     # args
     for i in league_urls:

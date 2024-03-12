@@ -2,9 +2,12 @@ appnope==0.1.4
 asttokens==2.4.1
 attrs==23.2.0
 backcall==0.2.0
+beautifulsoup4==4.12.3
 bleach==6.1.0
+bs4==0.0.2
 certifi==2024.2.2
 charset-normalizer==3.3.2
+chromedriver-autoinstaller==0.6.4
 decorator==5.1.1
 defusedxml==0.7.1
 docopt==0.6.2
