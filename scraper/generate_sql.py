@@ -31,7 +31,7 @@ def gen_player_insert(player_fname, player_lname, player_position, player_age, p
 
 def gen_player_history_insert(id, team_name, year, num):
     statement = 'INSERT INTO PLAYER_HISTORY(PLAYER_ID, TEAM_NAME, SEASON_YEAR, PLAYER_NUMBER) VALUES'
-    statement += f'({id}, "{team_name}", "{year}", {num})'
+    statement += f'({id}, "{team_name}", "{year}", {num});'
 
     return statement
 
@@ -56,7 +56,7 @@ def gen_manager_insert(fname, lname, m_age, nationality):
 
 def gen_manager_history_insert(id, team, year):
     statement = 'INSERT INTO MANAGER_HISTORY(MANAGER_ID, TEAM_NAME, SEASON_YEAR) VALUES'
-    statement += f'({id}, "{team}", "{year}")'
+    statement += f'({id}, "{team}", "{year}");'
 
     return statement
 
