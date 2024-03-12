@@ -24,7 +24,7 @@ def league_player_data(url, driver):
     manager_history = []
     managers = []
     for i in team_table:
-        # grab team name + link to team stats. NOTE that team_id is just the name, will change with values once we have a cohesive way of determining id's
+        # grab team name + link to team stats.
         href_area = i.find_element(By.CLASS_NAME, 'text').find_element(By.TAG_NAME, 'a')
         team_id = href_area.get_attribute('innerHTML')
         href = href_area.get_attribute('href')
