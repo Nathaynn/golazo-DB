@@ -3,6 +3,7 @@ from players import *
 from match import *
 import json
 import os
+from selenium.webdriver.chrome.options import Options
 
 if __name__ == '__main__':
         
@@ -13,12 +14,16 @@ if __name__ == '__main__':
     bundesliga_1 = "https://www.playmakerstats.com/competition/1-bundesliga"
     ligue_1 = "https://www.playmakerstats.com/competition/ligue-1"
     league_urls = [premier, liga, serie, bundesliga_1, ligue_1]
+
     # for debugging
-    league_urls = [premier]
+    # league_urls = [premier]
+
     # parameters
     season_of_interest = '20'
     chop = webdriver.ChromeOptions()
     chop.add_extension('./adblock/Adblock.crx')
+    # saved my life, hides the browser so now i can use computer 
+    chop.add_argument('--headless=new')
     team_stuff = []
     player_stuff = []
     match_stuff = []
@@ -149,7 +154,7 @@ if __name__ == '__main__':
         manager_id = 1
         for i in player_stuff:
             for j in i[3]:
-                manager_name = f'{j['Manager Fname']} {j['Mangaer Lname']}'
+                manager_name = f'{j['Manager Fname']} {j['Manager Lname']}'
                 x[manager_name] = manager_id
                 manager_id += 1
         x = json.dumps(x, indent=4)
@@ -158,7 +163,7 @@ if __name__ == '__main__':
         manager_id = max(list(data.values())) + 1
         for i in player_stuff:
             for j in i[3]:
-                manager_name = f'{j['Manager Fname']} {j['Mangaer Lname']}'
+                manager_name = f'{j['Manager Fname']} {j['Manager Lname']}'
                 if manager_name not in names:
                     x[manager_name] = manager_id
                     manager_id += 1
