@@ -15,7 +15,8 @@ if __name__ == '__main__':
     bundesliga_1 = "https://www.playmakerstats.com/competition/1-bundesliga"
     ligue_1 = "https://www.playmakerstats.com/competition/ligue-1"
     league_urls = [serie, bundesliga_1, liga, premier]
-    league_urls = [premier]
+    league_urls = [serie]
+
     # for debugging
 
     # parameters
@@ -84,7 +85,14 @@ if __name__ == '__main__':
         for j in i:
             x.append(j)
     
-    json_stuff = json.dumps(x, indent=4)
+    try:
+        pre_append = open(f'{dir_path}/teams.json', 'r')
+        pre_append_data = json.load(pre_append)
+        pre_append_data.append(x)
+    except:
+        pre_append_data = x
+    
+    json_stuff = json.dumps(pre_append_data, indent=4)
     with open(f'{dir_path}/teams.json', 'w') as file:
         file.write(json_stuff)
         file.close()
@@ -96,7 +104,14 @@ if __name__ == '__main__':
             if j['Home Team'] != '' or j['Away Team'] != '':
                 x.append(j)
     
-    json_stuff = json.dumps(x, indent=4)
+    try:
+        pre_append = open(f'{dir_path}/match.json', 'r')
+        pre_append_data = json.load(pre_append)
+        pre_append_data.append(x)
+    except:
+        pre_append_data = x
+
+    json_stuff = json.dumps(pre_append_data, indent=4)
     with open(f'{dir_path}/match.json', 'w') as file:
         file.write(json_stuff)
         file.close()
@@ -106,8 +121,14 @@ if __name__ == '__main__':
     for i in player_stuff:
         for j in i[1]:
             x.append(j)
+    try:
+        pre_append = open(f'{dir_path}/players.json', 'r')
+        pre_append_data = json.load(pre_append)
+        pre_append_data.append(x)
+    except:
+        pre_append_data = x
 
-    json_stuff = json.dumps(x, indent=4)
+    json_stuff = json.dumps(pre_append_data, indent=4)
     with open(f'{dir_path}/players.json', 'w') as file:
         file.write(json_stuff)
         file.close()
@@ -117,8 +138,14 @@ if __name__ == '__main__':
     for i in player_stuff:
         for j in i[3]:
             x.append(j)
+    try:
+        pre_append = open(f'{dir_path}/managers.json', 'r')
+        pre_append_data = json.load(pre_append)
+        pre_append_data.append(x)
+    except:
+        pre_append_data = x
 
-    json_stuff = json.dumps(x, indent=4)
+    json_stuff = json.dumps(pre_append_data, indent=4)
     with open(f'{dir_path}/managers.json', 'w') as file:
         file.write(json_stuff)
         file.close()
