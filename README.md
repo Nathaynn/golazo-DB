@@ -43,7 +43,7 @@ To use the PlaymakerStats web scraper, follow these steps:
 
 ## Supported Leagues
 
-Currently, the script supports scraping data for the following leagues:
+Currently, the script supports scraping data for the following leagues (as I know of):
 
 - Premier League
 
