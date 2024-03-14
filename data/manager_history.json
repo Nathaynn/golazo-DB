@@ -338,5 +338,365 @@
         "Manager Name": "Ralph Hasenh\u00fcttl",
         "Season Year": "2022/2023",
         "Manager ID": 15
+    },
+    {
+        "Team Name": "Atl\u00e9tico de Madrid",
+        "Manager Name": "Diego Simeone",
+        "Season Year": "2020/2021",
+        "Manager ID": 34
+    },
+    {
+        "Team Name": "Real Madrid",
+        "Manager Name": "Zin\u00e9dine Zidane",
+        "Season Year": "2020/2021",
+        "Manager ID": 35
+    },
+    {
+        "Team Name": "Barcelona",
+        "Manager Name": "Ronald Koeman",
+        "Season Year": "2020/2021",
+        "Manager ID": 36
+    },
+    {
+        "Team Name": "Sevilla",
+        "Manager Name": "Julen Argote",
+        "Season Year": "2020/2021",
+        "Manager ID": 37
+    },
+    {
+        "Team Name": "Real Sociedad",
+        "Manager Name": "Imanol Barrenetxea",
+        "Season Year": "2020/2021",
+        "Manager ID": 38
+    },
+    {
+        "Team Name": "Real Betis",
+        "Manager Name": "Manuel Ripamonti",
+        "Season Year": "2020/2021",
+        "Manager ID": 39
+    },
+    {
+        "Team Name": "Villarreal",
+        "Manager Name": "Unai Etxegoien",
+        "Season Year": "2020/2021",
+        "Manager ID": 40
+    },
+    {
+        "Team Name": "Celta de Vigo",
+        "Manager Name": "\u00d3scar Junyent",
+        "Season Year": "2020/2021",
+        "Manager ID": 41
+    },
+    {
+        "Team Name": "Granada",
+        "Manager Name": "Diego Penas",
+        "Season Year": "2020/2021",
+        "Manager ID": 42
+    },
+    {
+        "Team Name": "Athletic Bilbao",
+        "Manager Name": "Gaizka Aguirre",
+        "Season Year": "2020/2021",
+        "Manager ID": 43
+    },
+    {
+        "Team Name": "Osasuna",
+        "Manager Name": "Jagoba Elustondo",
+        "Season Year": "2020/2021",
+        "Manager ID": 44
+    },
+    {
+        "Team Name": "C\u00e1diz",
+        "Manager Name": "\u00c1lvaro D\u00edaz",
+        "Season Year": "2020/2021",
+        "Manager ID": 45
+    },
+    {
+        "Team Name": "Valencia",
+        "Manager Name": "Javier Carlos",
+        "Season Year": "2020/2021",
+        "Manager ID": 33
+    },
+    {
+        "Team Name": "Levante",
+        "Manager Name": "Francisco Fern\u00e1ndez",
+        "Season Year": "2020/2021",
+        "Manager ID": 46
+    },
+    {
+        "Team Name": "Getafe",
+        "Manager Name": "Jos\u00e9 Jim\u00e9nez",
+        "Season Year": "2020/2021",
+        "Manager ID": 47
+    },
+    {
+        "Team Name": "Alav\u00e9s",
+        "Manager Name": "Pablo D\u00edez",
+        "Season Year": "2020/2021",
+        "Manager ID": 48
+    },
+    {
+        "Team Name": "Elche",
+        "Manager Name": "Jorge Quintana",
+        "Season Year": "2020/2021",
+        "Manager ID": 49
+    },
+    {
+        "Team Name": "Huesca",
+        "Manager Name": "Miguel Mu\u00f1oz",
+        "Season Year": "2020/2021",
+        "Manager ID": 50
+    },
+    {
+        "Team Name": "Valladolid",
+        "Manager Name": "Sergio Soriano",
+        "Season Year": "2020/2021",
+        "Manager ID": 51
+    },
+    {
+        "Team Name": "Eibar",
+        "Manager Name": "Jos\u00e9 Etxebarria",
+        "Season Year": "2020/2021",
+        "Manager ID": 52
+    },
+    {
+        "Team Name": "Real Madrid",
+        "Manager Name": "Carlo Ancelotti",
+        "Season Year": "2021/2022",
+        "Manager ID": 10
+    },
+    {
+        "Team Name": "Barcelona",
+        "Manager Name": "Ronald Koeman",
+        "Season Year": "2021/2022",
+        "Manager ID": 36
+    },
+    {
+        "Team Name": "Atl\u00e9tico de Madrid",
+        "Manager Name": "Diego Simeone",
+        "Season Year": "2021/2022",
+        "Manager ID": 34
+    },
+    {
+        "Team Name": "Sevilla",
+        "Manager Name": "Julen Argote",
+        "Season Year": "2021/2022",
+        "Manager ID": 37
+    },
+    {
+        "Team Name": "Real Betis",
+        "Manager Name": "Manuel Ripamonti",
+        "Season Year": "2021/2022",
+        "Manager ID": 39
+    },
+    {
+        "Team Name": "Real Sociedad",
+        "Manager Name": "Imanol Barrenetxea",
+        "Season Year": "2021/2022",
+        "Manager ID": 38
+    },
+    {
+        "Team Name": "Villarreal",
+        "Manager Name": "Unai Etxegoien",
+        "Season Year": "2021/2022",
+        "Manager ID": 40
+    },
+    {
+        "Team Name": "Athletic Bilbao",
+        "Manager Name": "Marcelino Toral",
+        "Season Year": "2021/2022",
+        "Manager ID": 53
+    },
+    {
+        "Team Name": "Valencia",
+        "Manager Name": "Jos\u00e9 Jim\u00e9nez",
+        "Season Year": "2021/2022",
+        "Manager ID": 47
+    },
+    {
+        "Team Name": "Osasuna",
+        "Manager Name": "Jagoba Elustondo",
+        "Season Year": "2021/2022",
+        "Manager ID": 44
+    },
+    {
+        "Team Name": "Celta de Vigo",
+        "Manager Name": "Eduardo Coudet",
+        "Season Year": "2021/2022",
+        "Manager ID": 54
+    },
+    {
+        "Team Name": "Rayo Vallecano",
+        "Manager Name": "Andoni Sagarna",
+        "Season Year": "2021/2022",
+        "Manager ID": 55
+    },
+    {
+        "Team Name": "Elche",
+        "Manager Name": "Francisco Segura",
+        "Season Year": "2021/2022",
+        "Manager ID": 56
+    },
+    {
+        "Team Name": "Espanyol",
+        "Manager Name": "Vicente Peris",
+        "Season Year": "2021/2022",
+        "Manager ID": 57
+    },
+    {
+        "Team Name": "Getafe",
+        "Manager Name": "Jos\u00e9 Campo",
+        "Season Year": "2021/2022",
+        "Manager ID": 58
+    },
+    {
+        "Team Name": "Mallorca",
+        "Manager Name": "Luis Plaza",
+        "Season Year": "2021/2022",
+        "Manager ID": 59
+    },
+    {
+        "Team Name": "C\u00e1diz",
+        "Manager Name": "\u00c1lvaro D\u00edaz",
+        "Season Year": "2021/2022",
+        "Manager ID": 45
+    },
+    {
+        "Team Name": "Granada",
+        "Manager Name": "Robert Gonz\u00e1lez",
+        "Season Year": "2021/2022",
+        "Manager ID": 60
+    },
+    {
+        "Team Name": "Levante",
+        "Manager Name": "Francisco Fern\u00e1ndez",
+        "Season Year": "2021/2022",
+        "Manager ID": 46
+    },
+    {
+        "Team Name": "Alav\u00e9s",
+        "Manager Name": "Javier Revilla",
+        "Season Year": "2021/2022",
+        "Manager ID": 61
+    },
+    {
+        "Team Name": "Barcelona",
+        "Manager Name": "Xavier Creus",
+        "Season Year": "2022/2023",
+        "Manager ID": 62
+    },
+    {
+        "Team Name": "Real Madrid",
+        "Manager Name": "Carlo Ancelotti",
+        "Season Year": "2022/2023",
+        "Manager ID": 10
+    },
+    {
+        "Team Name": "Atl\u00e9tico de Madrid",
+        "Manager Name": "Diego Simeone",
+        "Season Year": "2022/2023",
+        "Manager ID": 34
+    },
+    {
+        "Team Name": "Real Sociedad",
+        "Manager Name": "Imanol Barrenetxea",
+        "Season Year": "2022/2023",
+        "Manager ID": 38
+    },
+    {
+        "Team Name": "Villarreal",
+        "Manager Name": "Unai Etxegoien",
+        "Season Year": "2022/2023",
+        "Manager ID": 40
+    },
+    {
+        "Team Name": "Real Betis",
+        "Manager Name": "Manuel Ripamonti",
+        "Season Year": "2022/2023",
+        "Manager ID": 39
+    },
+    {
+        "Team Name": "Osasuna",
+        "Manager Name": "Jagoba Elustondo",
+        "Season Year": "2022/2023",
+        "Manager ID": 44
+    },
+    {
+        "Team Name": "Athletic Bilbao",
+        "Manager Name": "Ernesto Tejedor",
+        "Season Year": "2022/2023",
+        "Manager ID": 63
+    },
+    {
+        "Team Name": "Mallorca",
+        "Manager Name": "Javier Onaind\u00eda",
+        "Season Year": "2022/2023",
+        "Manager ID": 64
+    },
+    {
+        "Team Name": "Girona",
+        "Manager Name": "Miguel Mu\u00f1oz",
+        "Season Year": "2022/2023",
+        "Manager ID": 50
+    },
+    {
+        "Team Name": "Rayo Vallecano",
+        "Manager Name": "Andoni Sagarna",
+        "Season Year": "2022/2023",
+        "Manager ID": 55
+    },
+    {
+        "Team Name": "Sevilla",
+        "Manager Name": "Julen Argote",
+        "Season Year": "2022/2023",
+        "Manager ID": 37
+    },
+    {
+        "Team Name": "Celta de Vigo",
+        "Manager Name": "Eduardo Coudet",
+        "Season Year": "2022/2023",
+        "Manager ID": 54
+    },
+    {
+        "Team Name": "C\u00e1diz",
+        "Manager Name": "Sergio Soriano",
+        "Season Year": "2022/2023",
+        "Manager ID": 51
+    },
+    {
+        "Team Name": "Valencia",
+        "Manager Name": "Gennaro Gattuso",
+        "Season Year": "2022/2023",
+        "Manager ID": 65
+    },
+    {
+        "Team Name": "Getafe",
+        "Manager Name": "Enrique Flores",
+        "Season Year": "2022/2023",
+        "Manager ID": 66
+    },
+    {
+        "Team Name": "Almer\u00eda",
+        "Manager Name": "Juan Sicilia",
+        "Season Year": "2022/2023",
+        "Manager ID": 67
+    },
+    {
+        "Team Name": "Valladolid",
+        "Manager Name": "Jos\u00e9 Mart\u00edn",
+        "Season Year": "2022/2023",
+        "Manager ID": 68
+    },
+    {
+        "Team Name": "Espanyol",
+        "Manager Name": "Diego Penas",
+        "Season Year": "2022/2023",
+        "Manager ID": 42
+    },
+    {
+        "Team Name": "Elche",
+        "Manager Name": "Francisco Vilchez",
+        "Season Year": "2022/2023",
+        "Manager ID": 69
     }
 ]

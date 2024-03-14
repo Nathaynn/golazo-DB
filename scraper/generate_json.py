@@ -14,8 +14,7 @@ if __name__ == '__main__':
     serie = "https://www.playmakerstats.com/competition/serie-a"
     bundesliga_1 = "https://www.playmakerstats.com/competition/1-bundesliga"
     ligue_1 = "https://www.playmakerstats.com/competition/ligue-1"
-    league_urls = [serie, bundesliga_1, liga, premier]
-    league_focus = league_urls[1]
+    league_focus = liga
     league_urls = [league_focus]
 
     # for debugging
@@ -44,10 +43,13 @@ if __name__ == '__main__':
         
         driver = webdriver.Chrome(chop)
         league_season = get_season_link(i, driver, season_of_interest)
-        driver = webdriver.Chrome(chop)
-        player_stuff.append(league_player_data(league_season, driver))
+
         driver = webdriver.Chrome(matches_settings)
         match_stuff.append(season_match_data(league_season, driver))
+
+        driver = webdriver.Chrome(chop)
+        player_stuff.append(league_player_data(league_season, driver))
+
         driver = webdriver.Chrome(chop)
         team_stuff.append(team_data(league_season, driver))
 
@@ -89,7 +91,7 @@ if __name__ == '__main__':
     try:
         pre_append = open(f'{dir_path}/teams.json', 'r')
         pre_append_data = json.load(pre_append)
-        pre_append_data.append(x)
+        pre_append_data += x
     except:
         pre_append_data = x
     
@@ -108,7 +110,7 @@ if __name__ == '__main__':
     try:
         pre_append = open(f'{dir_path}/match.json', 'r')
         pre_append_data = json.load(pre_append)
-        pre_append_data.append(x)
+        pre_append_data += x
     except:
         pre_append_data = x
 
@@ -125,7 +127,7 @@ if __name__ == '__main__':
     try:
         pre_append = open(f'{dir_path}/players.json', 'r')
         pre_append_data = json.load(pre_append)
-        pre_append_data.append(x)
+        pre_append_data += x
     except:
         pre_append_data = x
 
@@ -142,7 +144,7 @@ if __name__ == '__main__':
     try:
         pre_append = open(f'{dir_path}/managers.json', 'r')
         pre_append_data = json.load(pre_append)
-        pre_append_data.append(x)
+        pre_append_data += x
     except:
         pre_append_data = x
 

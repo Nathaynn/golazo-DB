@@ -118,5 +118,127 @@
         "Manager Lname": "Hasenh\u00fcttl",
         "Manager Age": 56,
         "Player Nationality": "Austria"
-    }
+    },
+    
+        {
+            "Manager Fname": "Xavier",
+            "Manager Lname": "Creus",
+            "Manager Age": 44,
+            "Player Nationality": "Spain"
+        },
+        {
+            "Manager Fname": "Carlo",
+            "Manager Lname": "Ancelotti",
+            "Manager Age": 64,
+            "Player Nationality": "Italy"
+        },
+        {
+            "Manager Fname": "Diego",
+            "Manager Lname": "Simeone",
+            "Manager Age": 53,
+            "Player Nationality": "Argentina"
+        },
+        {
+            "Manager Fname": "Imanol",
+            "Manager Lname": "Barrenetxea",
+            "Manager Age": 52,
+            "Player Nationality": "Spain"
+        },
+        {
+            "Manager Fname": "Unai",
+            "Manager Lname": "Etxegoien",
+            "Manager Age": 52,
+            "Player Nationality": "Spain"
+        },
+        {
+            "Manager Fname": "Manuel",
+            "Manager Lname": "Ripamonti",
+            "Manager Age": 70,
+            "Player Nationality": "Chile"
+        },
+        {
+            "Manager Fname": "Jagoba",
+            "Manager Lname": "Elustondo",
+            "Manager Age": 45,
+            "Player Nationality": "Spain"
+        },
+        {
+            "Manager Fname": "Ernesto",
+            "Manager Lname": "Tejedor",
+            "Manager Age": 60,
+            "Player Nationality": "Spain"
+        },
+        {
+            "Manager Fname": "Javier",
+            "Manager Lname": "Onaind\u00eda",
+            "Manager Age": 65,
+            "Player Nationality": "Mexico"
+        },
+        {
+            "Manager Fname": "Miguel",
+            "Manager Lname": "Mu\u00f1oz",
+            "Manager Age": 48,
+            "Player Nationality": "Spain"
+        },
+        {
+            "Manager Fname": "Andoni",
+            "Manager Lname": "Sagarna",
+            "Manager Age": 41,
+            "Player Nationality": "Spain"
+        },
+        {
+            "Manager Fname": "Julen",
+            "Manager Lname": "Argote",
+            "Manager Age": 57,
+            "Player Nationality": "Spain"
+        },
+        {
+            "Manager Fname": "Eduardo",
+            "Manager Lname": "Coudet",
+            "Manager Age": 49,
+            "Player Nationality": "Argentina"
+        },
+        {
+            "Manager Fname": "Sergio",
+            "Manager Lname": "Soriano",
+            "Manager Age": 47,
+            "Player Nationality": "Spain"
+        },
+        {
+            "Manager Fname": "Gennaro",
+            "Manager Lname": "Gattuso",
+            "Manager Age": 46,
+            "Player Nationality": "Italy"
+        },
+        {
+            "Manager Fname": "Enrique",
+            "Manager Lname": "Flores",
+            "Manager Age": 59,
+            "Player Nationality": "Spain"
+        },
+        {
+            "Manager Fname": "Juan",
+            "Manager Lname": "Sicilia",
+            "Manager Age": 54,
+            "Player Nationality": "Spain"
+        },
+        {
+            "Manager Fname": "Jos\u00e9",
+            "Manager Lname": "Mart\u00edn",
+            "Manager Age": 55,
+            "Player Nationality": "Spain"
+        },
+        {
+            "Manager Fname": "Diego",
+            "Manager Lname": "Penas",
+            "Manager Age": 43,
+            "Player Nationality": "Spain"
+        },
+        {
+            "Manager Fname": "Francisco",
+            "Manager Lname": "Vilchez",
+            "Manager Age": 45,
+            "Player Nationality": "Spain"
+        }
+    
 ]

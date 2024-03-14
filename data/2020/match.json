@@ -3418,5 +3418,3427 @@
         "Game Date": "2020-11-28",
         "League": "Premier League",
         "Season": "2020/2021"
-    }
+    },
+    
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "1",
+            "Away Score": "2",
+            "Game Date": "2021-05-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Osasuna",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-05-16",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Real Sociedad",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-05-12",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2021-05-08",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-05-01",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-04-25",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Huesca",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2021-04-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Eibar",
+            "Home Score": "5",
+            "Away Score": "0",
+            "Game Date": "2021-04-18",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-04-11",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-04-04",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-03-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2021-03-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-03-10",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Real Madrid",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-03-07",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2021-02-28",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Levante",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2021-02-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-02-17",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "1",
+            "Away Score": "2",
+            "Game Date": "2021-02-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2021-02-08",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "2",
+            "Away Score": "4",
+            "Game Date": "2021-01-31",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Valencia",
+            "Home Score": "3",
+            "Away Score": "1",
+            "Game Date": "2021-01-24",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "1",
+            "Away Score": "2",
+            "Game Date": "2021-01-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Sevilla",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2021-01-12",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "1",
+            "Away Score": "2",
+            "Game Date": "2021-01-03",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Getafe",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2020-12-30",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2020-12-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Elche",
+            "Home Score": "3",
+            "Away Score": "1",
+            "Game Date": "2020-12-19",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2020-12-12",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Valladolid",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2020-12-05",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2020-11-28",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Barcelona",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2020-11-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "4",
+            "Away Score": "0",
+            "Game Date": "2020-11-07",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "1",
+            "Away Score": "3",
+            "Game Date": "2020-10-31",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Real Betis",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2020-10-24",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2020-10-17",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Villarreal",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2020-10-03",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Atl\u00e9tico de Madrid",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2020-09-30",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Atl\u00e9tico de Madrid",
+            "Away Team": "Granada",
+            "Home Score": "6",
+            "Away Score": "1",
+            "Game Date": "2020-09-27",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Villarreal",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-05-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Real Madrid",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-05-16",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Real Madrid",
+            "Home Score": "1",
+            "Away Score": "4",
+            "Game Date": "2021-05-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Sevilla",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2021-05-09",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Osasuna",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2021-05-01",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Real Betis",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2021-04-24",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Real Madrid",
+            "Home Score": "0",
+            "Away Score": "3",
+            "Game Date": "2021-04-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Real Madrid",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2021-04-18",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Barcelona",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-04-10",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Eibar",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2021-04-03",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Real Madrid",
+            "Home Score": "1",
+            "Away Score": "3",
+            "Game Date": "2021-03-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Elche",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-03-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Real Sociedad",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-03-01",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Real Madrid",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-02-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Valencia",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2021-02-14",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Getafe",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2021-02-09",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Real Madrid",
+            "Home Score": "1",
+            "Away Score": "2",
+            "Game Date": "2021-02-06",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Levante",
+            "Home Score": "1",
+            "Away Score": "2",
+            "Game Date": "2021-01-30",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Real Madrid",
+            "Home Score": "1",
+            "Away Score": "4",
+            "Game Date": "2021-01-23",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Real Madrid",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2021-01-09",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2021-01-02",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Real Madrid",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-12-30",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Granada",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2020-12-23",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Real Madrid",
+            "Home Score": "1",
+            "Away Score": "3",
+            "Game Date": "2020-12-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "3",
+            "Away Score": "1",
+            "Game Date": "2020-12-15",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Real Madrid",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2020-12-05",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "1",
+            "Away Score": "2",
+            "Game Date": "2020-11-28",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Real Madrid",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-11-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Real Madrid",
+            "Home Score": "4",
+            "Away Score": "1",
+            "Game Date": "2020-11-08",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Huesca",
+            "Home Score": "4",
+            "Away Score": "1",
+            "Game Date": "2020-10-31",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Real Madrid",
+            "Home Score": "1",
+            "Away Score": "3",
+            "Game Date": "2020-10-24",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2020-10-17",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Real Madrid",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2020-10-04",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Madrid",
+            "Away Team": "Valladolid",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2020-09-30",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Real Madrid",
+            "Home Score": "2",
+            "Away Score": "3",
+            "Game Date": "2020-09-26",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Real Madrid",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2020-09-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Barcelona",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-05-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "1",
+            "Away Score": "2",
+            "Game Date": "2021-05-16",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Barcelona",
+            "Home Score": "3",
+            "Away Score": "3",
+            "Game Date": "2021-05-11",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Barcelona",
+            "Home Score": "2",
+            "Away Score": "3",
+            "Game Date": "2021-05-02",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Granada",
+            "Home Score": "1",
+            "Away Score": "2",
+            "Game Date": "2021-04-29",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Barcelona",
+            "Home Score": "1",
+            "Away Score": "2",
+            "Game Date": "2021-04-25",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Getafe",
+            "Home Score": "5",
+            "Away Score": "2",
+            "Game Date": "2021-04-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Valladolid",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-04-05",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Barcelona",
+            "Home Score": "1",
+            "Away Score": "6",
+            "Game Date": "2021-03-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Huesca",
+            "Home Score": "4",
+            "Away Score": "1",
+            "Game Date": "2021-03-15",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Barcelona",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2021-03-06",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Barcelona",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2021-02-27",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Elche",
+            "Home Score": "3",
+            "Away Score": "0",
+            "Game Date": "2021-02-24",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-02-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "5",
+            "Away Score": "1",
+            "Game Date": "2021-02-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Barcelona",
+            "Home Score": "2",
+            "Away Score": "3",
+            "Game Date": "2021-02-07",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-01-31",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Barcelona",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2021-01-24",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Barcelona",
+            "Home Score": "0",
+            "Away Score": "4",
+            "Game Date": "2021-01-09",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Barcelona",
+            "Home Score": "2",
+            "Away Score": "3",
+            "Game Date": "2021-01-06",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Barcelona",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-01-03",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Eibar",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-12-29",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Barcelona",
+            "Home Score": "0",
+            "Away Score": "3",
+            "Game Date": "2020-12-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Valencia",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2020-12-19",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Real Sociedad",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2020-12-16",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Levante",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2020-12-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Barcelona",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2020-12-05",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Osasuna",
+            "Home Score": "4",
+            "Away Score": "0",
+            "Game Date": "2020-11-29",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Real Betis",
+            "Home Score": "5",
+            "Away Score": "2",
+            "Game Date": "2020-11-07",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Barcelona",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-10-31",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Barcelona",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2020-10-17",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Sevilla",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-10-04",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Barcelona",
+            "Home Score": "0",
+            "Away Score": "3",
+            "Game Date": "2020-10-01",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Barcelona",
+            "Away Team": "Villarreal",
+            "Home Score": "4",
+            "Away Score": "0",
+            "Game Date": "2020-09-27",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-05-23",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Sevilla",
+            "Home Score": "4",
+            "Away Score": "0",
+            "Game Date": "2021-05-16",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Valencia",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-05-12",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-05-03",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Granada",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-04-25",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Sevilla",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-04-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Sevilla",
+            "Home Score": "1",
+            "Away Score": "2",
+            "Game Date": "2021-04-18",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Sevilla",
+            "Home Score": "3",
+            "Away Score": "4",
+            "Game Date": "2021-04-12",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Sevilla",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-03-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Elche",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2021-03-17",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Real Betis",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-03-14",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Sevilla",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-03-06",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Sevilla",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2021-02-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Huesca",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-02-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Getafe",
+            "Home Score": "3",
+            "Away Score": "0",
+            "Game Date": "2021-02-06",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Sevilla",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2021-01-30",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "3",
+            "Away Score": "0",
+            "Game Date": "2021-01-23",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Sevilla",
+            "Home Score": "1",
+            "Away Score": "2",
+            "Game Date": "2021-01-19",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Real Sociedad",
+            "Home Score": "3",
+            "Away Score": "2",
+            "Game Date": "2021-01-09",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Sevilla",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-01-02",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Villarreal",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2020-12-29",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Sevilla",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2020-12-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Valladolid",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-12-19",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Sevilla",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2020-12-12",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Sevilla",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2020-11-28",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "4",
+            "Away Score": "2",
+            "Game Date": "2020-11-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Osasuna",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2020-11-07",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Sevilla",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2020-10-31",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Eibar",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2020-10-24",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Sevilla",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2020-10-17",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Sevilla",
+            "Away Team": "Levante",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2020-10-01",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Sevilla",
+            "Home Score": "1",
+            "Away Score": "3",
+            "Game Date": "2020-09-27",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Real Sociedad",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-05-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Valladolid",
+            "Home Score": "4",
+            "Away Score": "1",
+            "Game Date": "2021-05-16",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Elche",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2021-05-07",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Real Sociedad",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-05-01",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Real Sociedad",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-04-26",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-04-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Real Sociedad",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2021-04-11",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-04-07",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Real Sociedad",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-03-14",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Levante",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-03-07",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "4",
+            "Away Score": "0",
+            "Game Date": "2021-02-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Real Sociedad",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-02-14",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "4",
+            "Away Score": "1",
+            "Game Date": "2021-02-07",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Real Sociedad",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-01-30",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Real Betis",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2021-01-23",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Osasuna",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-01-03",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Real Sociedad",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2020-12-31",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Real Sociedad",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2020-12-19",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Eibar",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-12-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Real Sociedad",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2020-12-06",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Villarreal",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-11-29",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Real Sociedad",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2020-11-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Granada",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2020-11-08",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Real Sociedad",
+            "Home Score": "1",
+            "Away Score": "4",
+            "Game Date": "2020-11-01",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Huesca",
+            "Home Score": "4",
+            "Away Score": "1",
+            "Game Date": "2020-10-25",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Real Sociedad",
+            "Home Score": "0",
+            "Away Score": "3",
+            "Game Date": "2020-10-18",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Getafe",
+            "Home Score": "3",
+            "Away Score": "0",
+            "Game Date": "2020-10-03",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Sociedad",
+            "Away Team": "Valencia",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2020-09-29",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Real Sociedad",
+            "Home Score": "0",
+            "Away Score": "3",
+            "Game Date": "2020-09-26",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Real Sociedad",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-09-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Real Betis",
+            "Home Score": "2",
+            "Away Score": "3",
+            "Game Date": "2021-05-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Huesca",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-05-16",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Real Betis",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-05-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Granada",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-05-10",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Real Betis",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-05-02",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2021-04-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Valencia",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2021-04-18",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Real Betis",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-04-04",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Levante",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2021-03-19",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "3",
+            "Away Score": "2",
+            "Game Date": "2021-03-08",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Real Betis",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-02-28",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Getafe",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-02-19",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Real Betis",
+            "Home Score": "1",
+            "Away Score": "2",
+            "Game Date": "2021-02-14",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Osasuna",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-02-01",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-01-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Real Betis",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2021-01-11",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Real Betis",
+            "Home Score": "4",
+            "Away Score": "3",
+            "Game Date": "2020-12-29",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2020-12-23",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Real Betis",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2020-12-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Villarreal",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-12-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Real Betis",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2020-12-06",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Eibar",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2020-11-30",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Real Betis",
+            "Home Score": "4",
+            "Away Score": "0",
+            "Game Date": "2020-11-23",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Elche",
+            "Home Score": "3",
+            "Away Score": "1",
+            "Game Date": "2020-11-01",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Real Betis",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2020-10-03",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Real Betis",
+            "Home Score": "3",
+            "Away Score": "0",
+            "Game Date": "2020-09-29",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Real Betis",
+            "Away Team": "Valladolid",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2020-09-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Real Betis",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2020-09-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Villarreal",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2021-05-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "2",
+            "Away Score": "4",
+            "Game Date": "2021-05-09",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Getafe",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-05-02",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Villarreal",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-04-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Villarreal",
+            "Home Score": "1",
+            "Away Score": "5",
+            "Game Date": "2021-04-18",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Osasuna",
+            "Home Score": "1",
+            "Away Score": "2",
+            "Game Date": "2021-04-11",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Villarreal",
+            "Home Score": "0",
+            "Away Score": "3",
+            "Game Date": "2021-04-03",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-03-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Villarreal",
+            "Home Score": "1",
+            "Away Score": "3",
+            "Game Date": "2021-03-14",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Villarreal",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-03-05",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Villarreal",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-02-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Villarreal",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2021-02-06",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Villarreal",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2021-01-23",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Granada",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2021-01-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Villarreal",
+            "Home Score": "0",
+            "Away Score": "4",
+            "Game Date": "2021-01-08",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Levante",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-01-02",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-12-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Villarreal",
+            "Home Score": "1",
+            "Away Score": "3",
+            "Game Date": "2020-12-19",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Elche",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2020-12-06",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Villarreal",
+            "Home Score": "1",
+            "Away Score": "3",
+            "Game Date": "2020-11-08",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Valladolid",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2020-11-02",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Villarreal",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2020-10-25",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Valencia",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2020-10-18",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "3",
+            "Away Score": "1",
+            "Game Date": "2020-09-30",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Eibar",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2020-09-19",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Villarreal",
+            "Away Team": "Huesca",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-09-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Getafe",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-05-12",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Levante",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2021-04-30",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Osasuna",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-04-25",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2021-04-18",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "1",
+            "Away Score": "3",
+            "Game Date": "2021-04-04",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2021-03-14",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "3",
+            "Away Score": "4",
+            "Game Date": "2021-03-07",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Valladolid",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-02-28",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2021-02-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Elche",
+            "Home Score": "3",
+            "Away Score": "1",
+            "Game Date": "2021-02-12",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2021-01-31",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Eibar",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-01-24",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Huesca",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2020-12-30",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-12-23",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2020-12-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "4",
+            "Away Score": "0",
+            "Game Date": "2020-12-14",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2020-12-04",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Granada",
+            "Home Score": "3",
+            "Away Score": "1",
+            "Game Date": "2020-11-29",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-11-06",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-10-26",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2020-10-04",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-09-27",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Celta de Vigo",
+            "Away Team": "Valencia",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2020-09-19",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Celta de Vigo",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2020-09-12",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Getafe",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2021-05-23",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Granada",
+            "Home Score": "4",
+            "Away Score": "2",
+            "Game Date": "2021-05-16",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-05-02",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Eibar",
+            "Home Score": "4",
+            "Away Score": "1",
+            "Game Date": "2021-04-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Granada",
+            "Home Score": "1",
+            "Away Score": "2",
+            "Game Date": "2021-04-11",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Granada",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-03-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Granada",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-03-07",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Elche",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-02-28",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Granada",
+            "Home Score": "3",
+            "Away Score": "2",
+            "Game Date": "2021-02-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Granada",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2021-02-06",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Granada",
+            "Home Score": "3",
+            "Away Score": "1",
+            "Game Date": "2021-01-24",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Osasuna",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2021-01-12",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Granada",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2021-01-03",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Valencia",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2020-12-30",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Granada",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2020-12-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Huesca",
+            "Home Score": "3",
+            "Away Score": "3",
+            "Game Date": "2020-12-06",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Valladolid",
+            "Home Score": "1",
+            "Away Score": "3",
+            "Game Date": "2020-11-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Levante",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-11-01",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Granada",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2020-10-25",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Granada",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-10-04",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2020-09-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Granada",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2020-09-12",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2021-05-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-05-12",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Osasuna",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2021-05-08",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Valladolid",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2021-04-28",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2021-04-10",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Eibar",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-03-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-02-26",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "0",
+            "Away Score": "4",
+            "Game Date": "2021-02-15",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Valencia",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-02-07",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Getafe",
+            "Home Score": "5",
+            "Away Score": "1",
+            "Game Date": "2021-01-25",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Elche",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-01-03",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Huesca",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2020-12-18",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2020-12-12",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-11-29",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2020-11-08",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2020-10-24",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "Levante",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2020-10-18",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2020-10-04",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Athletic Bilbao",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2020-10-01",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Athletic Bilbao",
+            "Home Score": "1",
+            "Away Score": "2",
+            "Game Date": "2020-09-27",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "3",
+            "Away Score": "2",
+            "Game Date": "2021-05-11",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Valencia",
+            "Home Score": "3",
+            "Away Score": "1",
+            "Game Date": "2021-04-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Elche",
+            "Home Score": "2",
+            "Away Score": "0",
+            "Game Date": "2021-04-18",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Getafe",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2021-04-03",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Osasuna",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2021-03-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Valladolid",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2021-03-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Osasuna",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-02-27",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Osasuna",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-02-14",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Eibar",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-02-07",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Osasuna",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-01-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-12-31",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Osasuna",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2020-12-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Osasuna",
+            "Home Score": "3",
+            "Away Score": "2",
+            "Game Date": "2020-12-11",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Huesca",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-11-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Osasuna",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2020-10-18",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Osasuna",
+            "Away Team": "Levante",
+            "Home Score": "1",
+            "Away Score": "3",
+            "Game Date": "2020-09-27",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Osasuna",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2020-09-19",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Osasuna",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2020-09-12",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2021-05-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Elche",
+            "Home Score": "1",
+            "Away Score": "3",
+            "Game Date": "2021-05-16",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Huesca",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-05-08",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-04-24",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-04-10",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Valencia",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-04-04",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-03-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Eibar",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-03-06",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Levante",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2021-01-19",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "3",
+            "Away Score": "1",
+            "Game Date": "2021-01-10",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-01-04",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Valladolid",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2020-12-29",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "C\u00e1diz",
+            "Away Team": "Getafe",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2020-12-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-11-28",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2020-10-30",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "C\u00e1diz",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2020-09-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Valencia",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2021-05-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Eibar",
+            "Home Score": "4",
+            "Away Score": "1",
+            "Game Date": "2021-05-16",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Valladolid",
+            "Home Score": "3",
+            "Away Score": "0",
+            "Game Date": "2021-05-09",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-04-24",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Valencia",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-03-12",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Valencia",
+            "Home Score": "3",
+            "Away Score": "0",
+            "Game Date": "2021-02-27",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Elche",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-01-30",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Valencia",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-01-10",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Valencia",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2020-12-07",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Valencia",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2020-11-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Getafe",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2020-11-01",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Valencia",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2020-10-23",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Huesca",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-09-26",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valencia",
+            "Away Team": "Levante",
+            "Home Score": "4",
+            "Away Score": "2",
+            "Game Date": "2020-09-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Levante",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-05-16",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Levante",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2021-05-08",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Levante",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-04-24",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Levante",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-04-10",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Huesca",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2021-04-02",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Valladolid",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2021-01-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Eibar",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-01-10",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Levante",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-12-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Getafe",
+            "Home Score": "3",
+            "Away Score": "0",
+            "Game Date": "2020-12-05",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Levante",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-11-27",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Elche",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-11-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Levante",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-11-08",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Eibar",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-05-09",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Getafe",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2021-04-25",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Elche",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-03-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Getafe",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2021-03-06",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2021-01-31",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Huesca",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-01-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Getafe",
+            "Home Score": "1",
+            "Away Score": "3",
+            "Game Date": "2021-01-11",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Getafe",
+            "Away Team": "Valladolid",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2021-01-02",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Getafe",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2020-11-22",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Getafe",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2020-09-26",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2021-05-11",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "3",
+            "Away Score": "0",
+            "Game Date": "2021-05-01",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Huesca",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-04-18",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Valladolid",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-02-05",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Eibar",
+            "Home Score": "2",
+            "Away Score": "1",
+            "Game Date": "2020-12-23",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2020-12-12",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Alav\u00e9s",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2020-10-25",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Alav\u00e9s",
+            "Away Team": "Elche",
+            "Home Score": "0",
+            "Away Score": "2",
+            "Game Date": "2020-10-18",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Valladolid",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-04-21",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Elche",
+            "Home Score": "3",
+            "Away Score": "1",
+            "Game Date": "2021-04-09",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Eibar",
+            "Home Score": "1",
+            "Away Score": "0",
+            "Game Date": "2021-02-20",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Elche",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2021-01-19",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Elche",
+            "Away Team": "Huesca",
+            "Home Score": "0",
+            "Away Score": "0",
+            "Game Date": "2020-10-03",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Elche",
+            "Home Score": "0",
+            "Away Score": "1",
+            "Game Date": "2020-09-30",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Huesca",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-02-27",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Huesca",
+            "Home Score": "1",
+            "Away Score": "3",
+            "Game Date": "2021-01-29",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Eibar",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2020-11-07",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Huesca",
+            "Away Team": "Valladolid",
+            "Home Score": "2",
+            "Away Score": "2",
+            "Game Date": "2020-10-18",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Eibar",
+            "Away Team": "Valladolid",
+            "Home Score": "1",
+            "Away Score": "1",
+            "Game Date": "2021-02-13",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        },
+        {
+            "Home Team": "Valladolid",
+            "Away Team": "Eibar",
+            "Home Score": "1",
+            "Away Score": "2",
+            "Game Date": "2020-10-03",
+            "League": "La Liga",
+            "Season": "2020/2021"
+        }
+
 ]

@@ -138,5 +138,147 @@
         "Team City": "Southapton",
         "Team Founded": 1885,
         "Team Stadium": "St. Mary\u00b4s Stadium"
-    }
+    },
+    
+        {
+            "Team League": "La Liga",
+            "Team Name": "Barcelona",
+            "Team City": "Barcelona",
+            "Team Founded": 1899,
+            "Team Stadium": "Camp Nou"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Real Madrid",
+            "Team City": "Madrid",
+            "Team Founded": 1902,
+            "Team Stadium": "Santiago Bernab\u00e9u"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Atl\u00e9tico de Madrid",
+            "Team City": "Madrid",
+            "Team Founded": 1903,
+            "Team Stadium": "Civitas Metropolitano"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Real Sociedad",
+            "Team City": "San Sebasti\u00e1n",
+            "Team Founded": 1909,
+            "Team Stadium": "Reale Seguros Stadium"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Villarreal",
+            "Team City": "Villarreal",
+            "Team Founded": 1923,
+            "Team Stadium": "Estadio de la Cer\u00e1mica"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Real Betis",
+            "Team City": "Sevilla",
+            "Team Founded": 1907,
+            "Team Stadium": "Benito Villamar\u00edn"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Osasuna",
+            "Team City": "Paplona",
+            "Team Founded": 1920,
+            "Team Stadium": "Reyno de Navarra (El Sadar)"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Athletic Bilbao",
+            "Team City": "Bilbao",
+            "Team Founded": 1898,
+            "Team Stadium": "San Mam\u00e9s (La Catedral)"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Mallorca",
+            "Team City": "Pala de Mallorca",
+            "Team Founded": 1916,
+            "Team Stadium": "Iberostar"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Girona",
+            "Team City": "Girona",
+            "Team Founded": 1930,
+            "Team Stadium": "Estadio Municipal de Montilivi"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Rayo Vallecano",
+            "Team City": "Madrid",
+            "Team Founded": 1924,
+            "Team Stadium": "Estadio de Vallecas"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Sevilla",
+            "Team City": "Sevilla",
+            "Team Founded": 1890,
+            "Team Stadium": "Ram\u00f3n S\u00e1nchez Pizju\u00e1n"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Celta de Vigo",
+            "Team City": "Vigo",
+            "Team Founded": 1923,
+            "Team Stadium": "Municipal de Bala\u00eddos"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "C\u00e1diz",
+            "Team City": "C\u00e1diz",
+            "Team Founded": 1910,
+            "Team Stadium": "Est\u00e1dio Ram\u00f3n de Carranza"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Valencia",
+            "Team City": "Valencia",
+            "Team Founded": 1919,
+            "Team Stadium": "Mestalla"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Getafe",
+            "Team City": "Getafe",
+            "Team Founded": 1983,
+            "Team Stadium": "Coliseum Alfonso P\u00e9rez"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Almer\u00eda",
+            "Team City": "Aler\u00eda",
+            "Team Founded": 1989,
+            "Team Stadium": "Mediterr\u00e1neo"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Valladolid",
+            "Team City": "Valladolid",
+            "Team Founded": 1928,
+            "Team Stadium": "Nuevo Jos\u00e9 Zorrilla"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Espanyol",
+            "Team City": "Barcelona",
+            "Team Founded": 1900,
+            "Team Stadium": "Cornell\u00e0-El Prat"
+        },
+        {
+            "Team League": "La Liga",
+            "Team Name": "Elche",
+            "Team City": "Elche",
+            "Team Founded": 1923,
+            "Team Stadium": "Manuel Mart\u00ednez Valero"
+        }
+    
 ]
