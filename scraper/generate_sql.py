@@ -72,7 +72,7 @@ def generate_all_playerstuff():
 
     # will contain duplicates across seasons
     path_2020 = f'./data/2020/players.json'
-    #path_2021 = f'./data/2021/players.json'
+    path_2021 = f'./data/2021/players.json'
     #path_2022 = f'./data/2022/players.json'
 
     # combine all data, then take out dupes
@@ -83,16 +83,16 @@ def generate_all_playerstuff():
     file_2020 = open_json(path_2020, 'r')
     data_2020 = json.load(file_2020)
     close_json(file_2020)
-    """
+    
     file_2021 = open_json(path_2021, 'r')
     data_2021 = json.load(file_2021)
     close_json(file_2021)
-
+    """
     file_2022 = open_json(path_2022, 'r')
     data_2022 = json.load(file_2022)
     close_json(file_2022)
     """
-    data = data_2020 #+ data_2021 + data_2022
+    data = data_2020 + data_2021 #+ data_2022
     unique_players = []
     for i in data:
         if i not in unique_players:
@@ -133,7 +133,7 @@ def generate_all_managerstuff():
 
     # will contain duplicates across seasons
     path_2020 = f'./data/2020/managers.json'
-    #path_2021 = f'./data/2021/managers.json'
+    path_2021 = f'./data/2021/managers.json'
     #path_2022 = f'./data/2022/managers.json'
 
     # combine all data, then take out dupes
@@ -144,16 +144,16 @@ def generate_all_managerstuff():
     file_2020 = open_json(path_2020, 'r')
     data_2020 = json.load(file_2020)
     close_json(file_2020)
-    """
+    
     file_2021 = open_json(path_2021, 'r')
     data_2021 = json.load(file_2021)
     close_json(file_2021)
-
+    """
     file_2022 = open_json(path_2022, 'r')
     data_2022 = json.load(file_2022)
     close_json(file_2022)
     """
-    data = data_2020 #+ data_2021 + data_2022
+    data = data_2020 + data_2021 #+ data_2022
     unique_managers = []
     for i in data:
         if i not in unique_managers:
@@ -185,23 +185,23 @@ def generate_all_managerstuff():
 def generate_all_matchstuff():
   # will contain duplicates across seasons
     path_2020 = f'./data/2020/match.json'
-    #path_2021 = f'./data/2021/match.json'
+    path_2021 = f'./data/2021/match.json'
     #path_2022 = f'./data/2022/match.json'
 
     # combine all data, there is no need to worry for dupes
     file_2020 = open_json(path_2020, 'r')
     data_2020 = json.load(file_2020)
     close_json(file_2020)
-    """
+
     file_2021 = open_json(path_2021, 'r')
     data_2021 = json.load(file_2021)
     close_json(file_2021)
-
+    """
     file_2022 = open_json(path_2022, 'r')
     data_2022 = json.load(file_2022)
     close_json(file_2022)
     """
-    data = data_2020 #+ data_2021 + data_2022
+    data = data_2020 + data_2021 # + data_2022
 
     match_statements = '% MATCHES % \n\nALTER TABLE MATCH AUTO_INCREMENT= 10001; \n'
     for i in data:
@@ -212,13 +212,19 @@ def generate_all_matchstuff():
 def generate_all_teamstuff():
     # team data SHOULD be the same every league and season, so we just need to open 1 file
     path = './data/2020/teams.json'
+    path_2 = './data/2021/teams.json'
     file = open_json(path, 'r')
+    file_2 = open_json(path_2, 'r')
     data = json.load(file)
+    data_2 = json.load(file_2)
     close_json(file)
-
+    close_json(file_2)
     team_statements = '% TEAMS % \n\n'
+    teams = []
     for i in data:
-        team_statements += gen_team_insert(i['Team Name'], i['Team League'], i['Team City'], i['Team Stadium'], i['Team Founded']) + '\n'
+        if i['Team Name'] not in teams:
+            team_statements += gen_team_insert(i['Team Name'], i['Team League'], i['Team City'], i['Team Stadium'], i['Team Founded']) + '\n'
+            teams.append(i['Team Name'])
 
     return team_statements
 
