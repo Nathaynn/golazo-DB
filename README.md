@@ -4,7 +4,7 @@ This is a webscraper for a database named Golazo. It scrapes the data off of [Pl
 
 ## Why I made this
 
-I create this web scraper to simplify the process of gathering football data needed to create a database for my database class (CSC 365 Jenny Wang). The project needed a file full of statements. Creating MySQL statements is tedious and exhausting. So, I decided to scrape the data and use the data given to create a large database. This may have been more work since initially we were expecting to create around 300+ statements (and to be fair, this was more work than needed), but we are now able to use thousands of statements to populate the database. This tool not only saves time but also allows us to work with a much larger dataset, enabling for a more comprehensive database
+I created this web scraper to simplify the process of gathering football data needed to create a database for my database class (CSC 365 Jenny Wang). The project needed a file full of statements. Creating MySQL statements is tedious and exhausting. So, I decided to scrape the data and use the data given to create a large database. This may have been more work since initially we were expecting to create around 300+ statements (and to be fair, this was more work than needed), but we are now able to use thousands of statements to populate the database. This tool not only saves time but also allows us to work with a much larger dataset, enabling for a more comprehensive database
 ## Installation
 
 1. Clone the repository to your local machine:
