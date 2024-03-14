@@ -1,7 +1,6 @@
 # Golazo Webscraper
 
-This is a webscraper for a database named Golazo. It scrapes the data off of [PlayerMakerStats](https:www.playermakerstats.com).
-Its capable of scraping data for various football leagues, including teams, players, managers, and matches for a given league and year.
+This is a webscraper for a database named Golazo. It scrapes the data off of [PlayerMakerStats](https:www.playermakerstats.com). Its capable of scraping data for various football leagues, including teams, players, managers, and matches for a given league and year.
 
 ## Why I made this
 
@@ -11,13 +10,13 @@ I create this web scraper to simplify the process of gathering football data nee
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/playmakerstats-web-scraper.git
+    git clone https://github.com/Nathaynn/golazo-DB.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd playmakerstats-web-scraper
+    cd golazo-DB
     ```
 
 3. Install the required Python packages using pip:
