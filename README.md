@@ -22,7 +22,7 @@ I created this web scraper to simplify the process of gathering football data ne
 3. Install the required Python packages using pip:
 
     ```bash
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
 
     ```
 ## Usage
