@@ -31,7 +31,7 @@ To use the PlaymakerStats web scraper, follow these steps:
 
 1. Open `generate_json.py` in your preferred text editor.
 
-2. Set the `league` and `year` variables to the desired league and year for which you want to scrape data.
+2. Set the `league_focus` and `season_of_interest` variables to the desired league and year for which you want to scrape data. NOTE: You also need chrome installed.
 
 3. Run the script:
 
