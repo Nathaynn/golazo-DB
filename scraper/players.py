@@ -3,6 +3,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 from teams import open_url
 from time import sleep
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions 
 
 # get data for every team within a league + season
 
@@ -86,12 +88,11 @@ def player_data(url, driver):
     player_window = len(driver.window_handles) - 1
     driver.switch_to.window(driver.window_handles[player_window])
     driver.get(url)
-    sleep(1)
 
     # each div within bio can't be uniquely identified without looking inside inside each element
     # check each div. if it has the stuff we want then commit, else ignore
     important_stuff = ['Name', 'Height', 'Weight', 'Nationality', 'Born/Age']
-    bio = driver.find_element(By.ID, 'entity_bio')
+    bio = WebDriverWait(driver, 5).until(expected_conditions.presence_of_element_located((By.ID, 'entity_bio')))
     bios = bio.find_elements(By.CLASS_NAME, 'bio')
     bios += bio.find_elements(By.CLASS_NAME, 'bio_half')
     player_fname = ''
