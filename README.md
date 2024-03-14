@@ -36,7 +36,7 @@ To use the PlaymakerStats web scraper, follow these steps:
 3. Run the script:
 
     ```bash
-    python generate_json.py
+    python3 generate_json.py
     ```
 
 4. The scraped data will be saved in JSON format in the `data` directory.
