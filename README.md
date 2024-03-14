@@ -1,6 +1,6 @@
 # Golazo Webscraper
 
-This is a webscraper for a database named Golazo. It scrapes the data off of [PlayerMakerStats](https:www.playermakerstats.com). Its capable of scraping data for various football leagues, including teams, players, managers, and matches for a given league and year.
+This is a webscraper for a database project named Golazo. It scrapes the data off of [PlayerMakerStats](https:www.playermakerstats.com). Its capable of scraping data for various football leagues, including teams, players, managers, and matches for a given league and year.
 
 ## Why I made this
 
@@ -31,7 +31,7 @@ To use the PlaymakerStats web scraper, follow these steps:
 
 1. Open `generate_json.py` in your preferred text editor.
 
-2. Set the `league_focus` and `season_of_interest` variables to the desired league and year for which you want to scrape data. NOTE: You also need chrome installed.
+2. Set the `league_focus` and `season_of_interest` variables to the desired league and year for which you want to scrape data. NOTE: You need chrome installed.
 
 3. Run the script:
 
