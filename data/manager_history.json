@@ -98,5 +98,125 @@
         "Manager ID": 20,
         "Team Name": "Sheffield United",
         "Season Year": "2020/2021"
+    },
+    {
+        "Team Name": "Manchester City",
+        "Manager Name": "Josep Sala",
+        "Season Year": "2021/2022",
+        "Manager ID": 1
+    },
+    {
+        "Team Name": "Liverpool",
+        "Manager Name": "J\u00fcrgen Klopp",
+        "Season Year": "2021/2022",
+        "Manager ID": 3
+    },
+    {
+        "Team Name": "Chelsea",
+        "Manager Name": "Thomas Tuchel",
+        "Season Year": "2021/2022",
+        "Manager ID": 4
+    },
+    {
+        "Team Name": "Tottenham",
+        "Manager Name": "Nuno Santo",
+        "Season Year": "2021/2022",
+        "Manager ID": 13
+    },
+    {
+        "Team Name": "Arsenal",
+        "Manager Name": "Mikel Arteta",
+        "Season Year": "2021/2022",
+        "Manager ID": 8
+    },
+    {
+        "Team Name": "Manchester United",
+        "Manager Name": "Ole Solskjaer",
+        "Season Year": "2021/2022",
+        "Manager ID": 2
+    },
+    {
+        "Team Name": "West Ham",
+        "Manager Name": "David Moyes",
+        "Season Year": "2021/2022",
+        "Manager ID": 6
+    },
+    {
+        "Team Name": "Leicester City",
+        "Manager Name": "Brendan Rodgers",
+        "Season Year": "2021/2022",
+        "Manager ID": 5
+    },
+    {
+        "Team Name": "Brighton &amp; Hove Albion",
+        "Manager Name": "Graham Potter",
+        "Season Year": "2021/2022",
+        "Manager ID": 16
+    },
+    {
+        "Team Name": "Wolverhampton",
+        "Manager Name": "Bruno Nascimento",
+        "Season Year": "2021/2022",
+        "Manager ID": 21
+    },
+    {
+        "Team Name": "Newcastle",
+        "Manager Name": "Stephen Bruce",
+        "Season Year": "2021/2022",
+        "Manager ID": 12
+    },
+    {
+        "Team Name": "Crystal Palace",
+        "Manager Name": "Patrick Vieira",
+        "Season Year": "2021/2022",
+        "Manager ID": 22
+    },
+    {
+        "Team Name": "Brentford",
+        "Manager Name": "Thomas Frank",
+        "Season Year": "2021/2022",
+        "Manager ID": 23
+    },
+    {
+        "Team Name": "Aston Villa",
+        "Manager Name": "Dean Smith",
+        "Season Year": "2021/2022",
+        "Manager ID": 11
+    },
+    {
+        "Team Name": "Southampton",
+        "Manager Name": "Ralph Hasenh\u00fcttl",
+        "Season Year": "2021/2022",
+        "Manager ID": 15
+    },
+    {
+        "Team Name": "Everton",
+        "Manager Name": "Frank Lampard",
+        "Season Year": "2021/2022",
+        "Manager ID": 24
+    },
+    {
+        "Team Name": "Leeds United",
+        "Manager Name": "Marcelo Caldera",
+        "Season Year": "2021/2022",
+        "Manager ID": 9
+    },
+    {
+        "Team Name": "Burnley",
+        "Manager Name": "Sean Dyche",
+        "Season Year": "2021/2022",
+        "Manager ID": 17
+    },
+    {
+        "Team Name": "Watford",
+        "Manager Name": "Francisco Llompart",
+        "Season Year": "2021/2022",
+        "Manager ID": 25
+    },
+    {
+        "Team Name": "Norwich City",
+        "Manager Name": "Daniel Farke",
+        "Season Year": "2021/2022",
+        "Manager ID": 26
     }
 ]

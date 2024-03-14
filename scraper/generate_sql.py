@@ -102,7 +102,7 @@ def generate_all_playerstuff():
     # players shouldn't be too much of a concern
     
     # Iterate through ids (start from ID = 1001)
-    player_statements = "% PLAYERS %\n\n ALTER TABLE PLAYER AUTO_INCREMENT = 1001;\n"
+    player_statements = "% PLAYERS %\n\nALTER TABLE PLAYER AUTO_INCREMENT = 1001;\n"
     for i in data_id.keys():
         name = str(i).split()
         fname = name[0]
@@ -160,7 +160,7 @@ def generate_all_managerstuff():
             unique_managers.append(i)
     
     # Iterate through ids (start from ID = 1)
-    manager_statements = "% MANAGERS % \n\n ALTER TABLE MANAGER AUTO_INCREMENT = 1; \n"
+    manager_statements = "% MANAGERS % \n\nALTER TABLE MANAGER AUTO_INCREMENT = 1;\n"
     for i in data_id.keys():
         name = str(i).split()
         fname = name[0]

@@ -1,0 +1,6896 @@
+[
+    {
+        "Player Fname": "Zackary",
+        "Player Lname": "Steffen",
+        "Player Age": 28,
+        "Player Height": 191,
+        "Player Weight": 87,
+        "Player Nationality": "United States of America",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Ederson",
+        "Player Lname": "Moraes",
+        "Player Age": 30,
+        "Player Height": 188,
+        "Player Weight": 94,
+        "Player Nationality": "Brazil",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Scott",
+        "Player Lname": "Carson",
+        "Player Age": 38,
+        "Player Height": 190,
+        "Player Weight": 86,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Cieran",
+        "Player Lname": "Slicker",
+        "Player Age": 21,
+        "Player Height": 191,
+        "Player Weight": 82,
+        "Player Nationality": "Scotland",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Aymeric",
+        "Player Lname": "Laporte",
+        "Player Age": 29,
+        "Player Height": 191,
+        "Player Weight": 81,
+        "Player Nationality": "Spain",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Benjamin",
+        "Player Lname": "Mendy",
+        "Player Age": 29,
+        "Player Height": 185,
+        "Player Weight": 79,
+        "Player Nationality": "France",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Kyle",
+        "Player Lname": "Walker",
+        "Player Age": 33,
+        "Player Height": 183,
+        "Player Weight": 80,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jo\u00e3o",
+        "Player Lname": "Cancelo",
+        "Player Age": 29,
+        "Player Height": 182,
+        "Player Weight": 74,
+        "Player Nationality": "Portugal",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Conrad",
+        "Player Lname": "Egan-Riley",
+        "Player Age": 21,
+        "Player Height": 183,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "R\u00faben",
+        "Player Lname": "Dias",
+        "Player Age": 26,
+        "Player Height": 187,
+        "Player Weight": 83,
+        "Player Nationality": "Portugal",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "John",
+        "Player Lname": "Stones",
+        "Player Age": 29,
+        "Player Height": 188,
+        "Player Weight": 80,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Nathan",
+        "Player Lname": "Ak\u00e9",
+        "Player Age": 29,
+        "Player Height": 180,
+        "Player Weight": 76,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Philippe",
+        "Player Lname": "Sandler",
+        "Player Age": 27,
+        "Player Height": 190,
+        "Player Weight": 76,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Luke",
+        "Player Lname": "Mbete-Tatu",
+        "Player Age": 20,
+        "Player Height": 185,
+        "Player Weight": 82,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Finley",
+        "Player Lname": "Burns",
+        "Player Age": 20,
+        "Player Height": 196,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Oleksandr",
+        "Player Lname": "Zinchenko",
+        "Player Age": 27,
+        "Player Height": 175,
+        "Player Weight": 61,
+        "Player Nationality": "Ukraine",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Josh",
+        "Player Lname": "Wilson-Esbrand",
+        "Player Age": 21,
+        "Player Height": 176,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Rodrigo",
+        "Player Lname": "Cascante",
+        "Player Age": 27,
+        "Player Height": 191,
+        "Player Weight": 83,
+        "Player Nationality": "Spain",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Fernando",
+        "Player Lname": "Roza",
+        "Player Age": 38,
+        "Player Height": 179,
+        "Player Weight": 69,
+        "Player Nationality": "Brazil",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Claudio",
+        "Player Lname": "Gomes",
+        "Player Age": 23,
+        "Player Height": 180,
+        "Player Weight": 72,
+        "Player Nationality": "France",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Rom\u00e9o",
+        "Player Lname": "Lavia",
+        "Player Age": 20,
+        "Player Height": 181,
+        "Player Weight": 76,
+        "Player Nationality": "Belgium",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Kevin",
+        "Player Lname": "Bruyne",
+        "Player Age": 32,
+        "Player Height": 181,
+        "Player Weight": 77,
+        "Player Nationality": "Belgium",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Bernardo",
+        "Player Lname": "Silva",
+        "Player Age": 29,
+        "Player Height": 173,
+        "Player Weight": 65,
+        "Player Nationality": "Portugal",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Cole",
+        "Player Lname": "Palmer",
+        "Player Age": 21,
+        "Player Height": 189,
+        "Player Weight": 76,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "James",
+        "Player Lname": "McAtee",
+        "Player Age": 21,
+        "Player Height": 180,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "\u0130lkay",
+        "Player Lname": "G\u00fcndo\u011fan",
+        "Player Age": 33,
+        "Player Height": 180,
+        "Player Weight": 77,
+        "Player Nationality": "Germany",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Ferr\u00e1n",
+        "Player Lname": "Garc\u00eda",
+        "Player Age": 24,
+        "Player Height": 184,
+        "Player Weight": 77,
+        "Player Nationality": "Spain",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Riyad",
+        "Player Lname": "Mahrez",
+        "Player Age": 33,
+        "Player Height": 179,
+        "Player Weight": 66,
+        "Player Nationality": "Algeria",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Kayky",
+        "Player Lname": "Chagas",
+        "Player Age": 20,
+        "Player Height": 175,
+        "Player Weight": 67,
+        "Player Nationality": "Brazil",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Benjamin",
+        "Player Lname": "Knight",
+        "Player Age": 21,
+        "Player Height": 171,
+        "Player Weight": 61,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Gabriel",
+        "Player Lname": "Jesus",
+        "Player Age": 26,
+        "Player Height": 175,
+        "Player Weight": 72,
+        "Player Nationality": "Brazil",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Liam",
+        "Player Lname": "Delap",
+        "Player Age": 21,
+        "Player Height": 186,
+        "Player Weight": 82,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Raheem",
+        "Player Lname": "Sterling",
+        "Player Age": 29,
+        "Player Height": 170,
+        "Player Weight": 62,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jack",
+        "Player Lname": "Grealish",
+        "Player Age": 28,
+        "Player Height": 180,
+        "Player Weight": 77,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Samuel",
+        "Player Lname": "Edozie",
+        "Player Age": 21,
+        "Player Height": 179,
+        "Player Weight": 71,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Phil",
+        "Player Lname": "Foden",
+        "Player Age": 23,
+        "Player Height": 171,
+        "Player Weight": 63,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Alisson",
+        "Player Lname": "Becker",
+        "Player Age": 31,
+        "Player Height": 193,
+        "Player Weight": 90,
+        "Player Nationality": "Brazil",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Adri\u00e1n",
+        "Player Lname": "Castillo",
+        "Player Age": 37,
+        "Player Height": 190,
+        "Player Weight": 85,
+        "Player Nationality": "Spain",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Loris",
+        "Player Lname": "Karius",
+        "Player Age": 30,
+        "Player Height": 189,
+        "Player Weight": 84,
+        "Player Nationality": "Germany",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Liam",
+        "Player Lname": "Hughes",
+        "Player Age": 22,
+        "Player Height": 193,
+        "Player Weight": 0,
+        "Player Nationality": "Northern Ireland",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Caoimh\u00edn",
+        "Player Lname": "Kelleher",
+        "Player Age": 25,
+        "Player Height": 188,
+        "Player Weight": 75,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Marcelo",
+        "Player Lname": "Filho",
+        "Player Age": 21,
+        "Player Height": 189,
+        "Player Weight": 81,
+        "Player Nationality": "Brazil",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Joseph",
+        "Player Lname": "G\u00f3mez",
+        "Player Age": 26,
+        "Player Height": 188,
+        "Player Weight": 80,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Rhys",
+        "Player Lname": "Williams",
+        "Player Age": 23,
+        "Player Height": 195,
+        "Player Weight": 87,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Nathaniel",
+        "Player Lname": "Phillips",
+        "Player Age": 26,
+        "Player Height": 188,
+        "Player Weight": 76,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Isaac",
+        "Player Lname": "Mabaya",
+        "Player Age": 19,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Neco",
+        "Player Lname": "Williams",
+        "Player Age": 22,
+        "Player Height": 183,
+        "Player Weight": 73,
+        "Player Nationality": "Wales",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "James",
+        "Player Lname": "Norris",
+        "Player Age": 20,
+        "Player Height": 172,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jarell",
+        "Player Lname": "Quansah",
+        "Player Age": 21,
+        "Player Height": 190,
+        "Player Weight": 84,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Conor",
+        "Player Lname": "Bradley",
+        "Player Age": 20,
+        "Player Height": 181,
+        "Player Weight": 76,
+        "Player Nationality": "Northern Ireland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Billy",
+        "Player Lname": "Koumetio",
+        "Player Age": 21,
+        "Player Height": 195,
+        "Player Weight": 90,
+        "Player Nationality": "France",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Trent",
+        "Player Lname": "Alexander-Arnold",
+        "Player Age": 25,
+        "Player Height": 175,
+        "Player Weight": 67,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Virgil",
+        "Player Lname": "Dijk",
+        "Player Age": 32,
+        "Player Height": 193,
+        "Player Weight": 92,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Ibrahima",
+        "Player Lname": "Konat\u00e9",
+        "Player Age": 24,
+        "Player Height": 194,
+        "Player Weight": 89,
+        "Player Nationality": "France",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Joel",
+        "Player Lname": "Job",
+        "Player Age": 32,
+        "Player Height": 195,
+        "Player Weight": 87,
+        "Player Nationality": "Cameroon",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Konstantinos",
+        "Player Lname": "Tsimikas",
+        "Player Age": 27,
+        "Player Height": 179,
+        "Player Weight": 73,
+        "Player Nationality": "Greece",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Andrew",
+        "Player Lname": "Robertson",
+        "Player Age": 30,
+        "Player Height": 178,
+        "Player Weight": 68,
+        "Player Nationality": "Scotland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Owen",
+        "Player Lname": "Beck",
+        "Player Age": 21,
+        "Player Height": 181,
+        "Player Weight": 74,
+        "Player Nationality": "Wales",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Elijah",
+        "Player Lname": "Dixon-Bonner",
+        "Player Age": 23,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Tyler",
+        "Player Lname": "Morton",
+        "Player Age": 21,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "James",
+        "Player Lname": "Balagizi",
+        "Player Age": 20,
+        "Player Height": 189,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "F\u00e1bio",
+        "Player Lname": "Tavares",
+        "Player Age": 30,
+        "Player Height": 188,
+        "Player Weight": 74,
+        "Player Nationality": "Brazil",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Jordan",
+        "Player Lname": "Henderson",
+        "Player Age": 33,
+        "Player Height": 182,
+        "Player Weight": 76,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Harvey",
+        "Player Lname": "Elliott",
+        "Player Age": 20,
+        "Player Height": 170,
+        "Player Weight": 63,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Melkamu",
+        "Player Lname": "Frauendorf",
+        "Player Age": 20,
+        "Player Height": 180,
+        "Player Weight": 73,
+        "Player Nationality": "Germany",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Thiago",
+        "Player Lname": "Nascimento",
+        "Player Age": 32,
+        "Player Height": 174,
+        "Player Weight": 70,
+        "Player Nationality": "Spain",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "James",
+        "Player Lname": "Milner",
+        "Player Age": 38,
+        "Player Height": 175,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Naby",
+        "Player Lname": "Ke\u00efta",
+        "Player Age": 29,
+        "Player Height": 172,
+        "Player Weight": 64,
+        "Player Nationality": "Guinea",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Alexander",
+        "Player Lname": "Oxlade-Chamberlain",
+        "Player Age": 30,
+        "Player Height": 180,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Curtis",
+        "Player Lname": "Jones",
+        "Player Age": 23,
+        "Player Height": 185,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Takumi",
+        "Player Lname": "Minamino",
+        "Player Age": 29,
+        "Player Height": 172,
+        "Player Weight": 64,
+        "Player Nationality": "Japan",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Harvey",
+        "Player Lname": "Blair",
+        "Player Age": 20,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Mohamed",
+        "Player Lname": "Ghaly",
+        "Player Age": 31,
+        "Player Height": 175,
+        "Player Weight": 67,
+        "Player Nationality": "Egypt",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Kaide",
+        "Player Lname": "Gordon",
+        "Player Age": 19,
+        "Player Height": 173,
+        "Player Weight": 58,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Roberto",
+        "Player Lname": "Oliveira",
+        "Player Age": 32,
+        "Player Height": 181,
+        "Player Weight": 74,
+        "Player Nationality": "Brazil",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Max",
+        "Player Lname": "Woltman",
+        "Player Age": 20,
+        "Player Height": 178,
+        "Player Weight": 67,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Sadio",
+        "Player Lname": "Man\u00e9",
+        "Player Age": 31,
+        "Player Height": 174,
+        "Player Weight": 66,
+        "Player Nationality": "Senegal",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Luis",
+        "Player Lname": "Marulanda",
+        "Player Age": 27,
+        "Player Height": 180,
+        "Player Weight": 66,
+        "Player Nationality": "Colombia",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Diogo",
+        "Player Lname": "Silva",
+        "Player Age": 27,
+        "Player Height": 178,
+        "Player Weight": 71,
+        "Player Nationality": "Portugal",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Divock",
+        "Player Lname": "Origi",
+        "Player Age": 28,
+        "Player Height": 185,
+        "Player Weight": 77,
+        "Player Nationality": "Belgium",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Kepa",
+        "Player Lname": "Revuelta",
+        "Player Age": 29,
+        "Player Height": 188,
+        "Player Weight": 80,
+        "Player Nationality": "Spain",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Marcus",
+        "Player Lname": "Bettinelli",
+        "Player Age": 31,
+        "Player Height": 194,
+        "Player Weight": 82,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "\u00c9douard",
+        "Player Lname": "Mendy",
+        "Player Age": 32,
+        "Player Height": 194,
+        "Player Weight": 86,
+        "Player Nationality": "Senegal",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Lucas",
+        "Player Lname": "Bergstr\u00f6m",
+        "Player Age": 21,
+        "Player Height": 205,
+        "Player Weight": 88,
+        "Player Nationality": "Finland",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Teddy",
+        "Player Lname": "Sharman-Lowe",
+        "Player Age": 20,
+        "Player Height": 189,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Antonio",
+        "Player Lname": "R\u00fcdiger",
+        "Player Age": 31,
+        "Player Height": 190,
+        "Player Weight": 78,
+        "Player Nationality": "Germany",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Marcos",
+        "Player Lname": "Mendoza",
+        "Player Age": 33,
+        "Player Height": 188,
+        "Player Weight": 85,
+        "Player Nationality": "Spain",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Andreas",
+        "Player Lname": "Christensen",
+        "Player Age": 27,
+        "Player Height": 187,
+        "Player Weight": 79,
+        "Player Nationality": "Denmark",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Kurt",
+        "Player Lname": "Zouma",
+        "Player Age": 29,
+        "Player Height": 190,
+        "Player Weight": 92,
+        "Player Nationality": "France",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Emerson",
+        "Player Lname": "Santos",
+        "Player Age": 29,
+        "Player Height": 176,
+        "Player Weight": 70,
+        "Player Nationality": "Italy",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Dylan",
+        "Player Lname": "Williams",
+        "Player Age": 20,
+        "Player Height": 177,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Reece",
+        "Player Lname": "James",
+        "Player Age": 24,
+        "Player Height": 180,
+        "Player Weight": 82,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "C\u00e9sar",
+        "Player Lname": "Tanco",
+        "Player Age": 34,
+        "Player Height": 178,
+        "Player Weight": 74,
+        "Player Nationality": "Spain",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Thiago",
+        "Player Lname": "Silva",
+        "Player Age": 39,
+        "Player Height": 183,
+        "Player Weight": 80,
+        "Player Nationality": "Brazil",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Trevoh",
+        "Player Lname": "Chalobah",
+        "Player Age": 24,
+        "Player Height": 190,
+        "Player Weight": 82,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Malang",
+        "Player Lname": "Sarr",
+        "Player Age": 25,
+        "Player Height": 183,
+        "Player Weight": 73,
+        "Player Nationality": "France",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Xavier",
+        "Player Lname": "Mbuyamba",
+        "Player Age": 22,
+        "Player Height": 195,
+        "Player Weight": 80,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Benjamin",
+        "Player Lname": "Chilwell",
+        "Player Age": 27,
+        "Player Height": 180,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Lewis",
+        "Player Lname": "Hall",
+        "Player Age": 19,
+        "Player Height": 179,
+        "Player Weight": 72,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Ruben",
+        "Player Lname": "Loftus-Cheek",
+        "Player Age": 28,
+        "Player Height": 191,
+        "Player Weight": 88,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Charles",
+        "Player Lname": "Webster",
+        "Player Age": 20,
+        "Player Height": 175,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Jorge",
+        "Player Lname": "Filho",
+        "Player Age": 32,
+        "Player Height": 180,
+        "Player Weight": 75,
+        "Player Nationality": "Italy",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "N\u2019Golo",
+        "Player Lname": "Kant\u00e9",
+        "Player Age": 32,
+        "Player Height": 168,
+        "Player Weight": 62,
+        "Player Nationality": "France",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Xavier",
+        "Player Lname": "Simons",
+        "Player Age": 21,
+        "Player Height": 180,
+        "Player Weight": 82,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Mason",
+        "Player Lname": "Mount",
+        "Player Age": 25,
+        "Player Height": 181,
+        "Player Weight": 75,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Harvey",
+        "Player Lname": "Vale",
+        "Player Age": 20,
+        "Player Height": 186,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Mateo",
+        "Player Lname": "Kova\u010di\u0107",
+        "Player Age": 29,
+        "Player Height": 178,
+        "Player Weight": 73,
+        "Player Nationality": "Croatia",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Sa\u00fal",
+        "Player Lname": "Esclapez",
+        "Player Age": 29,
+        "Player Height": 184,
+        "Player Weight": 76,
+        "Player Nationality": "Spain",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Ross",
+        "Player Lname": "Barkley",
+        "Player Age": 30,
+        "Player Height": 189,
+        "Player Weight": 84,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Lewis",
+        "Player Lname": "Baker",
+        "Player Age": 28,
+        "Player Height": 178,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Kevin",
+        "Player Lname": "Bakumo-Abraham",
+        "Player Age": 26,
+        "Player Height": 190,
+        "Player Weight": 80,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Timo",
+        "Player Lname": "Werner",
+        "Player Age": 28,
+        "Player Height": 180,
+        "Player Weight": 74,
+        "Player Nationality": "Germany",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Hakim",
+        "Player Lname": "Ziyech",
+        "Player Age": 30,
+        "Player Height": 181,
+        "Player Weight": 66,
+        "Player Nationality": "Morocco",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Callum",
+        "Player Lname": "Hudson-Odoi",
+        "Player Age": 23,
+        "Player Height": 178,
+        "Player Weight": 66,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Kai",
+        "Player Lname": "Havertz",
+        "Player Age": 24,
+        "Player Height": 193,
+        "Player Weight": 77,
+        "Player Nationality": "Germany",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Romelu",
+        "Player Lname": "Bolingoli",
+        "Player Age": 30,
+        "Player Height": 191,
+        "Player Weight": 96,
+        "Player Nationality": "Belgium",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jude",
+        "Player Lname": "Soonsup-Bell",
+        "Player Age": 20,
+        "Player Height": 182,
+        "Player Weight": 74,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Christian",
+        "Player Lname": "Puli\u0161i\u0107",
+        "Player Age": 25,
+        "Player Height": 172,
+        "Player Weight": 64,
+        "Player Nationality": "United States of America",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Robert",
+        "Player Lname": "Nascimento",
+        "Player Age": 28,
+        "Player Height": 182,
+        "Player Weight": 77,
+        "Player Nationality": "Brazil",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Hugo",
+        "Player Lname": "Lloris",
+        "Player Age": 37,
+        "Player Height": 188,
+        "Player Weight": 80,
+        "Player Nationality": "France",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Pierluigi",
+        "Player Lname": "Gollini",
+        "Player Age": 28,
+        "Player Height": 194,
+        "Player Weight": 92,
+        "Player Nationality": "Italy",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Brandon",
+        "Player Lname": "Austin",
+        "Player Age": 25,
+        "Player Height": 188,
+        "Player Weight": 80,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Matthew",
+        "Player Lname": "Doherty",
+        "Player Age": 32,
+        "Player Height": 185,
+        "Player Weight": 75,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Davinson",
+        "Player Lname": "Mina",
+        "Player Age": 27,
+        "Player Height": 187,
+        "Player Weight": 80,
+        "Player Nationality": "Colombia",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Kouassi",
+        "Player Lname": "Sess\u00e8gnon",
+        "Player Age": 23,
+        "Player Height": 178,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Benjamin",
+        "Player Lname": "Davies",
+        "Player Age": 30,
+        "Player Height": 181,
+        "Player Weight": 76,
+        "Player Nationality": "Wales",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Brooklyn",
+        "Player Lname": "Lyons-Foster",
+        "Player Age": 23,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Emerson",
+        "Player Lname": "J\u00fanior",
+        "Player Age": 25,
+        "Player Height": 183,
+        "Player Weight": 69,
+        "Player Nationality": "Brazil",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Japhet",
+        "Player Lname": "Tanganga",
+        "Player Age": 24,
+        "Player Height": 186,
+        "Player Weight": 83,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Kallum",
+        "Player Lname": "Cesay",
+        "Player Age": 21,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "Sierra Leone",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Marcel",
+        "Player Lname": "Lavinier",
+        "Player Age": 23,
+        "Player Height": 180,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Cristi\u00e1n",
+        "Player Lname": "Romero",
+        "Player Age": 25,
+        "Player Height": 185,
+        "Player Weight": 78,
+        "Player Nationality": "Argentina",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Joseph",
+        "Player Lname": "Rodon",
+        "Player Age": 26,
+        "Player Height": 193,
+        "Player Weight": 88,
+        "Player Nationality": "Wales",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Eric",
+        "Player Lname": "Dier",
+        "Player Age": 30,
+        "Player Height": 188,
+        "Player Weight": 90,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Cameron",
+        "Player Lname": "Carter-Vickers",
+        "Player Age": 26,
+        "Player Height": 183,
+        "Player Weight": 92,
+        "Player Nationality": "United States of America",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Malachi",
+        "Player Lname": "Walcott",
+        "Player Age": 22,
+        "Player Height": 189,
+        "Player Weight": 77,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Maksim",
+        "Player Lname": "Paskot\u0161i",
+        "Player Age": 21,
+        "Player Height": 188,
+        "Player Weight": 0,
+        "Player Nationality": "Estonia",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Sergio",
+        "Player Lname": "Rodr\u00edguez",
+        "Player Age": 27,
+        "Player Height": 178,
+        "Player Weight": 73,
+        "Player Nationality": "Spain",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Moussa",
+        "Player Lname": "Sissoko",
+        "Player Age": 34,
+        "Player Height": 187,
+        "Player Weight": 90,
+        "Player Nationality": "France",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Giovani",
+        "Player Lname": "Celso",
+        "Player Age": 27,
+        "Player Height": 177,
+        "Player Weight": 75,
+        "Player Nationality": "Argentina",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Tanguy",
+        "Player Lname": "Alvaro",
+        "Player Age": 27,
+        "Player Height": 181,
+        "Player Weight": 78,
+        "Player Nationality": "France",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Harvey",
+        "Player Lname": "White",
+        "Player Age": 22,
+        "Player Height": 178,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Matthew",
+        "Player Lname": "Craig",
+        "Player Age": 20,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "Scotland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Michael",
+        "Player Lname": "Craig",
+        "Player Age": 20,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "Scotland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Jamie",
+        "Player Lname": "Bowden",
+        "Player Age": 22,
+        "Player Height": 183,
+        "Player Weight": 77,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Pierre-Emile",
+        "Player Lname": "H\u00f8jbjerg",
+        "Player Age": 28,
+        "Player Height": 185,
+        "Player Weight": 84,
+        "Player Nationality": "Denmark",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Harry",
+        "Player Lname": "Winks",
+        "Player Age": 28,
+        "Player Height": 178,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Oliver",
+        "Player Lname": "Skipp",
+        "Player Age": 23,
+        "Player Height": 175,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Bamidele",
+        "Player Lname": "Alli",
+        "Player Age": 27,
+        "Player Height": 188,
+        "Player Weight": 80,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Nile",
+        "Player Lname": "John",
+        "Player Age": 21,
+        "Player Height": 178,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Rodrigo",
+        "Player Lname": "Colm\u00e1n",
+        "Player Age": 26,
+        "Player Height": 187,
+        "Player Weight": 73,
+        "Player Nationality": "Uruguay",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Dilan",
+        "Player Lname": "Markanday",
+        "Player Age": 22,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Dejan",
+        "Player Lname": "Kulusevski",
+        "Player Age": 23,
+        "Player Height": 186,
+        "Player Weight": 81,
+        "Player Nationality": "Sweden",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Steven",
+        "Player Lname": "Bergwijn",
+        "Player Age": 26,
+        "Player Height": 178,
+        "Player Weight": 80,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Lucas",
+        "Player Lname": "Silva",
+        "Player Age": 31,
+        "Player Height": 172,
+        "Player Weight": 66,
+        "Player Nationality": "Brazil",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jack",
+        "Player Lname": "Clarke",
+        "Player Age": 23,
+        "Player Height": 181,
+        "Player Weight": 71,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Harry",
+        "Player Lname": "Kane",
+        "Player Age": 30,
+        "Player Height": 188,
+        "Player Weight": 83,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Dane",
+        "Player Lname": "Scarlett",
+        "Player Age": 19,
+        "Player Height": 180,
+        "Player Weight": 72,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Son",
+        "Player Lname": "Heung-min",
+        "Player Age": 31,
+        "Player Height": 184,
+        "Player Weight": 77,
+        "Player Nationality": "South Korea",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Bryan",
+        "Player Lname": "Salvatierra",
+        "Player Age": 23,
+        "Player Height": 175,
+        "Player Weight": 60,
+        "Player Nationality": "Spain",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "J\u00b4Neill",
+        "Player Lname": "Lloyd-Bennett",
+        "Player Age": 22,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Bernd",
+        "Player Lname": "Leno",
+        "Player Age": 32,
+        "Player Height": 190,
+        "Player Weight": 86,
+        "Player Nationality": "Germany",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Aaron",
+        "Player Lname": "Ramsdale",
+        "Player Age": 25,
+        "Player Height": 190,
+        "Player Weight": 86,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Arthur",
+        "Player Lname": "Okonkwo",
+        "Player Age": 22,
+        "Player Height": 195,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "H\u00e9ctor",
+        "Player Lname": "Moruno",
+        "Player Age": 28,
+        "Player Height": 178,
+        "Player Weight": 70,
+        "Player Nationality": "Spain",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Robert",
+        "Player Lname": "Holding",
+        "Player Age": 28,
+        "Player Height": 189,
+        "Player Weight": 75,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Calum",
+        "Player Lname": "Chambers",
+        "Player Age": 29,
+        "Player Height": 182,
+        "Player Weight": 66,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Pablo",
+        "Player Lname": "Villar",
+        "Player Age": 30,
+        "Player Height": 193,
+        "Player Weight": 87,
+        "Player Nationality": "Spain",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Ryan",
+        "Player Lname": "Alebiosu",
+        "Player Age": 22,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Alexander",
+        "Player Lname": "Kirk",
+        "Player Age": 21,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Mazeed",
+        "Player Lname": "Ogungbo",
+        "Player Age": 22,
+        "Player Height": 188,
+        "Player Weight": 87,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Zachariah",
+        "Player Lname": "Awe",
+        "Player Age": 20,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "C\u00e9dric",
+        "Player Lname": "Soares",
+        "Player Age": 32,
+        "Player Height": 171,
+        "Player Weight": 68,
+        "Player Nationality": "Portugal",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Takehiro",
+        "Player Lname": "Tomiyasu",
+        "Player Age": 25,
+        "Player Height": 188,
+        "Player Weight": 76,
+        "Player Nationality": "Japan",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Zachary",
+        "Player Lname": "Swanson",
+        "Player Age": 23,
+        "Player Height": 189,
+        "Player Weight": 77,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Benjamin",
+        "Player Lname": "White",
+        "Player Age": 26,
+        "Player Height": 186,
+        "Player Weight": 74,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Gabriel",
+        "Player Lname": "Magalh\u00e3es",
+        "Player Age": 26,
+        "Player Height": 190,
+        "Player Weight": 88,
+        "Player Nationality": "Brazil",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Kieran",
+        "Player Lname": "Tierney",
+        "Player Age": 26,
+        "Player Height": 180,
+        "Player Weight": 75,
+        "Player Nationality": "Scotland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Nuno",
+        "Player Lname": "Tavares",
+        "Player Age": 24,
+        "Player Height": 183,
+        "Player Weight": 78,
+        "Player Nationality": "Portugal",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Sead",
+        "Player Lname": "Kola\u0161inac",
+        "Player Age": 30,
+        "Player Height": 183,
+        "Player Weight": 80,
+        "Player Nationality": "Bosnia and Herzegovina",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Thomas",
+        "Player Lname": "Partey",
+        "Player Age": 30,
+        "Player Height": 185,
+        "Player Weight": 73,
+        "Player Nationality": "Ghana",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Granit",
+        "Player Lname": "Xhaka",
+        "Player Age": 31,
+        "Player Height": 185,
+        "Player Weight": 82,
+        "Player Nationality": "Switzerland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Ainsley",
+        "Player Lname": "Maitland-Niles",
+        "Player Age": 26,
+        "Player Height": 180,
+        "Player Weight": 72,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Martin",
+        "Player Lname": "\u00d8degaard",
+        "Player Age": 25,
+        "Player Height": 178,
+        "Player Weight": 68,
+        "Player Nationality": "Norway",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Emile",
+        "Player Lname": "Rowe",
+        "Player Age": 23,
+        "Player Height": 182,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Salah",
+        "Player Lname": "M'Hand",
+        "Player Age": 20,
+        "Player Height": 177,
+        "Player Weight": 0,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Marcelo",
+        "Player Lname": "Dorrell",
+        "Player Age": 20,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "Mexico",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Albert",
+        "Player Lname": "Lokonga",
+        "Player Age": 24,
+        "Player Height": 183,
+        "Player Weight": 72,
+        "Player Nationality": "Belgium",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Mohamed",
+        "Player Lname": "Elneny",
+        "Player Age": 31,
+        "Player Height": 179,
+        "Player Weight": 72,
+        "Player Nationality": "Egypt",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Miguel",
+        "Player Lname": "Azeez",
+        "Player Age": 21,
+        "Player Height": 180,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Charlie",
+        "Player Lname": "Patino",
+        "Player Age": 20,
+        "Player Height": 182,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Nicolas",
+        "Player Lname": "P\u00e9p\u00e9",
+        "Player Age": 28,
+        "Player Height": 183,
+        "Player Weight": 69,
+        "Player Nationality": "Ivory Coast",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Reiss",
+        "Player Lname": "Nelson",
+        "Player Age": 24,
+        "Player Height": 175,
+        "Player Weight": 67,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Alexandre",
+        "Player Lname": "Lacazette",
+        "Player Age": 32,
+        "Player Height": 175,
+        "Player Weight": 69,
+        "Player Nationality": "France",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Folarin",
+        "Player Lname": "Balogun",
+        "Player Age": 22,
+        "Player Height": 178,
+        "Player Weight": 66,
+        "Player Nationality": "United States of America",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Edward",
+        "Player Lname": "Nketiah",
+        "Player Age": 24,
+        "Player Height": 175,
+        "Player Weight": 67,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Mika",
+        "Player Lname": "Biereth",
+        "Player Age": 21,
+        "Player Height": 187,
+        "Player Weight": 79,
+        "Player Nationality": "Denmark",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Bukayo",
+        "Player Lname": "Saka",
+        "Player Age": 22,
+        "Player Height": 178,
+        "Player Weight": 72,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Gabriel",
+        "Player Lname": "Silva",
+        "Player Age": 22,
+        "Player Height": 180,
+        "Player Weight": 75,
+        "Player Nationality": "Brazil",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Pierre-Emerick",
+        "Player Lname": "Aubameyang",
+        "Player Age": 34,
+        "Player Height": 187,
+        "Player Weight": 74,
+        "Player Nationality": "Gabon",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Lee",
+        "Player Lname": "Grant",
+        "Player Age": 41,
+        "Player Height": 193,
+        "Player Weight": 83,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "David",
+        "Player Lname": "Quintana",
+        "Player Age": 33,
+        "Player Height": 192,
+        "Player Weight": 78,
+        "Player Nationality": "Spain",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Thomas",
+        "Player Lname": "Heaton",
+        "Player Age": 37,
+        "Player Height": 188,
+        "Player Weight": 85,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Dean",
+        "Player Lname": "Henderson",
+        "Player Age": 27,
+        "Player Height": 188,
+        "Player Weight": 84,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Brandon",
+        "Player Lname": "Williams",
+        "Player Age": 23,
+        "Player Height": 171,
+        "Player Weight": 63,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jos\u00e9",
+        "Player Lname": "Teixeira",
+        "Player Age": 24,
+        "Player Height": 183,
+        "Player Weight": 78,
+        "Player Nationality": "Portugal",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Aaron",
+        "Player Lname": "Wan-Bissaka",
+        "Player Age": 26,
+        "Player Height": 183,
+        "Player Weight": 76,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Victor",
+        "Player Lname": "Lindel\u00f6f",
+        "Player Age": 29,
+        "Player Height": 187,
+        "Player Weight": 79,
+        "Player Nationality": "Sweden",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Eric",
+        "Player Lname": "Bailly",
+        "Player Age": 29,
+        "Player Height": 187,
+        "Player Weight": 74,
+        "Player Nationality": "Ivory Coast",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Philip",
+        "Player Lname": "Jones",
+        "Player Age": 32,
+        "Player Height": 180,
+        "Player Weight": 71,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jacob",
+        "Player Lname": "Maguire",
+        "Player Age": 31,
+        "Player Height": 194,
+        "Player Weight": 88,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Rapha\u00ebl",
+        "Player Lname": "Varane",
+        "Player Age": 30,
+        "Player Height": 191,
+        "Player Weight": 76,
+        "Player Nationality": "France",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Teden",
+        "Player Lname": "Mengi",
+        "Player Age": 21,
+        "Player Height": 186,
+        "Player Weight": 81,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Luke",
+        "Player Lname": "Shaw",
+        "Player Age": 28,
+        "Player Height": 178,
+        "Player Weight": 80,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Alex",
+        "Player Lname": "Telles",
+        "Player Age": 31,
+        "Player Height": 181,
+        "Player Weight": 69,
+        "Player Nationality": "Brazil",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Bj\u00f6rn",
+        "Player Lname": "Hardley",
+        "Player Age": 21,
+        "Player Height": 189,
+        "Player Weight": 0,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "\u00c1lvaro",
+        "Player Lname": "Carreras",
+        "Player Age": 20,
+        "Player Height": 186,
+        "Player Weight": 78,
+        "Player Nationality": "Spain",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Dylan",
+        "Player Lname": "Levitt",
+        "Player Age": 23,
+        "Player Height": 181,
+        "Player Weight": 73,
+        "Player Nationality": "Wales",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Ethan",
+        "Player Lname": "Galbraith",
+        "Player Age": 22,
+        "Player Height": 175,
+        "Player Weight": 69,
+        "Player Nationality": "Northern Ireland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Nemanja",
+        "Player Lname": "Mati\u0107",
+        "Player Age": 35,
+        "Player Height": 194,
+        "Player Weight": 78,
+        "Player Nationality": "Serbia",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Scott",
+        "Player Lname": "McTominay",
+        "Player Age": 27,
+        "Player Height": 191,
+        "Player Weight": 78,
+        "Player Nationality": "Scotland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Charlie",
+        "Player Lname": "Savage",
+        "Player Age": 20,
+        "Player Height": 182,
+        "Player Weight": 74,
+        "Player Nationality": "Wales",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Juan",
+        "Player Lname": "Garc\u00eda",
+        "Player Age": 35,
+        "Player Height": 170,
+        "Player Weight": 62,
+        "Player Nationality": "Spain",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Jesse",
+        "Player Lname": "Lingard",
+        "Player Age": 31,
+        "Player Height": 174,
+        "Player Weight": 62,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Andreas",
+        "Player Lname": "Pereira",
+        "Player Age": 28,
+        "Player Height": 178,
+        "Player Weight": 70,
+        "Player Nationality": "Brazil",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Bruno",
+        "Player Lname": "Fernandes",
+        "Player Age": 29,
+        "Player Height": 179,
+        "Player Weight": 66,
+        "Player Nationality": "Portugal",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Hannibal",
+        "Player Lname": "Mejbri",
+        "Player Age": 21,
+        "Player Height": 183,
+        "Player Weight": 73,
+        "Player Nationality": "Tunisia",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Paul",
+        "Player Lname": "Pogba",
+        "Player Age": 30,
+        "Player Height": 191,
+        "Player Weight": 84,
+        "Player Nationality": "France",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Frederico",
+        "Player Lname": "Santos",
+        "Player Age": 31,
+        "Player Height": 169,
+        "Player Weight": 56,
+        "Player Nationality": "Brazil",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Donny",
+        "Player Lname": "Beek",
+        "Player Age": 26,
+        "Player Height": 184,
+        "Player Weight": 77,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Zidane",
+        "Player Lname": "Iqbal",
+        "Player Age": 20,
+        "Player Height": 181,
+        "Player Weight": 71,
+        "Player Nationality": "Iraq",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Daniel",
+        "Player Lname": "James",
+        "Player Age": 26,
+        "Player Height": 171,
+        "Player Weight": 66,
+        "Player Nationality": "Wales",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Shola",
+        "Player Lname": "Shoretire",
+        "Player Age": 20,
+        "Player Height": 178,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Mason",
+        "Player Lname": "Greenwood",
+        "Player Age": 22,
+        "Player Height": 181,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jadon",
+        "Player Lname": "Sancho",
+        "Player Age": 23,
+        "Player Height": 180,
+        "Player Weight": 72,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Cristiano",
+        "Player Lname": "Aveiro",
+        "Player Age": 39,
+        "Player Height": 187,
+        "Player Weight": 79,
+        "Player Nationality": "Portugal",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Anthony",
+        "Player Lname": "Martial",
+        "Player Age": 28,
+        "Player Height": 181,
+        "Player Weight": 75,
+        "Player Nationality": "France",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Edinson",
+        "Player Lname": "G\u00f3mez",
+        "Player Age": 37,
+        "Player Height": 184,
+        "Player Weight": 74,
+        "Player Nationality": "Uruguay",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Marcus",
+        "Player Lname": "Rashford",
+        "Player Age": 26,
+        "Player Height": 185,
+        "Player Weight": 77,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Amad",
+        "Player Lname": "Traor\u00e9",
+        "Player Age": 21,
+        "Player Height": 174,
+        "Player Weight": 68,
+        "Player Nationality": "Ivory Coast",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Anthony",
+        "Player Lname": "Elanga",
+        "Player Age": 21,
+        "Player Height": 178,
+        "Player Weight": 70,
+        "Player Nationality": "Sweden",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Alejandro",
+        "Player Lname": "Ferreyra",
+        "Player Age": 19,
+        "Player Height": 180,
+        "Player Weight": 73,
+        "Player Nationality": "Argentina",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "\u0141ukasz",
+        "Player Lname": "Fabia\u0144ski",
+        "Player Age": 38,
+        "Player Height": 190,
+        "Player Weight": 83,
+        "Player Nationality": "Poland",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Alphonse",
+        "Player Lname": "Ar\u00e9ola",
+        "Player Age": 31,
+        "Player Height": 195,
+        "Player Weight": 88,
+        "Player Nationality": "France",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "David",
+        "Player Lname": "Martin",
+        "Player Age": 38,
+        "Player Height": 188,
+        "Player Weight": 88,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Darren",
+        "Player Lname": "Randolph",
+        "Player Age": 36,
+        "Player Height": 188,
+        "Player Weight": 98,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Aaron",
+        "Player Lname": "Cresswell",
+        "Player Age": 34,
+        "Player Height": 170,
+        "Player Weight": 66,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Frederik",
+        "Player Lname": "Ibsen",
+        "Player Age": 25,
+        "Player Height": 189,
+        "Player Weight": 78,
+        "Player Nationality": "Denmark",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Craig",
+        "Player Lname": "Dawson",
+        "Player Age": 33,
+        "Player Height": 188,
+        "Player Weight": 83,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Angelo",
+        "Player Lname": "Ogbonna",
+        "Player Age": 35,
+        "Player Height": 191,
+        "Player Weight": 86,
+        "Player Nationality": "Italy",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Issa",
+        "Player Lname": "Diop",
+        "Player Age": 27,
+        "Player Height": 194,
+        "Player Weight": 86,
+        "Player Nationality": "France",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Harrison",
+        "Player Lname": "Ashby",
+        "Player Age": 22,
+        "Player Height": 179,
+        "Player Weight": 75,
+        "Player Nationality": "Scotland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jamal",
+        "Player Lname": "Baptiste",
+        "Player Age": 20,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Vladimir",
+        "Player Lname": "Coufal",
+        "Player Age": 31,
+        "Player Height": 174,
+        "Player Weight": 71,
+        "Player Nationality": "Czech Rep.",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Ryan",
+        "Player Lname": "Fredericks",
+        "Player Age": 31,
+        "Player Height": 180,
+        "Player Weight": 79,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Benjamin",
+        "Player Lname": "Johnson",
+        "Player Age": 24,
+        "Player Height": 175,
+        "Player Weight": 67,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Winston",
+        "Player Lname": "Reid",
+        "Player Age": 35,
+        "Player Height": 190,
+        "Player Weight": 87,
+        "Player Nationality": "New Zealand",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Kurt",
+        "Player Lname": "Zouma",
+        "Player Age": 29,
+        "Player Height": 190,
+        "Player Weight": 92,
+        "Player Nationality": "France",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Ajibola",
+        "Player Lname": "Alese",
+        "Player Age": 23,
+        "Player Height": 192,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Pierre-Emmanuel",
+        "Player Lname": "Elimby",
+        "Player Age": 22,
+        "Player Height": 187,
+        "Player Weight": 0,
+        "Player Nationality": "France",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Fuka",
+        "Player Lname": "Kawela",
+        "Player Age": 30,
+        "Player Height": 179,
+        "Player Weight": 69,
+        "Player Nationality": "DR Congo",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Mark",
+        "Player Lname": "Noble",
+        "Player Age": 36,
+        "Player Height": 180,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Nikola",
+        "Player Lname": "Vla\u0161i\u0107",
+        "Player Age": 26,
+        "Player Height": 178,
+        "Player Weight": 74,
+        "Player Nationality": "Croatia",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Alex",
+        "Player Lname": "Kr\u00e1l",
+        "Player Age": 25,
+        "Player Height": 187,
+        "Player Weight": 80,
+        "Player Nationality": "Czech Rep.",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Daniel",
+        "Player Lname": "Chesters",
+        "Player Age": 21,
+        "Player Height": 177,
+        "Player Weight": 65,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Kamarai",
+        "Player Lname": "Simon-Swyer",
+        "Player Age": 21,
+        "Player Height": 183,
+        "Player Weight": 66,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Keenan",
+        "Player Lname": "Appiah-Forson",
+        "Player Age": 22,
+        "Player Height": 174,
+        "Player Weight": 82,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Freddie",
+        "Player Lname": "Potts",
+        "Player Age": 20,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Sonny",
+        "Player Lname": "Perkins",
+        "Player Age": 20,
+        "Player Height": 178,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Tom\u00e1\u0161",
+        "Player Lname": "Sou\u010dek",
+        "Player Age": 29,
+        "Player Height": 192,
+        "Player Weight": 78,
+        "Player Nationality": "Czech Rep.",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Declan",
+        "Player Lname": "Rice",
+        "Player Age": 25,
+        "Player Height": 188,
+        "Player Weight": 83,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Conor",
+        "Player Lname": "Coventry",
+        "Player Age": 23,
+        "Player Height": 175,
+        "Player Weight": 65,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Pablo",
+        "Player Lname": "Malla",
+        "Player Age": 28,
+        "Player Height": 178,
+        "Player Weight": 73,
+        "Player Nationality": "Spain",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Manuel",
+        "Player Lname": "Lanzini",
+        "Player Age": 31,
+        "Player Height": 167,
+        "Player Weight": 66,
+        "Player Nationality": "Argentina",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Armstrong",
+        "Player Lname": "Oko-Flex",
+        "Player Age": 22,
+        "Player Height": 180,
+        "Player Weight": 73,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Mbule",
+        "Player Lname": "Emmanuel",
+        "Player Age": 23,
+        "Player Height": 184,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Andriy",
+        "Player Lname": "Yarmolenko",
+        "Player Age": 34,
+        "Player Height": 189,
+        "Player Weight": 76,
+        "Player Nationality": "Ukraine",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jarrod",
+        "Player Lname": "Bowen",
+        "Player Age": 27,
+        "Player Height": 174,
+        "Player Weight": 71,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Michail",
+        "Player Lname": "Antonio",
+        "Player Age": 33,
+        "Player Height": 180,
+        "Player Weight": 86,
+        "Player Nationality": "Jamaica",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Sa\u00efd",
+        "Player Lname": "Benrahma",
+        "Player Age": 28,
+        "Player Height": 172,
+        "Player Weight": 66,
+        "Player Nationality": "Algeria",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Kasper",
+        "Player Lname": "Schmeichel",
+        "Player Age": 37,
+        "Player Height": 189,
+        "Player Weight": 86,
+        "Player Nationality": "Denmark",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Daniel",
+        "Player Lname": "Ward",
+        "Player Age": 30,
+        "Player Height": 191,
+        "Player Weight": 88,
+        "Player Nationality": "Wales",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Eldin",
+        "Player Lname": "Jakupovi\u0107",
+        "Player Age": 39,
+        "Player Height": 191,
+        "Player Weight": 85,
+        "Player Nationality": "Switzerland",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Jakub",
+        "Player Lname": "Stolarczyk",
+        "Player Age": 23,
+        "Player Height": 194,
+        "Player Weight": 77,
+        "Player Nationality": "Poland",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Chituru",
+        "Player Lname": "Odunze",
+        "Player Age": 21,
+        "Player Height": 204,
+        "Player Weight": 97,
+        "Player Nationality": "United States of America",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Wesley",
+        "Player Lname": "Fofana",
+        "Player Age": 23,
+        "Player Height": 190,
+        "Player Weight": 81,
+        "Player Nationality": "France",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Ryan",
+        "Player Lname": "Bertrand",
+        "Player Age": 34,
+        "Player Height": 179,
+        "Player Weight": 85,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jonathan",
+        "Player Lname": "Evans",
+        "Player Age": 36,
+        "Player Height": 188,
+        "Player Weight": 82,
+        "Player Nationality": "Northern Ireland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jannik",
+        "Player Lname": "Vestergaard",
+        "Player Age": 31,
+        "Player Height": 199,
+        "Player Weight": 94,
+        "Player Nationality": "Denmark",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Timothy",
+        "Player Lname": "Castagne",
+        "Player Age": 28,
+        "Player Height": 185,
+        "Player Weight": 75,
+        "Player Nationality": "Belgium",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Luke",
+        "Player Lname": "Thomas",
+        "Player Age": 22,
+        "Player Height": 181,
+        "Player Weight": 71,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Filip",
+        "Player Lname": "Benkovi\u0107",
+        "Player Age": 26,
+        "Player Height": 194,
+        "Player Weight": 80,
+        "Player Nationality": "Croatia",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Vontae",
+        "Player Lname": "Daley-Campbell",
+        "Player Age": 22,
+        "Player Height": 183,
+        "Player Weight": 74,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Benjamin",
+        "Player Lname": "Nelson",
+        "Player Age": 19,
+        "Player Height": 190,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "James",
+        "Player Lname": "Justin",
+        "Player Age": 26,
+        "Player Height": 183,
+        "Player Weight": 80,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Ricardo",
+        "Player Lname": "Pereira",
+        "Player Age": 30,
+        "Player Height": 175,
+        "Player Weight": 65,
+        "Player Nationality": "Portugal",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "\u00c7a\u011flar",
+        "Player Lname": "S\u00f6y\u00fcnc\u00fc",
+        "Player Age": 27,
+        "Player Height": 185,
+        "Player Weight": 82,
+        "Player Nationality": "Turkey",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Daniel",
+        "Player Lname": "Amartey",
+        "Player Age": 29,
+        "Player Height": 186,
+        "Player Weight": 76,
+        "Player Nationality": "Ghana",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Youri",
+        "Player Lname": "Tielemans",
+        "Player Age": 26,
+        "Player Height": 177,
+        "Player Weight": 73,
+        "Player Nationality": "Belgium",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Hamza",
+        "Player Lname": "Choudhury",
+        "Player Age": 26,
+        "Player Height": 178,
+        "Player Weight": 66,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Nampalys",
+        "Player Lname": "Mendy",
+        "Player Age": 31,
+        "Player Height": 167,
+        "Player Weight": 68,
+        "Player Nationality": "Senegal",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Dennis",
+        "Player Lname": "Praet",
+        "Player Age": 29,
+        "Player Height": 181,
+        "Player Weight": 75,
+        "Player Nationality": "Belgium",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Kasey",
+        "Player Lname": "McAteer",
+        "Player Age": 22,
+        "Player Height": 177,
+        "Player Weight": 69,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Oliver",
+        "Player Lname": "Ewing",
+        "Player Age": 21,
+        "Player Height": 181,
+        "Player Weight": 67,
+        "Player Nationality": "Wales",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Samuel",
+        "Player Lname": "Braybrooke",
+        "Player Age": 20,
+        "Player Height": 178,
+        "Player Weight": 65,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Kiernan",
+        "Player Lname": "Dewsbury-Hall",
+        "Player Age": 25,
+        "Player Height": 178,
+        "Player Weight": 72,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Onyinye",
+        "Player Lname": "Ndidi",
+        "Player Age": 27,
+        "Player Height": 183,
+        "Player Weight": 69,
+        "Player Nationality": "Nigeria",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Boubakary",
+        "Player Lname": "Soumar\u00e9",
+        "Player Age": 25,
+        "Player Height": 188,
+        "Player Weight": 88,
+        "Player Nationality": "France",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "James",
+        "Player Lname": "Maddison",
+        "Player Age": 27,
+        "Player Height": 175,
+        "Player Weight": 67,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "William",
+        "Player Lname": "Alves",
+        "Player Age": 18,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Wanya",
+        "Player Lname": "Madiv\u00e1dua",
+        "Player Age": 21,
+        "Player Height": 181,
+        "Player Weight": 73,
+        "Player Nationality": "Portugal",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Lewis",
+        "Player Lname": "Brunt",
+        "Player Age": 23,
+        "Player Height": 187,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Ayoze",
+        "Player Lname": "Guti\u00e9rrez",
+        "Player Age": 30,
+        "Player Height": 178,
+        "Player Weight": 70,
+        "Player Nationality": "Spain",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jamie",
+        "Player Lname": "Vardy",
+        "Player Age": 37,
+        "Player Height": 179,
+        "Player Weight": 66,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Kelechi",
+        "Player Lname": "Iheanacho",
+        "Player Age": 27,
+        "Player Height": 185,
+        "Player Weight": 79,
+        "Player Nationality": "Nigeria",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Patson",
+        "Player Lname": "Daka",
+        "Player Age": 25,
+        "Player Height": 183,
+        "Player Weight": 75,
+        "Player Nationality": "Zambia",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Harvey",
+        "Player Lname": "Barnes",
+        "Player Age": 26,
+        "Player Height": 182,
+        "Player Weight": 77,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Marc",
+        "Player Lname": "Albrighton",
+        "Player Age": 34,
+        "Player Height": 175,
+        "Player Weight": 67,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Ademola",
+        "Player Lname": "Lookman",
+        "Player Age": 26,
+        "Player Height": 176,
+        "Player Weight": 70,
+        "Player Nationality": "Nigeria",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Robert",
+        "Player Lname": "S\u00e1nchez",
+        "Player Age": 26,
+        "Player Height": 197,
+        "Player Weight": 90,
+        "Player Nationality": "Spain",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Kjell",
+        "Player Lname": "Scherpen",
+        "Player Age": 24,
+        "Player Height": 202,
+        "Player Weight": 105,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Jason",
+        "Player Lname": "Steele",
+        "Player Age": 33,
+        "Player Height": 188,
+        "Player Weight": 84,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Christian",
+        "Player Lname": "Walton",
+        "Player Age": 28,
+        "Player Height": 182,
+        "Player Weight": 75,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Thomas",
+        "Player Lname": "McGill",
+        "Player Age": 23,
+        "Player Height": 185,
+        "Player Weight": 80,
+        "Player Nationality": "Canada",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Tariq",
+        "Player Lname": "Lamptey",
+        "Player Age": 23,
+        "Player Height": 170,
+        "Player Weight": 62,
+        "Player Nationality": "Ghana",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Michal",
+        "Player Lname": "Karbownik",
+        "Player Age": 23,
+        "Player Height": 175,
+        "Player Weight": 65,
+        "Player Nationality": "Poland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Haydon",
+        "Player Lname": "Roberts",
+        "Player Age": 21,
+        "Player Height": 175,
+        "Player Weight": 68,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Antef",
+        "Player Lname": "Tsoungui",
+        "Player Age": 21,
+        "Player Height": 185,
+        "Player Weight": 0,
+        "Player Nationality": "Belgium",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Walter",
+        "Player Lname": "Furlong",
+        "Player Age": 21,
+        "Player Height": 178,
+        "Player Weight": 72,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Andrew",
+        "Player Lname": "Moran",
+        "Player Age": 20,
+        "Player Height": 177,
+        "Player Weight": 73,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "J\u00f6el",
+        "Player Lname": "Veltman",
+        "Player Age": 32,
+        "Player Height": 184,
+        "Player Weight": 77,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Adam",
+        "Player Lname": "Webster",
+        "Player Age": 29,
+        "Player Height": 185,
+        "Player Weight": 75,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Lewis",
+        "Player Lname": "Dunk",
+        "Player Age": 32,
+        "Player Height": 192,
+        "Player Weight": 88,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Shane",
+        "Player Lname": "Duffy",
+        "Player Age": 32,
+        "Player Height": 193,
+        "Player Weight": 76,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Daniel",
+        "Player Lname": "Burn",
+        "Player Age": 31,
+        "Player Height": 201,
+        "Player Weight": 96,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Edward",
+        "Player Lname": "Turns",
+        "Player Age": 21,
+        "Player Height": 182,
+        "Player Weight": 78,
+        "Player Nationality": "Wales",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Marc",
+        "Player Lname": "Saseta",
+        "Player Age": 25,
+        "Player Height": 177,
+        "Player Weight": 67,
+        "Player Nationality": "Spain",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jakub",
+        "Player Lname": "Moder",
+        "Player Age": 24,
+        "Player Height": 191,
+        "Player Weight": 78,
+        "Player Nationality": "Poland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Marc",
+        "Player Lname": "Leonard",
+        "Player Age": 22,
+        "Player Height": 168,
+        "Player Weight": 58,
+        "Player Nationality": "Scotland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Odeluga",
+        "Player Lname": "Offiah",
+        "Player Age": 21,
+        "Player Height": 181,
+        "Player Weight": 81,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Solomon",
+        "Player Lname": "March",
+        "Player Age": 29,
+        "Player Height": 180,
+        "Player Weight": 76,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Yves",
+        "Player Lname": "Bissouma",
+        "Player Age": 27,
+        "Player Height": 182,
+        "Player Weight": 66,
+        "Player Nationality": "Mali",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Mois\u00e9s",
+        "Player Lname": "Corozo",
+        "Player Age": 22,
+        "Player Height": 178,
+        "Player Weight": 74,
+        "Player Nationality": "Ecuador",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Tudor",
+        "Player Lname": "B\u0103lu\u021b\u0103",
+        "Player Age": 24,
+        "Player Height": 191,
+        "Player Weight": 88,
+        "Player Nationality": "Romania",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Kacper",
+        "Player Lname": "Koz\u0142owski",
+        "Player Age": 20,
+        "Player Height": 177,
+        "Player Weight": 69,
+        "Player Nationality": "Poland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Adam",
+        "Player Lname": "Lallana",
+        "Player Age": 35,
+        "Player Height": 172,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Taylor",
+        "Player Lname": "Richards",
+        "Player Age": 23,
+        "Player Height": 176,
+        "Player Weight": 71,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Alexis",
+        "Player Lname": "Allister",
+        "Player Age": 25,
+        "Player Height": 176,
+        "Player Weight": 70,
+        "Player Nationality": "Argentina",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Enock",
+        "Player Lname": "Mwepu",
+        "Player Age": 26,
+        "Player Height": 184,
+        "Player Weight": 78,
+        "Player Nationality": "Zambia",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Pascal",
+        "Player Lname": "Gro\u00df",
+        "Player Age": 32,
+        "Player Height": 181,
+        "Player Weight": 78,
+        "Player Nationality": "Germany",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Steven",
+        "Player Lname": "Alzate",
+        "Player Age": 25,
+        "Player Height": 180,
+        "Player Weight": 65,
+        "Player Nationality": "Colombia",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Andi",
+        "Player Lname": "Zeqiri",
+        "Player Age": 24,
+        "Player Height": 181,
+        "Player Weight": 72,
+        "Player Nationality": "Switzerland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Florin",
+        "Player Lname": "Andone",
+        "Player Age": 30,
+        "Player Height": 181,
+        "Player Weight": 75,
+        "Player Nationality": "Romania",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Evan",
+        "Player Lname": "Ferguson",
+        "Player Age": 19,
+        "Player Height": 183,
+        "Player Weight": 80,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Aaron",
+        "Player Lname": "Connolly",
+        "Player Age": 24,
+        "Player Height": 172,
+        "Player Weight": 72,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Neal",
+        "Player Lname": "Maupay",
+        "Player Age": 27,
+        "Player Height": 173,
+        "Player Weight": 76,
+        "Player Nationality": "France",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "J\u00fcrgen",
+        "Player Lname": "Locadia",
+        "Player Age": 30,
+        "Player Height": 188,
+        "Player Weight": 88,
+        "Player Nationality": "Cura\u00e7ao",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Leandro",
+        "Player Lname": "Trossard",
+        "Player Age": 29,
+        "Player Height": 172,
+        "Player Weight": 68,
+        "Player Nationality": "Belgium",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jeremy",
+        "Player Lname": "Morante",
+        "Player Age": 21,
+        "Player Height": 178,
+        "Player Weight": 70,
+        "Player Nationality": "Ecuador",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Daniel",
+        "Player Lname": "Welbeck",
+        "Player Age": 33,
+        "Player Height": 185,
+        "Player Weight": 72,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jos\u00e9",
+        "Player Lname": "S\u00e1",
+        "Player Age": 31,
+        "Player Height": 192,
+        "Player Weight": 84,
+        "Player Nationality": "Portugal",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Louie",
+        "Player Lname": "Moulden",
+        "Player Age": 22,
+        "Player Height": 190,
+        "Player Weight": 84,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "John",
+        "Player Lname": "Ruddy",
+        "Player Age": 37,
+        "Player Height": 193,
+        "Player Weight": 97,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "James",
+        "Player Lname": "Storer",
+        "Player Age": 19,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Andreas",
+        "Player Lname": "S\u00f6ndergaard",
+        "Player Age": 23,
+        "Player Height": 189,
+        "Player Weight": 75,
+        "Player Nationality": "Denmark",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Rayan",
+        "Player Lname": "A\u00eft-Nouri",
+        "Player Age": 22,
+        "Player Height": 180,
+        "Player Weight": 68,
+        "Player Nationality": "Algeria",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Willy",
+        "Player Lname": "Boly",
+        "Player Age": 33,
+        "Player Height": 195,
+        "Player Weight": 90,
+        "Player Nationality": "Ivory Coast",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Romain",
+        "Player Lname": "Saiss",
+        "Player Age": 33,
+        "Player Height": 188,
+        "Player Weight": 76,
+        "Player Nationality": "Morocco",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Ki-Jana",
+        "Player Lname": "Hoever",
+        "Player Age": 22,
+        "Player Height": 180,
+        "Player Weight": 64,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "N\u00e9lson",
+        "Player Lname": "Semedo",
+        "Player Age": 30,
+        "Player Height": 177,
+        "Player Weight": 67,
+        "Player Nationality": "Portugal",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Oskar",
+        "Player Lname": "Rasmussen",
+        "Player Age": 25,
+        "Player Height": 178,
+        "Player Weight": 70,
+        "Player Nationality": "Denmark",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Yerson",
+        "Player Lname": "Valdelamar",
+        "Player Age": 22,
+        "Player Height": 188,
+        "Player Weight": 76,
+        "Player Nationality": "Colombia",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Conor",
+        "Player Lname": "Coady",
+        "Player Age": 31,
+        "Player Height": 185,
+        "Player Weight": 75,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Maximilian",
+        "Player Lname": "Kilman",
+        "Player Age": 26,
+        "Player Height": 194,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Tote",
+        "Player Lname": "Gomes",
+        "Player Age": 25,
+        "Player Height": 187,
+        "Player Weight": 81,
+        "Player Nationality": "Portugal",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Dion",
+        "Player Lname": "Sanderson",
+        "Player Age": 24,
+        "Player Height": 188,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Christian",
+        "Player Lname": "Marques",
+        "Player Age": 21,
+        "Player Height": 187,
+        "Player Weight": 0,
+        "Player Nationality": "Portugal",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Fernando",
+        "Player Lname": "Oliveira",
+        "Player Age": 35,
+        "Player Height": 178,
+        "Player Weight": 72,
+        "Player Nationality": "Brazil",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jonathan",
+        "Player Lname": "Otto",
+        "Player Age": 30,
+        "Player Height": 175,
+        "Player Weight": 70,
+        "Player Nationality": "Spain",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Hugo",
+        "Player Lname": "L\u00f3pez",
+        "Player Age": 21,
+        "Player Height": 180,
+        "Player Weight": 73,
+        "Player Nationality": "Spain",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Dexter",
+        "Player Lname": "Lembikisa",
+        "Player Age": 20,
+        "Player Height": 180,
+        "Player Weight": 77,
+        "Player Nationality": "Jamaica",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Morgan",
+        "Player Lname": "Gibbs-White",
+        "Player Age": 24,
+        "Player Height": 171,
+        "Player Weight": 66,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Leander",
+        "Player Lname": "Dendoncker",
+        "Player Age": 28,
+        "Player Height": 188,
+        "Player Weight": 76,
+        "Player Nationality": "Belgium",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "R\u00faben",
+        "Player Lname": "Neves",
+        "Player Age": 27,
+        "Player Height": 180,
+        "Player Weight": 78,
+        "Player Nationality": "Portugal",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Luke",
+        "Player Lname": "Cundle",
+        "Player Age": 21,
+        "Player Height": 178,
+        "Player Weight": 67,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Chem",
+        "Player Lname": "Campbell",
+        "Player Age": 21,
+        "Player Height": 180,
+        "Player Weight": 0,
+        "Player Nationality": "Wales",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Connor",
+        "Player Lname": "Ronan",
+        "Player Age": 26,
+        "Player Height": 170,
+        "Player Weight": 74,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Bruno",
+        "Player Lname": "Jord\u00e3o",
+        "Player Age": 25,
+        "Player Height": 180,
+        "Player Weight": 73,
+        "Player Nationality": "Portugal",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Jo\u00e3o",
+        "Player Lname": "Moutinho",
+        "Player Age": 37,
+        "Player Height": 170,
+        "Player Weight": 63,
+        "Player Nationality": "Portugal",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Ryan",
+        "Player Lname": "Giles",
+        "Player Age": 24,
+        "Player Height": 179,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Pedro",
+        "Player Lname": "Neto",
+        "Player Age": 24,
+        "Player Height": 172,
+        "Player Weight": 68,
+        "Player Nationality": "Portugal",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Francisco",
+        "Player Lname": "Trinc\u00e3o",
+        "Player Age": 24,
+        "Player Height": 184,
+        "Player Weight": 76,
+        "Player Nationality": "Portugal",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Adama",
+        "Player Lname": "Diarra",
+        "Player Age": 28,
+        "Player Height": 178,
+        "Player Weight": 83,
+        "Player Nationality": "Spain",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Ra\u00fal",
+        "Player Lname": "Rodr\u00edguez",
+        "Player Age": 32,
+        "Player Height": 187,
+        "Player Weight": 82,
+        "Player Nationality": "Mexico",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "F\u00e1bio",
+        "Player Lname": "Silva",
+        "Player Age": 21,
+        "Player Height": 185,
+        "Player Weight": 79,
+        "Player Nationality": "Portugal",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Hwang",
+        "Player Lname": "Hee-chan",
+        "Player Age": 28,
+        "Player Height": 177,
+        "Player Weight": 73,
+        "Player Nationality": "South Korea",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Francisco",
+        "Player Lname": "Oliveira",
+        "Player Age": 24,
+        "Player Height": 179,
+        "Player Weight": 66,
+        "Player Nationality": "Portugal",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Daniel",
+        "Player Lname": "Podence",
+        "Player Age": 28,
+        "Player Height": 165,
+        "Player Weight": 68,
+        "Player Nationality": "Portugal",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Martin",
+        "Player Lname": "D\u00fabravka",
+        "Player Age": 35,
+        "Player Height": 191,
+        "Player Weight": 88,
+        "Player Nationality": "Slovakia",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Karl",
+        "Player Lname": "Darlow",
+        "Player Age": 33,
+        "Player Height": 190,
+        "Player Weight": 88,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Frederick",
+        "Player Lname": "Woodman",
+        "Player Age": 27,
+        "Player Height": 188,
+        "Player Weight": 83,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Mark",
+        "Player Lname": "Gillespie",
+        "Player Age": 31,
+        "Player Height": 190,
+        "Player Weight": 86,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Ciaran",
+        "Player Lname": "Clark",
+        "Player Age": 34,
+        "Player Height": 185,
+        "Player Weight": 76,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Paul",
+        "Player Lname": "Dummett",
+        "Player Age": 32,
+        "Player Height": 183,
+        "Player Weight": 78,
+        "Player Nationality": "Wales",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jamaal",
+        "Player Lname": "Lascelles",
+        "Player Age": 30,
+        "Player Height": 188,
+        "Player Weight": 83,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Matthew",
+        "Player Lname": "Ritchie",
+        "Player Age": 34,
+        "Player Height": 172,
+        "Player Weight": 71,
+        "Player Nationality": "Scotland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Emil",
+        "Player Lname": "Krafth",
+        "Player Age": 29,
+        "Player Height": 184,
+        "Player Weight": 77,
+        "Player Nationality": "Sweden",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Javier",
+        "Player Lname": "Gait\u00e1n",
+        "Player Age": 29,
+        "Player Height": 178,
+        "Player Weight": 66,
+        "Player Nationality": "Spain",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Daniel",
+        "Player Lname": "Burn",
+        "Player Age": 31,
+        "Player Height": 201,
+        "Player Weight": 96,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Kieran",
+        "Player Lname": "Trippier",
+        "Player Age": 33,
+        "Player Height": 178,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Fabian",
+        "Player Lname": "Sch\u00e4r",
+        "Player Age": 32,
+        "Player Height": 186,
+        "Player Weight": 80,
+        "Player Nationality": "Switzerland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Federico",
+        "Player Lname": "Fern\u00e1ndez",
+        "Player Age": 35,
+        "Player Height": 190,
+        "Player Weight": 82,
+        "Player Nationality": "Argentina",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jamal",
+        "Player Lname": "Lewis",
+        "Player Age": 26,
+        "Player Height": 178,
+        "Player Weight": 70,
+        "Player Nationality": "Northern Ireland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Matthew",
+        "Player Lname": "Targett",
+        "Player Age": 28,
+        "Player Height": 183,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Matthew",
+        "Player Lname": "Longstaff",
+        "Player Age": 23,
+        "Player Height": 171,
+        "Player Weight": 60,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Jonjo",
+        "Player Lname": "Shelvey",
+        "Player Age": 32,
+        "Player Height": 184,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Isaac",
+        "Player Lname": "Hayden",
+        "Player Age": 28,
+        "Player Height": 185,
+        "Player Weight": 79,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Jeffrey",
+        "Player Lname": "Hendrick",
+        "Player Age": 32,
+        "Player Height": 185,
+        "Player Weight": 79,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Miguel",
+        "Player Lname": "Rejala",
+        "Player Age": 30,
+        "Player Height": 174,
+        "Player Weight": 66,
+        "Player Nationality": "Paraguay",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Joseph",
+        "Player Lname": "Willock",
+        "Player Age": 24,
+        "Player Height": 186,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Elliot",
+        "Player Lname": "Anderson",
+        "Player Age": 21,
+        "Player Height": 179,
+        "Player Weight": 71,
+        "Player Nationality": "Scotland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Bruno",
+        "Player Lname": "Moura",
+        "Player Age": 26,
+        "Player Height": 182,
+        "Player Weight": 78,
+        "Player Nationality": "Brazil",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Lucas",
+        "Player Lname": "Bolle",
+        "Player Age": 21,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "Scotland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Joe",
+        "Player Lname": "White",
+        "Player Age": 21,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Joelinton",
+        "Player Lname": "Lira",
+        "Player Age": 27,
+        "Player Height": 186,
+        "Player Weight": 81,
+        "Player Nationality": "Brazil",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Sean",
+        "Player Lname": "Longstaff",
+        "Player Age": 26,
+        "Player Height": 187,
+        "Player Weight": 77,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Ryan",
+        "Player Lname": "Fraser",
+        "Player Age": 30,
+        "Player Height": 163,
+        "Player Weight": 70,
+        "Player Nationality": "Scotland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jacob",
+        "Player Lname": "Murphy",
+        "Player Age": 29,
+        "Player Height": 179,
+        "Player Weight": 72,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Dwight",
+        "Player Lname": "Gayle",
+        "Player Age": 33,
+        "Player Height": 177,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Callum",
+        "Player Lname": "Wilson",
+        "Player Age": 32,
+        "Player Height": 180,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Christopher",
+        "Player Lname": "Wood",
+        "Player Age": 32,
+        "Player Height": 191,
+        "Player Weight": 94,
+        "Player Nationality": "New Zealand",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Santiago",
+        "Player Lname": "Robles",
+        "Player Age": 21,
+        "Player Height": 177,
+        "Player Weight": 70,
+        "Player Nationality": "Mexico",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Allan",
+        "Player Lname": "Saint-Maximin",
+        "Player Age": 27,
+        "Player Height": 173,
+        "Player Weight": 75,
+        "Player Nationality": "France",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jack",
+        "Player Lname": "Butland",
+        "Player Age": 31,
+        "Player Height": 196,
+        "Player Weight": 92,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Vicente",
+        "Player Lname": "Panadero",
+        "Player Age": 37,
+        "Player Height": 190,
+        "Player Weight": 78,
+        "Player Nationality": "Spain",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Remi",
+        "Player Lname": "Matthews",
+        "Player Age": 30,
+        "Player Height": 192,
+        "Player Weight": 88,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Joachim",
+        "Player Lname": "Andersen",
+        "Player Age": 27,
+        "Player Height": 192,
+        "Player Weight": 86,
+        "Player Nationality": "Denmark",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Nathaniel",
+        "Player Lname": "Clyne",
+        "Player Age": 32,
+        "Player Height": 175,
+        "Player Weight": 67,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Omotayo",
+        "Player Lname": "Adaramola",
+        "Player Age": 20,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Joel",
+        "Player Lname": "Ward",
+        "Player Age": 34,
+        "Player Height": 188,
+        "Player Weight": 83,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Martin",
+        "Player Lname": "Kelly",
+        "Player Age": 33,
+        "Player Height": 191,
+        "Player Weight": 77,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "James",
+        "Player Lname": "Tomkins",
+        "Player Age": 34,
+        "Player Height": 192,
+        "Player Weight": 86,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Addji",
+        "Player Lname": "Gu\u00e9hi",
+        "Player Age": 23,
+        "Player Height": 182,
+        "Player Weight": 80,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Cheikhou",
+        "Player Lname": "Kouyat\u00e9",
+        "Player Age": 34,
+        "Player Height": 189,
+        "Player Weight": 76,
+        "Player Nationality": "Senegal",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jaros\u0142aw",
+        "Player Lname": "Jach",
+        "Player Age": 30,
+        "Player Height": 189,
+        "Player Weight": 78,
+        "Player Nationality": "Poland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Nathan",
+        "Player Lname": "Ferguson",
+        "Player Age": 23,
+        "Player Height": 180,
+        "Player Weight": 76,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Tyrick",
+        "Player Lname": "Mitchell",
+        "Player Age": 24,
+        "Player Height": 174,
+        "Player Weight": 66,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jeffrey",
+        "Player Lname": "Schlupp",
+        "Player Age": 31,
+        "Player Height": 178,
+        "Player Weight": 73,
+        "Player Nationality": "Ghana",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Reece",
+        "Player Lname": "Hannam",
+        "Player Age": 23,
+        "Player Height": 170,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jacob",
+        "Player Lname": "Montes",
+        "Player Age": 25,
+        "Player Height": 180,
+        "Player Weight": 73,
+        "Player Nationality": "Nicaragua",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "William",
+        "Player Lname": "Hughes",
+        "Player Age": 28,
+        "Player Height": 185,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Scott",
+        "Player Lname": "Bank",
+        "Player Age": 22,
+        "Player Height": 183,
+        "Player Weight": 0,
+        "Player Nationality": "Scotland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Jack",
+        "Player Lname": "Wells-Morrison",
+        "Player Age": 20,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Jesurun",
+        "Player Lname": "Rak-Sakyi",
+        "Player Age": 21,
+        "Player Height": 178,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Luka",
+        "Player Lname": "Milivojevi\u0107",
+        "Player Age": 32,
+        "Player Height": 186,
+        "Player Weight": 88,
+        "Player Nationality": "Serbia",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Jairo",
+        "Player Lname": "Riedewald",
+        "Player Age": 27,
+        "Player Height": 182,
+        "Player Weight": 79,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Eberechi",
+        "Player Lname": "Eze",
+        "Player Age": 25,
+        "Player Height": 178,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "James",
+        "Player Lname": "McArthur",
+        "Player Age": 36,
+        "Player Height": 178,
+        "Player Weight": 74,
+        "Player Nationality": "Scotland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Conor",
+        "Player Lname": "Gallagher",
+        "Player Age": 24,
+        "Player Height": 182,
+        "Player Weight": 77,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Odsonne",
+        "Player Lname": "\u00c9douard",
+        "Player Age": 26,
+        "Player Height": 187,
+        "Player Weight": 83,
+        "Player Nationality": "France",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Robert",
+        "Player Lname": "Street",
+        "Player Age": 22,
+        "Player Height": 186,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Michael",
+        "Player Lname": "Olise",
+        "Player Age": 22,
+        "Player Height": 184,
+        "Player Weight": 78,
+        "Player Nationality": "France",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jean-Philippe",
+        "Player Lname": "Mateta",
+        "Player Age": 26,
+        "Player Height": 192,
+        "Player Weight": 82,
+        "Player Nationality": "France",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Christian",
+        "Player Lname": "Liolo",
+        "Player Age": 33,
+        "Player Height": 190,
+        "Player Weight": 86,
+        "Player Nationality": "Belgium",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Dazet",
+        "Player Lname": "Zaha",
+        "Player Age": 31,
+        "Player Height": 180,
+        "Player Weight": 72,
+        "Player Nationality": "Ivory Coast",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jordan",
+        "Player Lname": "Ayew",
+        "Player Age": 32,
+        "Player Height": 182,
+        "Player Weight": 72,
+        "Player Nationality": "Ghana",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "David",
+        "Player Lname": "Martin",
+        "Player Age": 28,
+        "Player Height": 183,
+        "Player Weight": 80,
+        "Player Nationality": "Spain",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Patrik",
+        "Player Lname": "Gunnarsson",
+        "Player Age": 23,
+        "Player Height": 190,
+        "Player Weight": 83,
+        "Player Nationality": "Iceland",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "\u00c1lvaro",
+        "Player Lname": "Llorente",
+        "Player Age": 25,
+        "Player Height": 186,
+        "Player Weight": 83,
+        "Player Nationality": "Spain",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Matthew",
+        "Player Lname": "Cox",
+        "Player Age": 20,
+        "Player Height": 182,
+        "Player Weight": 64,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Jonas",
+        "Player Lname": "L\u00f6ssl",
+        "Player Age": 35,
+        "Player Height": 195,
+        "Player Weight": 89,
+        "Player Nationality": "Denmark",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Charles",
+        "Player Lname": "Goode",
+        "Player Age": 28,
+        "Player Height": 180,
+        "Player Weight": 76,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Mathias",
+        "Player Lname": "J\u00f8rgensen",
+        "Player Age": 33,
+        "Player Height": 191,
+        "Player Weight": 86,
+        "Player Nationality": "Denmark",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Mads",
+        "Player Lname": "Rasmussen",
+        "Player Age": 24,
+        "Player Height": 184,
+        "Player Weight": 76,
+        "Player Nationality": "Denmark",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Luka",
+        "Player Lname": "Racic",
+        "Player Age": 24,
+        "Player Height": 187,
+        "Player Weight": 65,
+        "Player Nationality": "Denmark",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Finley",
+        "Player Lname": "Stevens",
+        "Player Age": 20,
+        "Player Height": 179,
+        "Player Weight": 72,
+        "Player Nationality": "Wales",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Lewis",
+        "Player Lname": "Gordon",
+        "Player Age": 23,
+        "Player Height": 170,
+        "Player Weight": 64,
+        "Player Nationality": "Scotland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Daniel",
+        "Player Lname": "Oyegoke",
+        "Player Age": 21,
+        "Player Height": 178,
+        "Player Weight": 65,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Ethan",
+        "Player Lname": "Pinnock",
+        "Player Age": 30,
+        "Player Height": 187,
+        "Player Weight": 80,
+        "Player Nationality": "Jamaica",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Pontus",
+        "Player Lname": "Jansson",
+        "Player Age": 33,
+        "Player Height": 194,
+        "Player Weight": 89,
+        "Player Nationality": "Sweden",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Kristoffer",
+        "Player Lname": "Ajer",
+        "Player Age": 25,
+        "Player Height": 198,
+        "Player Weight": 93,
+        "Player Nationality": "Norway",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Julian",
+        "Player Lname": "Jeanvier",
+        "Player Age": 31,
+        "Player Height": 183,
+        "Player Weight": 78,
+        "Player Nationality": "Guinea",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Mads",
+        "Player Lname": "S\u00f8rensen",
+        "Player Age": 25,
+        "Player Height": 185,
+        "Player Weight": 73,
+        "Player Nationality": "Denmark",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Dominic",
+        "Player Lname": "Thompson",
+        "Player Age": 23,
+        "Player Height": 183,
+        "Player Weight": 75,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Rico",
+        "Player Lname": "Henry",
+        "Player Age": 26,
+        "Player Height": 170,
+        "Player Weight": 64,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Paris",
+        "Player Lname": "Maghoma",
+        "Player Age": 22,
+        "Player Height": 181,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Christian",
+        "Player Lname": "N\u00f8rgaard",
+        "Player Age": 30,
+        "Player Height": 187,
+        "Player Weight": 73,
+        "Player Nationality": "Denmark",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Vitaly",
+        "Player Lname": "Janelt",
+        "Player Age": 25,
+        "Player Height": 184,
+        "Player Weight": 79,
+        "Player Nationality": "Germany",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Christian",
+        "Player Lname": "Eriksen",
+        "Player Age": 32,
+        "Player Height": 182,
+        "Player Weight": 76,
+        "Player Nationality": "Denmark",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Myles",
+        "Player Lname": "Peart-Harris",
+        "Player Age": 21,
+        "Player Height": 187,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Mathias",
+        "Player Lname": "Jensen",
+        "Player Age": 28,
+        "Player Height": 180,
+        "Player Weight": 72,
+        "Player Nationality": "Denmark",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Pelenda",
+        "Player Lname": "Dasilva",
+        "Player Age": 25,
+        "Player Height": 180,
+        "Player Weight": 75,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Ogochukwu",
+        "Player Lname": "Frank",
+        "Player Age": 26,
+        "Player Height": 183,
+        "Player Weight": 70,
+        "Player Nationality": "Nigeria",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Shandon",
+        "Player Lname": "Baptiste",
+        "Player Age": 25,
+        "Player Height": 180,
+        "Player Weight": 73,
+        "Player Nationality": "Grenada",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Mads",
+        "Player Lname": "Bidstrup",
+        "Player Age": 23,
+        "Player Height": 175,
+        "Player Weight": 68,
+        "Player Nationality": "Denmark",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Maxwell",
+        "Player Lname": "Haygarth",
+        "Player Age": 22,
+        "Player Height": 175,
+        "Player Weight": 67,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Tariqe",
+        "Player Lname": "Fosu-Henry",
+        "Player Age": 28,
+        "Player Height": 172,
+        "Player Weight": 66,
+        "Player Nationality": "Ghana",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "C\u00e9sar",
+        "Player Lname": "Castillo",
+        "Player Age": 29,
+        "Player Height": 175,
+        "Player Weight": 70,
+        "Player Nationality": "Ecuador",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Nathan",
+        "Player Lname": "Young-Coombes",
+        "Player Age": 21,
+        "Player Height": 179,
+        "Player Weight": 65,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Saman",
+        "Player Lname": "Ghoddos",
+        "Player Age": 30,
+        "Player Height": 175,
+        "Player Weight": 70,
+        "Player Nationality": "Iran",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Sergi",
+        "Player Lname": "Tenes",
+        "Player Age": 27,
+        "Player Height": 177,
+        "Player Weight": 73,
+        "Player Nationality": "Spain",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Bryan",
+        "Player Lname": "Mbeumo",
+        "Player Age": 24,
+        "Player Height": 171,
+        "Player Weight": 67,
+        "Player Nationality": "Cameroon",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Marcus",
+        "Player Lname": "Forss",
+        "Player Age": 24,
+        "Player Height": 182,
+        "Player Weight": 71,
+        "Player Nationality": "Finland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Ivan",
+        "Player Lname": "Toney",
+        "Player Age": 27,
+        "Player Height": 185,
+        "Player Weight": 88,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Ibrahim",
+        "Player Lname": "Dervi\u015fo\u011flu",
+        "Player Age": 24,
+        "Player Height": 183,
+        "Player Weight": 73,
+        "Player Nationality": "Turkey",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Yoane",
+        "Player Lname": "Wissa",
+        "Player Age": 27,
+        "Player Height": 176,
+        "Player Weight": 70,
+        "Player Nationality": "DR Congo",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Dami\u00e1n",
+        "Player Lname": "Romero",
+        "Player Age": 31,
+        "Player Height": 195,
+        "Player Weight": 98,
+        "Player Nationality": "Argentina",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Jed",
+        "Player Lname": "Steer",
+        "Player Age": 31,
+        "Player Height": 188,
+        "Player Weight": 89,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Robin",
+        "Player Lname": "Olsen",
+        "Player Age": 34,
+        "Player Height": 198,
+        "Player Weight": 89,
+        "Player Nationality": "Sweden",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Viljami",
+        "Player Lname": "Sinisalo",
+        "Player Age": 22,
+        "Player Height": 196,
+        "Player Weight": 76,
+        "Player Nationality": "Finland",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Filip",
+        "Player Lname": "Marschall",
+        "Player Age": 20,
+        "Player Height": 195,
+        "Player Weight": 88,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Axel",
+        "Player Lname": "Tuanzebe",
+        "Player Age": 26,
+        "Player Height": 183,
+        "Player Weight": 77,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Fr\u00e9d\u00e9ric",
+        "Player Lname": "Guilbert",
+        "Player Age": 29,
+        "Player Height": 178,
+        "Player Weight": 70,
+        "Player Nationality": "France",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Lucas",
+        "Player Lname": "Digne",
+        "Player Age": 30,
+        "Player Height": 178,
+        "Player Weight": 74,
+        "Player Nationality": "France",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Kaine",
+        "Player Lname": "Kesler-Hayden",
+        "Player Age": 20,
+        "Player Height": 175,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Kortney",
+        "Player Lname": "Hause",
+        "Player Age": 28,
+        "Player Height": 182,
+        "Player Weight": 77,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Sil",
+        "Player Lname": "Swinkels",
+        "Player Age": 20,
+        "Player Height": 190,
+        "Player Weight": 0,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Matthew",
+        "Player Lname": "Cash",
+        "Player Age": 26,
+        "Player Height": 185,
+        "Player Weight": 79,
+        "Player Nationality": "Poland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Ezri",
+        "Player Lname": "Ngoyo",
+        "Player Age": 26,
+        "Player Height": 183,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Tyrone",
+        "Player Lname": "Mings",
+        "Player Age": 31,
+        "Player Height": 196,
+        "Player Weight": 88,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Calum",
+        "Player Lname": "Chambers",
+        "Player Age": 29,
+        "Player Height": 182,
+        "Player Weight": 66,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Josh",
+        "Player Lname": "Feeney",
+        "Player Age": 18,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Matthew",
+        "Player Lname": "Targett",
+        "Player Age": 28,
+        "Player Height": 183,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Ashley",
+        "Player Lname": "Young",
+        "Player Age": 38,
+        "Player Height": 175,
+        "Player Weight": 65,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "John",
+        "Player Lname": "McGinn",
+        "Player Age": 29,
+        "Player Height": 178,
+        "Player Weight": 74,
+        "Player Nationality": "Scotland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Morgan",
+        "Player Lname": "Sanson",
+        "Player Age": 29,
+        "Player Height": 180,
+        "Player Weight": 75,
+        "Player Nationality": "France",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Conor",
+        "Player Lname": "Hourihane",
+        "Player Age": 33,
+        "Player Height": 181,
+        "Player Weight": 62,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Marvelous",
+        "Player Lname": "Nakamba",
+        "Player Age": 30,
+        "Player Height": 177,
+        "Player Weight": 72,
+        "Player Nationality": "Zimbabwe",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Lamare",
+        "Player Lname": "Bogarde",
+        "Player Age": 20,
+        "Player Height": 183,
+        "Player Weight": 0,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Benjamin",
+        "Player Lname": "Chrisene",
+        "Player Age": 20,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Hayden",
+        "Player Lname": "Lindley",
+        "Player Age": 21,
+        "Player Height": 182,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Tommi",
+        "Player Lname": "O'Reilly",
+        "Player Age": 20,
+        "Player Height": 170,
+        "Player Weight": 63,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Douglas",
+        "Player Lname": "Paulo",
+        "Player Age": 25,
+        "Player Height": 177,
+        "Player Weight": 77,
+        "Player Nationality": "Brazil",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Philippe",
+        "Player Lname": "Correia",
+        "Player Age": 31,
+        "Player Height": 172,
+        "Player Weight": 64,
+        "Player Nationality": "Brazil",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Aaron",
+        "Player Lname": "Ramsey",
+        "Player Age": 21,
+        "Player Height": 181,
+        "Player Weight": 76,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Jacob",
+        "Player Lname": "Ramsey",
+        "Player Age": 22,
+        "Player Height": 180,
+        "Player Weight": 75,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Carney",
+        "Player Lname": "Chukwuemeka",
+        "Player Age": 20,
+        "Player Height": 187,
+        "Player Weight": 81,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Timothy",
+        "Player Lname": "Iroegbunam",
+        "Player Age": 20,
+        "Player Height": 186,
+        "Player Weight": 76,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Wesley",
+        "Player Lname": "Silva",
+        "Player Age": 27,
+        "Player Height": 191,
+        "Player Weight": 86,
+        "Player Nationality": "Brazil",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Emiliano",
+        "Player Lname": "Stati",
+        "Player Age": 27,
+        "Player Height": 170,
+        "Player Weight": 65,
+        "Player Nationality": "Argentina",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Bertrand",
+        "Player Lname": "Traor\u00e9",
+        "Player Age": 28,
+        "Player Height": 181,
+        "Player Weight": 66,
+        "Player Nationality": "Burkina Faso",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Daniel",
+        "Player Lname": "Ings",
+        "Player Age": 31,
+        "Player Height": 178,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Anwar",
+        "Player Lname": "El-Ghazi",
+        "Player Age": 28,
+        "Player Height": 189,
+        "Player Weight": 83,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Leon",
+        "Player Lname": "Butler",
+        "Player Age": 26,
+        "Player Height": 178,
+        "Player Weight": 66,
+        "Player Nationality": "Jamaica",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jaden",
+        "Player Lname": "Philogene-Bidace",
+        "Player Age": 22,
+        "Player Height": 191,
+        "Player Weight": 75,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Cameron",
+        "Player Lname": "Archer",
+        "Player Age": 22,
+        "Player Height": 175,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Keinan",
+        "Player Lname": "Davis",
+        "Player Age": 26,
+        "Player Height": 191,
+        "Player Weight": 68,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Chigozier",
+        "Player Lname": "Chukwuemeka",
+        "Player Age": 22,
+        "Player Height": 190,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Oliver",
+        "Player Lname": "Watkins",
+        "Player Age": 28,
+        "Player Height": 180,
+        "Player Weight": 75,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Mahmoud",
+        "Player Lname": "Hassan",
+        "Player Age": 29,
+        "Player Height": 179,
+        "Player Weight": 74,
+        "Player Nationality": "Egypt",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Alex",
+        "Player Lname": "McCarthy",
+        "Player Age": 34,
+        "Player Height": 193,
+        "Player Weight": 79,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Wilfredo",
+        "Player Lname": "Caballero",
+        "Player Age": 42,
+        "Player Height": 186,
+        "Player Weight": 80,
+        "Player Nationality": "Argentina",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Harry",
+        "Player Lname": "Lewis",
+        "Player Age": 26,
+        "Player Height": 191,
+        "Player Weight": 77,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Fraser",
+        "Player Lname": "Forster",
+        "Player Age": 35,
+        "Player Height": 201,
+        "Player Weight": 93,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Kyle",
+        "Player Lname": "Walker-Peters",
+        "Player Age": 26,
+        "Player Height": 173,
+        "Player Weight": 62,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Lyanco",
+        "Player Lname": "Vojnovi\u0107",
+        "Player Age": 27,
+        "Player Height": 187,
+        "Player Weight": 83,
+        "Player Nationality": "Brazil",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jack",
+        "Player Lname": "Stephens",
+        "Player Age": 30,
+        "Player Height": 185,
+        "Player Weight": 84,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Thierry",
+        "Player Lname": "Small",
+        "Player Age": 19,
+        "Player Height": 177,
+        "Player Weight": 68,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jan",
+        "Player Lname": "Bednarek",
+        "Player Age": 27,
+        "Player Height": 189,
+        "Player Weight": 77,
+        "Player Nationality": "Poland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Yan",
+        "Player Lname": "Valery",
+        "Player Age": 25,
+        "Player Height": 180,
+        "Player Weight": 76,
+        "Player Nationality": "Tunisia",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Valentino",
+        "Player Lname": "Livramento",
+        "Player Age": 21,
+        "Player Height": 182,
+        "Player Weight": 72,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Mohammed",
+        "Player Lname": "Karim",
+        "Player Age": 24,
+        "Player Height": 188,
+        "Player Weight": 82,
+        "Player Nationality": "Ghana",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Dynel",
+        "Player Lname": "Simeu",
+        "Player Age": 22,
+        "Player Height": 186,
+        "Player Weight": 83,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Romain",
+        "Player Lname": "Perraud",
+        "Player Age": 26,
+        "Player Height": 173,
+        "Player Weight": 68,
+        "Player Nationality": "France",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Oriol",
+        "Player Lname": "Vidal",
+        "Player Age": 32,
+        "Player Height": 183,
+        "Player Weight": 80,
+        "Player Nationality": "Spain",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "William",
+        "Player Lname": "Smallbone",
+        "Player Age": 24,
+        "Player Height": 173,
+        "Player Weight": 59,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Ibrahima",
+        "Player Lname": "Diallo",
+        "Player Age": 25,
+        "Player Height": 180,
+        "Player Weight": 75,
+        "Player Nationality": "France",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Tyler",
+        "Player Lname": "Dibling",
+        "Player Age": 18,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Kgaogelo",
+        "Player Lname": "Chauke",
+        "Player Age": 21,
+        "Player Height": 177,
+        "Player Weight": 65,
+        "Player Nationality": "South Africa",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "James",
+        "Player Lname": "Ward-Prowse",
+        "Player Age": 29,
+        "Player Height": 173,
+        "Player Weight": 65,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Shane",
+        "Player Lname": "Long",
+        "Player Age": 37,
+        "Player Height": 180,
+        "Player Weight": 75,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Adam",
+        "Player Lname": "Armstrong",
+        "Player Age": 27,
+        "Player Height": 172,
+        "Player Weight": 69,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Nathan",
+        "Player Lname": "Redmond",
+        "Player Age": 30,
+        "Player Height": 173,
+        "Player Weight": 65,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Stuart",
+        "Player Lname": "Armstrong",
+        "Player Age": 31,
+        "Player Height": 183,
+        "Player Weight": 68,
+        "Player Nationality": "Scotland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Moussa",
+        "Player Lname": "Djenepo",
+        "Player Age": 25,
+        "Player Height": 177,
+        "Player Weight": 65,
+        "Player Nationality": "Mali",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Nathan",
+        "Player Lname": "Tella",
+        "Player Age": 24,
+        "Player Height": 173,
+        "Player Weight": 65,
+        "Player Nationality": "Nigeria",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Theo",
+        "Player Lname": "Walcott",
+        "Player Age": 34,
+        "Player Height": 175,
+        "Player Weight": 67,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Che",
+        "Player Lname": "Adams",
+        "Player Age": 27,
+        "Player Height": 178,
+        "Player Weight": 66,
+        "Player Nationality": "Scotland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Michael",
+        "Player Lname": "Obafemi",
+        "Player Age": 23,
+        "Player Height": 169,
+        "Player Weight": 71,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Armando",
+        "Player Lname": "Broja",
+        "Player Age": 22,
+        "Player Height": 191,
+        "Player Weight": 83,
+        "Player Nationality": "Albania",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Mohamed",
+        "Player Lname": "Elyounoussi",
+        "Player Age": 29,
+        "Player Height": 178,
+        "Player Weight": 82,
+        "Player Nationality": "Norway",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Kazeem",
+        "Player Lname": "Olaigbe",
+        "Player Age": 21,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "Belgium",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jordan",
+        "Player Lname": "Pickford",
+        "Player Age": 30,
+        "Player Height": 185,
+        "Player Weight": 88,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Asmir",
+        "Player Lname": "Begovi\u0107",
+        "Player Age": 36,
+        "Player Height": 199,
+        "Player Weight": 83,
+        "Player Nationality": "Bosnia and Herzegovina",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Andrew",
+        "Player Lname": "Lonergan",
+        "Player Age": 40,
+        "Player Height": 192,
+        "Player Weight": 87,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Jonjoe",
+        "Player Lname": "Kenny",
+        "Player Age": 26,
+        "Player Height": 176,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Mason",
+        "Player Lname": "Holgate",
+        "Player Age": 27,
+        "Player Height": 184,
+        "Player Weight": 63,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Michael",
+        "Player Lname": "Keane",
+        "Player Age": 31,
+        "Player Height": 188,
+        "Player Weight": 84,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Lucas",
+        "Player Lname": "Digne",
+        "Player Age": 30,
+        "Player Height": 178,
+        "Player Weight": 74,
+        "Player Nationality": "France",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Yerry",
+        "Player Lname": "Gonz\u00e1lez",
+        "Player Age": 29,
+        "Player Height": 195,
+        "Player Weight": 89,
+        "Player Nationality": "Colombia",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Niels",
+        "Player Lname": "Nkounkou",
+        "Player Age": 23,
+        "Player Height": 180,
+        "Player Weight": 74,
+        "Player Nationality": "France",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Benjamin",
+        "Player Lname": "Godfrey",
+        "Player Age": 26,
+        "Player Height": 183,
+        "Player Weight": 74,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Seamus",
+        "Player Lname": "Coleman",
+        "Player Age": 35,
+        "Player Height": 177,
+        "Player Weight": 67,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Ryan",
+        "Player Lname": "Astley",
+        "Player Age": 22,
+        "Player Height": 184,
+        "Player Weight": 0,
+        "Player Nationality": "Wales",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Nathan",
+        "Player Lname": "Patterson",
+        "Player Age": 22,
+        "Player Height": 189,
+        "Player Weight": 83,
+        "Player Nationality": "Scotland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jarrad",
+        "Player Lname": "Branthwaite",
+        "Player Age": 21,
+        "Player Height": 195,
+        "Player Weight": 87,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Reece",
+        "Player Lname": "Welch",
+        "Player Age": 20,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Vitaliy",
+        "Player Lname": "Mykolenko",
+        "Player Age": 24,
+        "Player Height": 180,
+        "Player Weight": 71,
+        "Player Nationality": "Ukraine",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Fabian",
+        "Player Lname": "Delph",
+        "Player Age": 34,
+        "Player Height": 174,
+        "Player Weight": 60,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Allan",
+        "Player Lname": "Loureiro",
+        "Player Age": 33,
+        "Player Height": 175,
+        "Player Weight": 68,
+        "Player Nationality": "Brazil",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Abdoulaye",
+        "Player Lname": "Doucour\u00e9",
+        "Player Age": 31,
+        "Player Height": 183,
+        "Player Weight": 77,
+        "Player Nationality": "Mali",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Thomas",
+        "Player Lname": "Davies",
+        "Player Age": 25,
+        "Player Height": 180,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Isaac",
+        "Player Lname": "Price",
+        "Player Age": 20,
+        "Player Height": 182,
+        "Player Weight": 79,
+        "Player Nationality": "Northern Ireland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Tyler",
+        "Player Lname": "Onyango",
+        "Player Age": 21,
+        "Player Height": 190,
+        "Player Weight": 76,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Jean-Philippe",
+        "Player Lname": "Gbamin",
+        "Player Age": 28,
+        "Player Height": 186,
+        "Player Weight": 83,
+        "Player Nationality": "Ivory Coast",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Bamidele",
+        "Player Lname": "Alli",
+        "Player Age": 27,
+        "Player Height": 188,
+        "Player Weight": 80,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Charlie",
+        "Player Lname": "Whitaker",
+        "Player Age": 20,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Andr\u00e9",
+        "Player Lname": "Gomes",
+        "Player Age": 30,
+        "Player Height": 188,
+        "Player Weight": 80,
+        "Player Nationality": "Portugal",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Donny",
+        "Player Lname": "Beek",
+        "Player Age": 26,
+        "Player Height": 184,
+        "Player Weight": 77,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Alexander",
+        "Player Lname": "Iwobi",
+        "Player Age": 27,
+        "Player Height": 183,
+        "Player Weight": 77,
+        "Player Nationality": "Nigeria",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Moise",
+        "Player Lname": "Kean",
+        "Player Age": 24,
+        "Player Height": 183,
+        "Player Weight": 78,
+        "Player Nationality": "Italy",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Lewis",
+        "Player Lname": "Dobbin",
+        "Player Age": 21,
+        "Player Height": 175,
+        "Player Weight": 68,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Andros",
+        "Player Lname": "Townsend",
+        "Player Age": 32,
+        "Player Height": 181,
+        "Player Weight": 77,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Anwar",
+        "Player Lname": "El-Ghazi",
+        "Player Age": 28,
+        "Player Height": 189,
+        "Player Weight": 83,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Dominic",
+        "Player Lname": "Calvert-Lewin",
+        "Player Age": 26,
+        "Player Height": 189,
+        "Player Weight": 76,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Cenk",
+        "Player Lname": "Tosun",
+        "Player Age": 32,
+        "Player Height": 183,
+        "Player Weight": 75,
+        "Player Nationality": "Turkey",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jos\u00e9",
+        "Player Lname": "Gim\u00e9nez",
+        "Player Age": 34,
+        "Player Height": 189,
+        "Player Weight": 84,
+        "Player Nationality": "Venezuela",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Ellis",
+        "Player Lname": "Simms",
+        "Player Age": 23,
+        "Player Height": 191,
+        "Player Weight": 83,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Demarai",
+        "Player Lname": "Gray",
+        "Player Age": 27,
+        "Player Height": 183,
+        "Player Weight": 69,
+        "Player Nationality": "Jamaica",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Anthony",
+        "Player Lname": "Gordon",
+        "Player Age": 23,
+        "Player Height": 182,
+        "Player Weight": 69,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Richarlison",
+        "Player Lname": "Andrade",
+        "Player Age": 26,
+        "Player Height": 184,
+        "Player Weight": 78,
+        "Player Nationality": "Brazil",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Illan",
+        "Player Lname": "Meslier",
+        "Player Age": 24,
+        "Player Height": 197,
+        "Player Weight": 84,
+        "Player Nationality": "France",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Kristoffer-August",
+        "Player Lname": "Klaesson",
+        "Player Age": 23,
+        "Player Height": 189,
+        "Player Weight": 92,
+        "Player Nationality": "Norway",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Luke",
+        "Player Lname": "Ayling",
+        "Player Age": 32,
+        "Player Height": 183,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "H\u00e9ctor",
+        "Player Lname": "Adam\u00e9s",
+        "Player Age": 27,
+        "Player Height": 184,
+        "Player Weight": 74,
+        "Player Nationality": "Spain",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Liam",
+        "Player Lname": "Cooper",
+        "Player Age": 32,
+        "Player Height": 186,
+        "Player Weight": 80,
+        "Player Nationality": "Scotland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Diego",
+        "Player Lname": "R\u00edos",
+        "Player Age": 30,
+        "Player Height": 186,
+        "Player Weight": 76,
+        "Player Nationality": "Spain",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Stuart",
+        "Player Lname": "Dallas",
+        "Player Age": 32,
+        "Player Height": 183,
+        "Player Weight": 80,
+        "Player Nationality": "Northern Ireland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Pascal",
+        "Player Lname": "Struijk",
+        "Player Age": 24,
+        "Player Height": 190,
+        "Player Weight": 82,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Leo",
+        "Player Lname": "Hjelde",
+        "Player Age": 20,
+        "Player Height": 190,
+        "Player Weight": 82,
+        "Player Nationality": "Norway",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Cody",
+        "Player Lname": "Drameh",
+        "Player Age": 22,
+        "Player Height": 175,
+        "Player Weight": 73,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Kristan",
+        "Player Lname": "Moore",
+        "Player Age": 20,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jamie",
+        "Player Lname": "Shackleton",
+        "Player Age": 24,
+        "Player Height": 168,
+        "Player Weight": 63,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Robin",
+        "Player Lname": "Koch",
+        "Player Age": 27,
+        "Player Height": 192,
+        "Player Weight": 85,
+        "Player Nationality": "Germany",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Charlie",
+        "Player Lname": "Cresswell",
+        "Player Age": 21,
+        "Player Height": 190,
+        "Player Weight": 86,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Kalvin",
+        "Player Lname": "Phillips",
+        "Player Age": 28,
+        "Player Height": 179,
+        "Player Weight": 77,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Lewis",
+        "Player Lname": "Bate",
+        "Player Age": 21,
+        "Player Height": 172,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Stuart",
+        "Player Lname": "McKinstry",
+        "Player Age": 21,
+        "Player Height": 179,
+        "Player Weight": 0,
+        "Player Nationality": "Scotland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Mateusz",
+        "Player Lname": "Klich",
+        "Player Age": 33,
+        "Player Height": 183,
+        "Player Weight": 75,
+        "Player Nationality": "Poland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Jack",
+        "Player Lname": "Jenkins",
+        "Player Age": 22,
+        "Player Height": 190,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Jordan",
+        "Player Lname": "Stevens",
+        "Player Age": 23,
+        "Player Height": 178,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Nohan",
+        "Player Lname": "Kenneh",
+        "Player Age": 21,
+        "Player Height": 190,
+        "Player Weight": 0,
+        "Player Nationality": "Liberia",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Adam",
+        "Player Lname": "Forshaw",
+        "Player Age": 32,
+        "Player Height": 185,
+        "Player Weight": 71,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Raphael",
+        "Player Lname": "Belloli",
+        "Player Age": 27,
+        "Player Height": 176,
+        "Player Weight": 66,
+        "Player Nationality": "Brazil",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "H\u00e9lder",
+        "Player Lname": "Costa",
+        "Player Age": 30,
+        "Player Height": 179,
+        "Player Weight": 66,
+        "Player Nationality": "Portugal",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jack",
+        "Player Lname": "Harrison",
+        "Player Age": 27,
+        "Player Height": 175,
+        "Player Weight": 69,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Samuel",
+        "Player Lname": "Greenwood",
+        "Player Age": 22,
+        "Player Height": 180,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Liam",
+        "Player Lname": "McCarron",
+        "Player Age": 23,
+        "Player Height": 176,
+        "Player Weight": 61,
+        "Player Nationality": "Scotland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Archie",
+        "Player Lname": "Gray",
+        "Player Age": 18,
+        "Player Height": 185,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Daniel",
+        "Player Lname": "James",
+        "Player Age": 26,
+        "Player Height": 171,
+        "Player Weight": 66,
+        "Player Nationality": "Wales",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Crysencio",
+        "Player Lname": "Summerville",
+        "Player Age": 22,
+        "Player Height": 174,
+        "Player Weight": 64,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Patrick",
+        "Player Lname": "Bamford",
+        "Player Age": 30,
+        "Player Height": 185,
+        "Player Weight": 71,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Joseph",
+        "Player Lname": "Gelhardt",
+        "Player Age": 21,
+        "Player Height": 179,
+        "Player Weight": 72,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Tyler",
+        "Player Lname": "Roberts",
+        "Player Age": 25,
+        "Player Height": 180,
+        "Player Weight": 75,
+        "Player Nationality": "Wales",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Rodrigo",
+        "Player Lname": "Machado",
+        "Player Age": 33,
+        "Player Height": 182,
+        "Player Weight": 72,
+        "Player Nationality": "Spain",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Nicholas",
+        "Player Lname": "Pope",
+        "Player Age": 31,
+        "Player Height": 191,
+        "Player Weight": 76,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Wayne",
+        "Player Lname": "Hennessey",
+        "Player Age": 37,
+        "Player Height": 198,
+        "Player Weight": 85,
+        "Player Nationality": "Wales",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "William",
+        "Player Lname": "Norris",
+        "Player Age": 30,
+        "Player Height": 195,
+        "Player Weight": 74,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Sam",
+        "Player Lname": "Waller",
+        "Player Age": 20,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Connor",
+        "Player Lname": "Roberts",
+        "Player Age": 28,
+        "Player Height": 175,
+        "Player Weight": 70,
+        "Player Nationality": "Wales",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Phillip",
+        "Player Lname": "Bardsley",
+        "Player Age": 38,
+        "Player Height": 180,
+        "Player Weight": 77,
+        "Player Nationality": "Scotland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Kevin",
+        "Player Lname": "Long",
+        "Player Age": 33,
+        "Player Height": 188,
+        "Player Weight": 83,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Bobby",
+        "Player Lname": "Thomas",
+        "Player Age": 23,
+        "Player Height": 186,
+        "Player Weight": 77,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Owen",
+        "Player Lname": "Dodgson",
+        "Player Age": 20,
+        "Player Height": 178,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Matthew",
+        "Player Lname": "Lowton",
+        "Player Age": 34,
+        "Player Height": 180,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "James",
+        "Player Lname": "Tarkowski",
+        "Player Age": 31,
+        "Player Height": 185,
+        "Player Weight": 80,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Benjamin",
+        "Player Lname": "Mee",
+        "Player Age": 34,
+        "Player Height": 180,
+        "Player Weight": 74,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Nathan",
+        "Player Lname": "Collins",
+        "Player Age": 22,
+        "Player Height": 193,
+        "Player Weight": 83,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Charles",
+        "Player Lname": "Taylor",
+        "Player Age": 30,
+        "Player Height": 176,
+        "Player Weight": 72,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Erik",
+        "Player Lname": "Pieters",
+        "Player Age": 35,
+        "Player Height": 183,
+        "Player Weight": 84,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Dale",
+        "Player Lname": "Stephens",
+        "Player Age": 34,
+        "Player Height": 185,
+        "Player Weight": 79,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Ashley",
+        "Player Lname": "Westwood",
+        "Player Age": 33,
+        "Player Height": 174,
+        "Player Weight": 67,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Anthony",
+        "Player Lname": "Mancini",
+        "Player Age": 22,
+        "Player Height": 180,
+        "Player Weight": 68,
+        "Player Nationality": "France",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Dara",
+        "Player Lname": "Costelloe",
+        "Player Age": 21,
+        "Player Height": 175,
+        "Player Weight": 70,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Mark",
+        "Player Lname": "Helm",
+        "Player Age": 22,
+        "Player Height": 173,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Jack",
+        "Player Lname": "Cork",
+        "Player Age": 34,
+        "Player Height": 183,
+        "Player Weight": 69,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Joshua",
+        "Player Lname": "Brownhill",
+        "Player Age": 28,
+        "Player Height": 179,
+        "Player Weight": 74,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Mat\u011bj",
+        "Player Lname": "Vydra",
+        "Player Age": 31,
+        "Player Height": 180,
+        "Player Weight": 74,
+        "Player Nationality": "Czech Rep.",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Lewis",
+        "Player Lname": "Richardson",
+        "Player Age": 21,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Joseph",
+        "Player Lname": "McGlynn",
+        "Player Age": 21,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "Scotland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Aaron",
+        "Player Lname": "Lennon",
+        "Player Age": 36,
+        "Player Height": 165,
+        "Player Weight": 52,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "J\u00f3hann",
+        "Player Lname": "Gu\u00f0mundsson",
+        "Player Age": 33,
+        "Player Height": 186,
+        "Player Weight": 80,
+        "Player Nationality": "Iceland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Christopher",
+        "Player Lname": "Wood",
+        "Player Age": 32,
+        "Player Height": 191,
+        "Player Weight": 94,
+        "Player Nationality": "New Zealand",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Wout",
+        "Player Lname": "Weghorst",
+        "Player Age": 31,
+        "Player Height": 197,
+        "Player Weight": 91,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Ashley",
+        "Player Lname": "Barnes",
+        "Player Age": 34,
+        "Player Height": 186,
+        "Player Weight": 77,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jay",
+        "Player Lname": "Rodr\u00edguez",
+        "Player Age": 34,
+        "Player Height": 185,
+        "Player Weight": 80,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Dwight",
+        "Player Lname": "McNeil",
+        "Player Age": 24,
+        "Player Height": 183,
+        "Player Weight": 68,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Gnaly",
+        "Player Lname": "Cornet",
+        "Player Age": 27,
+        "Player Height": 179,
+        "Player Weight": 73,
+        "Player Nationality": "Ivory Coast",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Benjamin",
+        "Player Lname": "Foster",
+        "Player Age": 40,
+        "Player Height": 193,
+        "Player Weight": 88,
+        "Player Nationality": "England",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Daniel",
+        "Player Lname": "Bachmann",
+        "Player Age": 29,
+        "Player Height": 191,
+        "Player Weight": 81,
+        "Player Nationality": "Austria",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Robert",
+        "Player Lname": "Elliot",
+        "Player Age": 37,
+        "Player Height": 190,
+        "Player Weight": 98,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Vincent",
+        "Player Lname": "Angelini",
+        "Player Age": 20,
+        "Player Height": 186,
+        "Player Weight": 0,
+        "Player Nationality": "Scotland",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Matthew",
+        "Player Lname": "Pollock",
+        "Player Age": 22,
+        "Player Height": 190,
+        "Player Weight": 80,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Marc",
+        "Player Lname": "Ceciliano",
+        "Player Age": 28,
+        "Player Height": 188,
+        "Player Weight": 80,
+        "Player Nationality": "Spain",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Derek",
+        "Player Lname": "Agyakwa",
+        "Player Age": 22,
+        "Player Height": 184,
+        "Player Weight": 0,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jeremy",
+        "Player Lname": "Ngakia",
+        "Player Age": 23,
+        "Player Height": 182,
+        "Player Weight": 77,
+        "Player Nationality": "DR Congo",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "William",
+        "Player Lname": "Troost-Ekong",
+        "Player Age": 30,
+        "Player Height": 191,
+        "Player Weight": 84,
+        "Player Nationality": "Nigeria",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Nicolas",
+        "Player Lname": "Ndoubena",
+        "Player Age": 33,
+        "Player Height": 184,
+        "Player Weight": 78,
+        "Player Nationality": "Cameroon",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Craig",
+        "Player Lname": "Cathcart",
+        "Player Age": 35,
+        "Player Height": 189,
+        "Player Weight": 82,
+        "Player Nationality": "Northern Ireland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Samir",
+        "Player Lname": "Santos",
+        "Player Age": 29,
+        "Player Height": 188,
+        "Player Weight": 70,
+        "Player Nationality": "Brazil",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Christian",
+        "Player Lname": "Kabasele",
+        "Player Age": 33,
+        "Player Height": 187,
+        "Player Weight": 82,
+        "Player Nationality": "Belgium",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Francisco",
+        "Player Lname": "Carvallo",
+        "Player Age": 26,
+        "Player Height": 190,
+        "Player Weight": 83,
+        "Player Nationality": "Chile",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Daniel",
+        "Player Lname": "Rose",
+        "Player Age": 33,
+        "Player Height": 173,
+        "Player Weight": 72,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Adam",
+        "Player Lname": "Masina",
+        "Player Age": 30,
+        "Player Height": 189,
+        "Player Weight": 78,
+        "Player Nationality": "Morocco",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Hassane",
+        "Player Lname": "Kamara",
+        "Player Age": 30,
+        "Player Height": 170,
+        "Player Weight": 63,
+        "Player Nationality": "Ivory Coast",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Francisco",
+        "Player Lname": "Far",
+        "Player Age": 33,
+        "Player Height": 171,
+        "Player Weight": 68,
+        "Player Nationality": "Spain",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "James",
+        "Player Lname": "Morris",
+        "Player Age": 22,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Edouard",
+        "Player Lname": "Kayembe",
+        "Player Age": 25,
+        "Player Height": 183,
+        "Player Weight": 77,
+        "Player Nationality": "DR Congo",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Kamil",
+        "Player Lname": "Conteh",
+        "Player Age": 21,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "Sierra Leone",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Adrian",
+        "Player Lname": "Blake",
+        "Player Age": 18,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Oghenekaro",
+        "Player Lname": "Etebo",
+        "Player Age": 28,
+        "Player Height": 174,
+        "Player Weight": 74,
+        "Player Nationality": "Nigeria",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Imr\u00e2n",
+        "Player Lname": "Louza",
+        "Player Age": 24,
+        "Player Height": 178,
+        "Player Weight": 70,
+        "Player Nationality": "Morocco",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Thomas",
+        "Player Lname": "Cleverley",
+        "Player Age": 34,
+        "Player Height": 175,
+        "Player Weight": 70,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Daniel",
+        "Player Lname": "Gosling",
+        "Player Age": 34,
+        "Player Height": 180,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Ozan",
+        "Player Lname": "Tufan",
+        "Player Age": 28,
+        "Player Height": 179,
+        "Player Weight": 70,
+        "Player Nationality": "Turkey",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Moussa",
+        "Player Lname": "Sissoko",
+        "Player Age": 34,
+        "Player Height": 187,
+        "Player Weight": 90,
+        "Player Nationality": "France",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Juraj",
+        "Player Lname": "Kucka",
+        "Player Age": 37,
+        "Player Height": 186,
+        "Player Weight": 81,
+        "Player Nationality": "Slovakia",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Jaime",
+        "Player Lname": "Hoyos",
+        "Player Age": 24,
+        "Player Height": 180,
+        "Player Weight": 76,
+        "Player Nationality": "Colombia",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Troy",
+        "Player Lname": "Deeney",
+        "Player Age": 35,
+        "Player Height": 183,
+        "Player Weight": 90,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Kwadwo",
+        "Player Lname": "Baah",
+        "Player Age": 21,
+        "Player Height": 180,
+        "Player Weight": 75,
+        "Player Nationality": "Germany",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Shaqai",
+        "Player Lname": "Forde",
+        "Player Age": 19,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jack",
+        "Player Lname": "Grieves",
+        "Player Age": 19,
+        "Player Height": 0,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Isma\u00efla",
+        "Player Lname": "Sarr",
+        "Player Age": 26,
+        "Player Height": 185,
+        "Player Weight": 68,
+        "Player Nationality": "Senegal",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jo\u00e3o",
+        "Player Lname": "Jesus",
+        "Player Age": 22,
+        "Player Height": 182,
+        "Player Weight": 74,
+        "Player Nationality": "Brazil",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Emmanuel",
+        "Player Lname": "Dennis",
+        "Player Age": 26,
+        "Player Height": 174,
+        "Player Weight": 67,
+        "Player Nationality": "Nigeria",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Juan",
+        "Player Lname": "Su\u00e1rez",
+        "Player Age": 24,
+        "Player Height": 176,
+        "Player Weight": 72,
+        "Player Nationality": "Colombia",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Ken",
+        "Player Lname": "Sema",
+        "Player Age": 30,
+        "Player Height": 177,
+        "Player Weight": 69,
+        "Player Nationality": "Sweden",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Ashley",
+        "Player Lname": "Fletcher",
+        "Player Age": 28,
+        "Player Height": 185,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Samuel",
+        "Player Lname": "Ojim",
+        "Player Age": 26,
+        "Player Height": 176,
+        "Player Weight": 74,
+        "Player Nationality": "Nigeria",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Joshua",
+        "Player Lname": "King",
+        "Player Age": 32,
+        "Player Height": 181,
+        "Player Weight": 71,
+        "Player Nationality": "Norway",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Timothy",
+        "Player Lname": "Krul",
+        "Player Age": 35,
+        "Player Height": 193,
+        "Player Weight": 86,
+        "Player Nationality": "Netherlands",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Angus",
+        "Player Lname": "Gunn",
+        "Player Age": 28,
+        "Player Height": 196,
+        "Player Weight": 77,
+        "Player Nationality": "Scotland",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Michael",
+        "Player Lname": "McGovern",
+        "Player Age": 39,
+        "Player Height": 191,
+        "Player Weight": 89,
+        "Player Nationality": "Northern Ireland",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Jon",
+        "Player Lname": "McCracken",
+        "Player Age": 23,
+        "Player Height": 185,
+        "Player Weight": 77,
+        "Player Nationality": "Scotland",
+        "Player Position": "Goalkeeper"
+    },
+    {
+        "Player Fname": "Maximillian",
+        "Player Lname": "Aarons",
+        "Player Age": 24,
+        "Player Height": 171,
+        "Player Weight": 66,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Samuel",
+        "Player Lname": "Byram",
+        "Player Age": 30,
+        "Player Height": 183,
+        "Player Weight": 75,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Christoph",
+        "Player Lname": "Zimmermann",
+        "Player Age": 31,
+        "Player Height": 194,
+        "Player Weight": 87,
+        "Player Nationality": "Germany",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Bali",
+        "Player Lname": "Mumba",
+        "Player Age": 22,
+        "Player Height": 168,
+        "Player Weight": 61,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jonathan",
+        "Player Lname": "Rowe",
+        "Player Age": 20,
+        "Player Height": 173,
+        "Player Weight": 67,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Benjamin",
+        "Player Lname": "Gibson",
+        "Player Age": 31,
+        "Player Height": 185,
+        "Player Weight": 78,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Grant",
+        "Player Lname": "Hanley",
+        "Player Age": 32,
+        "Player Height": 188,
+        "Player Weight": 76,
+        "Player Nationality": "Scotland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Ozan",
+        "Player Lname": "Kabak",
+        "Player Age": 23,
+        "Player Height": 186,
+        "Player Weight": 83,
+        "Player Nationality": "Turkey",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Andrew",
+        "Player Lname": "Omobamidele",
+        "Player Age": 21,
+        "Player Height": 188,
+        "Player Weight": 78,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Brandon",
+        "Player Lname": "Williams",
+        "Player Age": 23,
+        "Player Height": 171,
+        "Player Weight": 63,
+        "Player Nationality": "England",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Dimitrios",
+        "Player Lname": "Giannoulis",
+        "Player Age": 28,
+        "Player Height": 175,
+        "Player Weight": 62,
+        "Player Nationality": "Greece",
+        "Player Position": "Defender"
+    },
+    {
+        "Player Fname": "Jonathan",
+        "Player Lname": "Tomkinson",
+        "Player Age": 21,
+        "Player Height": 190,
+        "Player Weight": 0,
+        "Player Nationality": "United States of America",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Liam",
+        "Player Lname": "Gibbs",
+        "Player Age": 21,
+        "Player Height": 178,
+        "Player Weight": 71,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Mathias",
+        "Player Lname": "Normann",
+        "Player Age": 27,
+        "Player Height": 179,
+        "Player Weight": 75,
+        "Player Nationality": "Norway",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Jakob",
+        "Player Lname": "S\u00f8rensen",
+        "Player Age": 26,
+        "Player Height": 184,
+        "Player Weight": 77,
+        "Player Nationality": "Denmark",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Tom",
+        "Player Lname": "Trybull",
+        "Player Age": 31,
+        "Player Height": 181,
+        "Player Weight": 72,
+        "Player Nationality": "Germany",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Kieran",
+        "Player Lname": "Dowell",
+        "Player Age": 26,
+        "Player Height": 175,
+        "Player Weight": 59,
+        "Player Nationality": "England",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Lukas",
+        "Player Lname": "Rupp",
+        "Player Age": 33,
+        "Player Height": 178,
+        "Player Weight": 73,
+        "Player Nationality": "Germany",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Billy",
+        "Player Lname": "Gilmour",
+        "Player Age": 22,
+        "Player Height": 170,
+        "Player Weight": 63,
+        "Player Nationality": "Scotland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Pierre",
+        "Player Lname": "Lees-Melou",
+        "Player Age": 30,
+        "Player Height": 185,
+        "Player Weight": 73,
+        "Player Nationality": "France",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Kenneth",
+        "Player Lname": "McLean",
+        "Player Age": 32,
+        "Player Height": 183,
+        "Player Weight": 70,
+        "Player Nationality": "Scotland",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Milot",
+        "Player Lname": "Rashica",
+        "Player Age": 27,
+        "Player Height": 178,
+        "Player Weight": 70,
+        "Player Nationality": "Kosovo",
+        "Player Position": "Midfielder"
+    },
+    {
+        "Player Fname": "Abu",
+        "Player Lname": "Kamara",
+        "Player Age": 20,
+        "Player Height": 183,
+        "Player Weight": 0,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Thomas",
+        "Player Lname": "Dickson-Peters",
+        "Player Age": 21,
+        "Player Height": 172,
+        "Player Weight": 0,
+        "Player Nationality": "Scotland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Tony",
+        "Player Lname": "Springett",
+        "Player Age": 21,
+        "Player Height": 174,
+        "Player Weight": 0,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Przemys\u0142aw",
+        "Player Lname": "P\u0142acheta",
+        "Player Age": 25,
+        "Player Height": 177,
+        "Player Weight": 72,
+        "Player Nationality": "Poland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Jordan",
+        "Player Lname": "Hugill",
+        "Player Age": 31,
+        "Player Height": 183,
+        "Player Weight": 64,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Teemu",
+        "Player Lname": "Pukki",
+        "Player Age": 33,
+        "Player Height": 180,
+        "Player Weight": 75,
+        "Player Nationality": "Finland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Adam",
+        "Player Lname": "Idah",
+        "Player Age": 23,
+        "Player Height": 190,
+        "Player Weight": 86,
+        "Player Nationality": "Rep. of Ireland",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Todd",
+        "Player Lname": "Cantwell",
+        "Player Age": 26,
+        "Player Height": 180,
+        "Player Weight": 75,
+        "Player Nationality": "England",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Christos",
+        "Player Lname": "Tzolis",
+        "Player Age": 22,
+        "Player Height": 175,
+        "Player Weight": 68,
+        "Player Nationality": "Greece",
+        "Player Position": "Forward"
+    },
+    {
+        "Player Fname": "Joshua",
+        "Player Lname": "Sargent",
+        "Player Age": 24,
+        "Player Height": 185,
+        "Player Weight": 79,
+        "Player Nationality": "United States of America",
+        "Player Position": "Forward"
+    }
+]

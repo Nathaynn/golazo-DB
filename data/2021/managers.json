@@ -1,0 +1,122 @@
+[
+    {
+        "Manager Fname": "Josep",
+        "Manager Lname": "Sala",
+        "Manager Age": 53,
+        "Player Nationality": "Spain"
+    },
+    {
+        "Manager Fname": "J\u00fcrgen",
+        "Manager Lname": "Klopp",
+        "Manager Age": 56,
+        "Player Nationality": "Germany"
+    },
+    {
+        "Manager Fname": "Thomas",
+        "Manager Lname": "Tuchel",
+        "Manager Age": 50,
+        "Player Nationality": "Germany"
+    },
+    {
+        "Manager Fname": "Nuno",
+        "Manager Lname": "Santo",
+        "Manager Age": 50,
+        "Player Nationality": "Portugal"
+    },
+    {
+        "Manager Fname": "Mikel",
+        "Manager Lname": "Arteta",
+        "Manager Age": 41,
+        "Player Nationality": "Spain"
+    },
+    {
+        "Manager Fname": "Ole",
+        "Manager Lname": "Solskjaer",
+        "Manager Age": 51,
+        "Player Nationality": "Norway"
+    },
+    {
+        "Manager Fname": "David",
+        "Manager Lname": "Moyes",
+        "Manager Age": 60,
+        "Player Nationality": "Scotland"
+    },
+    {
+        "Manager Fname": "Brendan",
+        "Manager Lname": "Rodgers",
+        "Manager Age": 51,
+        "Player Nationality": "Northern Ireland"
+    },
+    {
+        "Manager Fname": "Graham",
+        "Manager Lname": "Potter",
+        "Manager Age": 48,
+        "Player Nationality": "England"
+    },
+    {
+        "Manager Fname": "Bruno",
+        "Manager Lname": "Nascimento",
+        "Manager Age": 47,
+        "Player Nationality": "Portugal"
+    },
+    {
+        "Manager Fname": "Stephen",
+        "Manager Lname": "Bruce",
+        "Manager Age": 63,
+        "Player Nationality": "England"
+    },
+    {
+        "Manager Fname": "Patrick",
+        "Manager Lname": "Vieira",
+        "Manager Age": 47,
+        "Player Nationality": "France"
+    },
+    {
+        "Manager Fname": "Thomas",
+        "Manager Lname": "Frank",
+        "Manager Age": 50,
+        "Player Nationality": "Denmark"
+    },
+    {
+        "Manager Fname": "Dean",
+        "Manager Lname": "Smith",
+        "Manager Age": 52,
+        "Player Nationality": "England"
+    },
+    {
+        "Manager Fname": "Ralph",
+        "Manager Lname": "Hasenh\u00fcttl",
+        "Manager Age": 56,
+        "Player Nationality": "Austria"
+    },
+    {
+        "Manager Fname": "Frank",
+        "Manager Lname": "Lampard",
+        "Manager Age": 45,
+        "Player Nationality": "England"
+    },
+    {
+        "Manager Fname": "Marcelo",
+        "Manager Lname": "Caldera",
+        "Manager Age": 68,
+        "Player Nationality": "Argentina"
+    },
+    {
+        "Manager Fname": "Sean",
+        "Manager Lname": "Dyche",
+        "Manager Age": 52,
+        "Player Nationality": "England"
+    },
+    {
+        "Manager Fname": "Francisco",
+        "Manager Lname": "Llompart",
+        "Manager Age": 43,
+        "Player Nationality": "Spain"
+    },
+    {
+        "Manager Fname": "Daniel",
+        "Manager Lname": "Farke",
+        "Manager Age": 47,
+        "Player Nationality": "Germany"
+    }
+]
