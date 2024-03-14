@@ -102,7 +102,7 @@ def generate_all_playerstuff():
     # players shouldn't be too much of a concern
     
     # Iterate through ids (start from ID = 1001)
-    player_statements = "%* PLAYERS *%\n\nALTER TABLE PLAYER AUTO_INCREMENT = 1001;\n"
+    player_statements = "/* PLAYERS */\n\nALTER TABLE PLAYER AUTO_INCREMENT = 1001;\n"
     for i in data_id.keys():
         name = str(i).split()
         fname = name[0]
@@ -113,7 +113,7 @@ def generate_all_playerstuff():
                 break
     
     # Iterate through player_history
-    player_statements += '%* PLAYER_HISTORY *% \n\n'
+    player_statements += '/* PLAYER_HISTORY */ \n\n'
     file_ph = open_json('./data/player_history.json', 'r')
     data_ph = json.load(file_ph)
     close_json(file_ph)
@@ -160,7 +160,7 @@ def generate_all_managerstuff():
             unique_managers.append(i)
     
     # Iterate through ids (start from ID = 1)
-    manager_statements = "%* MANAGERS *% \n\nALTER TABLE MANAGER AUTO_INCREMENT = 1;\n"
+    manager_statements = "/* MANAGERS */ \n\nALTER TABLE MANAGER AUTO_INCREMENT = 1;\n"
     for i in data_id.keys():
         name = str(i).split()
         fname = name[0]
@@ -172,7 +172,7 @@ def generate_all_managerstuff():
                 break
     
     # Iterate through manager_history
-    manager_statements += '%* MANAGER_HISTORY *% \n\n'
+    manager_statements += '/* MANAGER_HISTORY */ \n\n'
     file_ph = open_json('./data/manager_history.json', 'r')
     data_ph = json.load(file_ph)
     close_json(file_ph)
@@ -203,7 +203,7 @@ def generate_all_matchstuff():
     
     data = data_2020 + data_2021 + data_2022
 
-    match_statements = '%* MATCHES *% \n\nALTER TABLE MATCH AUTO_INCREMENT= 10001; \n'
+    match_statements = '/* MATCHES */ \n\nALTER TABLE MATCH AUTO_INCREMENT= 10001; \n'
     for i in data:
         match_statements += gen_match_insert(i['Home Team'], i['Away Team'], i['League'], i['Season'].replace("/", "-"), i['Home Score'], i['Away Score'], i['Game Date']) + '\n'
 
@@ -223,7 +223,7 @@ def generate_all_teamstuff():
     data = data + data_2 + data_3
     close_json(file)
     close_json(file_2)
-    team_statements = '%* TEAMS *% \n\n'
+    team_statements = '/* TEAMS */ \n\n'
     teams = []
     for i in data:
         if i['Team Name'] not in teams:
