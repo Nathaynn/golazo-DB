@@ -66,6 +66,6 @@ I wrote this code for a class project, not for reliable real-life usage. While t
 
 - **Unexpected Behavior**: Due to changes in the website structure or data presentation on PlaymakerStats, the scraper may encounter unexpected behavior or errors during the scraping process. This could result in incomplete or inaccurate data being scraped.
 
-- **Bugs and Limitations**: The scraper may contain bugs or limitations that affect its functionality, such as failure to handle certain edge cases. These issues are actively being addressed, but users may encounter them while using the tool.
+- **Bugs and Limitations**: The scraper may contain bugs or limitations that affect its functionality, such as failure to handle certain edge cases.
 
 
