@@ -58,3 +58,14 @@ The scraped data includes the following information:
 - Manager History: Team managed for, season
 - Matches: Match date, home team, away team, final score, match date, league
 
+## Known Issues and Unsupported Instances
+
+I wrote this code for a class project, not for reliable real-life usage. While the web scraper is designed to handle various football leagues and seasons, there may be instances where certain leagues or seasons are not supported or encountered unexpected issues. Here are some known issues and unsupported instances:
+
+- **Unsupported Leagues**: Some football leagues may have unique formatting or structures that are not currently supported by the web scraper. As a result, scraping data for these leagues may not yield accurate results. Espicially with leagues that are currently being played.
+
+- **Unexpected Behavior**: Due to changes in the website structure or data presentation on PlaymakerStats, the scraper may encounter unexpected behavior or errors during the scraping process. This could result in incomplete or inaccurate data being scraped.
+
+- **Bugs and Limitations**: The scraper may contain bugs or limitations that affect its functionality, such as failure to handle certain edge cases. These issues are actively being addressed, but users may encounter them while using the tool.
+
+
