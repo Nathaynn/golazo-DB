@@ -27,7 +27,7 @@ I created this web scraper to simplify the process of gathering football data ne
     ```
 ## Usage
 
-To use the PlaymakerStats web scraper, follow these steps:
+To use the web scraper, follow these steps:
 
 1. Open `generate_json.py` in your preferred text editor.
 
