@@ -9777,4 +9777,18 @@ INSERT INTO LEAGUE_SEASON VALUES("2020-2021", "La Liga", "2020-09-12", "2021-05-
 INSERT INTO LEAGUE_SEASON VALUES("2021-2022", "La Liga", "2021-09-13", "2022-05-22");
 INSERT INTO LEAGUE_SEASON VALUES("2022-2023", "La Liga", "2022-09-12", "2023-06-04");
 
+/* Leagues */
+INSERT INTO LEAGUE (league_name, league_country, league_governing_body, league_founded) VALUES
+('Premier League', 'England', 'FAPL', '1992-02-20'),
+('Bundesliga', 'Germany', 'DFB', '1962-07-28'),
+('La Liga', 'Spain', 'LFP', '1929-02-10'),
+('Serie A', 'Italy', 'UEFA', '1898-03-16'),
+('Ligue 1', 'France', 'LFP', '1932-09-11');
+
+/* Match Result */
+INSERT INTO MATCH_RESULT VALUES 
+("Win", 3),
+("Draw", 1),
+("Loss", 0);
+
 SET FOREIGN_KEY_CHECKS=1;
